@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 26
 module: "Module 2"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Srimad_Bhagavatam/Others/IDS_SB_-_Essence_of_Gita_-_2007-03-16.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Srimad_Bhagavatam/Others/IDS_SB_-_Essence_of_Gita_-_2007-03-16.mp3"
@@ -17,7 +17,7 @@ tags: ["self-realization", "reincarnation", "the soul", "holy name", "material i
 
 # Essence of Gita
 
-**His Holiness Indradyumna Swami** · Week 26 ·  · 39:14
+**His Holiness Indradyumna Swami** · Week 26 · Foundations in Bhakti · 39:14
 
 **Themes:** self-realization · reincarnation · the soul · holy name · material illusion · chanting
 

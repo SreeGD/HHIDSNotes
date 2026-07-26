@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 44
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: ""
 source_url: "https://narottam.com/2019/05/disciple-means-discipline/"
 audio_url: "https://narottam.com/podpress_trac/web/7090/0/Indradyumna-Swami-2019-05-19-UKR-Disciple-Means-Discipline.mp3"

@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 42
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "YouTube"
 source_url: "https://m.youtube.com/watch?v=cpoBTJZ8Dn8&t=3314s&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"
 audio_url: "https://m.youtube.com/watch?v=cpoBTJZ8Dn8&t=3314s&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"
@@ -17,7 +17,7 @@ tags: ["New Year resolutions", "keeping vows", "not watering down tradition", "r
 
 # New Year Resolution
 
-**His Holiness Indradyumna Swami** · Week 42 ·  · 1:50:17
+**His Holiness Indradyumna Swami** · Week 42 · Foundations in Bhakti · 1:50:17
 
 **Themes:** New Year resolutions · keeping vows · not watering down tradition · reciprocal love · higher taste · avoiding procrastination
 

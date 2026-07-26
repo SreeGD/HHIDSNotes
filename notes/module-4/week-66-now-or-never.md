@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 66
 module: "Module 4"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Now_or_never_-_08-04-24_Pennsylvania-USA.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Now_or_never_-_08-04-24_Pennsylvania-USA.mp3"
@@ -17,7 +17,7 @@ tags: ["soul versus body", "reincarnation and karma", "vegetarianism and ahimsa"
 
 # Now or Never
 
-**His Holiness Indradyumna Swami** · Week 66 ·  · 2:14:00
+**His Holiness Indradyumna Swami** · Week 66 · Foundations in Bhakti · 2:14:00
 
 **Themes:** soul versus body · reincarnation and karma · vegetarianism and ahimsa · chanting the holy name · the bona fide guru · liberation (mukti)
 

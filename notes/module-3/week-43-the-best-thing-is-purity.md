@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 43
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-02/IDS_SB_02-09-39_-_The_Best_thing_is_Purity_-_1989-04-09_Durban.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-02/IDS_SB_02-09-39_-_The_Best_thing_is_Purity_-_1989-04-09_Durban.mp3"
@@ -17,7 +17,7 @@ tags: ["purity", "engaging the senses", "fault-finding", "humility and gratitude
 
 # The best thing is purity
 
-**His Holiness Indradyumna Swami** · Week 43 ·  · 1:03:45
+**His Holiness Indradyumna Swami** · Week 43 · Foundations in Bhakti · 1:03:45
 
 **Themes:** purity · engaging the senses · fault-finding · humility and gratitude · surrender to guru · compassion in preaching
 

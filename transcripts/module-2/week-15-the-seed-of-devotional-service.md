@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 15
 module: "Module 2"
-category: ""
+category: "Foundations in Bhakti"
 source: "ISKCON Desire Tree"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-15/IDS_BG_15-07_-_The_Seed_of_Devotional_Service_-_1989-06-02_Johannesburg.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-15/IDS_BG_15-07_-_The_Seed_of_Devotional_Service_-_1989-06-02_Johannesburg.mp3"

@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 27
 module: "Module 2"
-category: ""
+category: "Foundations in Bhakti"
 source: "Narottam.cp,"
 source_url: "https://narottam.com/2009/12/appreciating-devotees/"
 audio_url: "https://narottam.com/podpress_trac/web/387/0/Indradyumna-Swami-2009-12-20-SYD_Appreciating-Devotees.mp3"
@@ -17,7 +17,7 @@ tags: ["association of devotees", "sadhu-sanga", "bad association", "vaishnava q
 
 # Appreciating Devotees
 
-**His Holiness Indradyumna Swami** · Week 27 ·  · 1:21:17
+**His Holiness Indradyumna Swami** · Week 27 · Foundations in Bhakti · 1:21:17
 
 **Themes:** association of devotees · sadhu-sanga · bad association · vaishnava qualities · appreciation · chanting
 

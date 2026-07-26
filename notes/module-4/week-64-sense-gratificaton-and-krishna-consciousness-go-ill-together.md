@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 64
 module: "Module 4"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-02/IDS_SB_02-06-30_-_Sense_Gratification_and_Krishna_Consciousness_go_ill_Together_-_1988-10-05_Durban.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-02/IDS_SB_02-06-30_-_Sense_Gratification_and_Krishna_Consciousness_go_ill_Together_-_1988-10-05_Durban.mp3"
@@ -17,7 +17,7 @@ tags: ["material desire and purification", "sense gratification vs devotion", "m
 
 # Sense Gratificaton and Krishna consciousness go ill together
 
-**His Holiness Indradyumna Swami** · Week 64 ·  · 23:13
+**His Holiness Indradyumna Swami** · Week 64 · Foundations in Bhakti · 23:13
 
 **Themes:** material desire and purification · sense gratification vs devotion · maturity in devotion · pure devotion of the gopis · taking shelter · responsibility
 

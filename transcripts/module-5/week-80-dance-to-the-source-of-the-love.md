@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 80
 module: "Module 5"
-category: ""
+category: "Festivals and Kirtans"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Dance_to_the_Source_of_Love_-_2011-06-04_Seattle.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Dance_to_the_Source_of_Love_-_2011-06-04_Seattle.mp3"

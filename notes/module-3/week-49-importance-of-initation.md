@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 49
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "YT"
 source_url: "https://m.youtube.com/watch?v=noqoBtZINec&pp=ygUoSW5kcmFkeXVtbmEgc3dhbWkgcmVzaWRlbnRzIG9mIHZyaW5kYXZhbg%3D%3D"
 audio_url: "https://m.youtube.com/watch?v=noqoBtZINec&pp=ygUoSW5kcmFkeXVtbmEgc3dhbWkgcmVzaWRlbnRzIG9mIHZyaW5kYXZhbg%3D%3D"
@@ -17,7 +17,7 @@ tags: ["initiation", "serving the guru", "holy name", "material world as prison"
 
 # Importance of Initation
 
-**His Holiness Indradyumna Swami** · Week 49 ·  · 1:00:52
+**His Holiness Indradyumna Swami** · Week 49 · Foundations in Bhakti · 1:00:52
 
 **Themes:** initiation · serving the guru · holy name · material world as prison · brahminical qualities · kali-yuga mercy · chanting
 

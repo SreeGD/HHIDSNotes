@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 67
 module: "Module 4"
-category: ""
+category: "Festivals and Kirtans"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Think_Big_-_2019-06-15_UK.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Think_Big_-_2019-06-15_UK.mp3"

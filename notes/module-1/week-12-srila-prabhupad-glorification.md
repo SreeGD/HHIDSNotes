@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 12
 module: "Module 1"
-category: ""
+category: "Foundations in Bhakti"
 source: "YT"
 source_url: "https://m.youtube.com/watch?v=69ycNVF805Y&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"
 audio_url: "https://m.youtube.com/watch?v=69ycNVF805Y&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"
@@ -17,7 +17,7 @@ tags: ["srila prabhupada", "pure devotee", "deity worship", "love in separation"
 
 # Srila Prabhupad Glorification
 
-**His Holiness Indradyumna Swami** · Week 12 ·  · 1:15:54
+**His Holiness Indradyumna Swami** · Week 12 · Foundations in Bhakti · 1:15:54
 
 **Themes:** srila prabhupada · pure devotee · deity worship · love in separation · guru and disciple · sankirtan mission · transformation by mercy
 

@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 5
 module: "Module 1"
-category: ""
+category: "Foundations in Bhakti"
 source: "ISKCON Desire Tree"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-09/IDS_BG_09-28_-_The_Regulative_Principles_of_Freedom_-_1989-08-04_Geneva.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-09/IDS_BG_09-28_-_The_Regulative_Principles_of_Freedom_-_1989-08-04_Geneva.mp3"
@@ -17,7 +17,7 @@ tags: ["yukta-vairagya", "karma", "regulative principles", "book distribution", 
 
 # The Regulative Principles of Freedom
 
-**His Holiness Indradyumna Swami** · Week 5 ·  · 38:16
+**His Holiness Indradyumna Swami** · Week 5 · Foundations in Bhakti · 38:16
 
 **Themes:** yukta-vairagya · karma · regulative principles · book distribution · liberation · chaitanya's mercy
 

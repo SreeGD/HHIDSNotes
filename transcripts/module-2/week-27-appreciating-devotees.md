@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 27
 module: "Module 2"
-category: ""
+category: "Foundations in Bhakti"
 source: "Narottam.cp,"
 source_url: "https://narottam.com/2009/12/appreciating-devotees/"
 audio_url: "https://narottam.com/podpress_trac/web/387/0/Indradyumna-Swami-2009-12-20-SYD_Appreciating-Devotees.mp3"

@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 28
 module: "Module 2"
-category: ""
+category: "Festivals and Kirtans"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-10/IDS_BG_10-36_-_I_am_Adeventure_-_2015-02-04-Mumbai.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-10/IDS_BG_10-36_-_I_am_Adeventure_-_2015-02-04-Mumbai.mp3"

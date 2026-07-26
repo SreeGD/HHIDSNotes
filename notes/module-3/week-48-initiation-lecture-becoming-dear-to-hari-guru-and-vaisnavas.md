@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 48
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Initiation_Attachment_To_Hari_Guru_and_Vaisnavas.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Initiation_Attachment_To_Hari_Guru_and_Vaisnavas.mp3"
@@ -17,7 +17,7 @@ tags: ["initiation", "spiritual identity", "guru-disciple relationship", "raghun
 
 # Initiation lecture- Becoming dear to Hari Guru and Vaisnavas
 
-**His Holiness Indradyumna Swami** · Week 48 ·  · 33:47
+**His Holiness Indradyumna Swami** · Week 48 · Foundations in Bhakti · 33:47
 
 **Themes:** initiation · spiritual identity · guru-disciple relationship · raghunatha dasa goswami · panihati · surrender · hari guru vaishnava
 

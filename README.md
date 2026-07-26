@@ -8,15 +8,15 @@
 >
 > **Do not** use this material commercially, present it as official/verbatim, or redistribute the copyrighted lectures or scripture. Please support the original creators at their official sources. Rights holders: see **[DISCLAIMER.md](DISCLAIMER.md)** for the full notice and takedown/correction process.
 
-Study notes for the **Pre-Initiation IDS course** — 80 lectures by **His Holiness Indradyumna Swami** — organized into 5 modules. Each lecture was downloaded, transcribed, and enriched into a markdown note with a summary, key points, and scriptural references.
+Study notes for the **Pre-Initiation IDS course** — 80 lectures by **His Holiness Indradyumna Swami** — organized into 5 modules. Each lecture was downloaded, transcribed, and enriched into a markdown note with structured notes, inline scriptural references, and a glossary.
 
 ## What's here
 
 **Enriched notes and transcripts are kept separate:**
 
 ```
-notes/module-1..5/        ENRICHED notes — summary + key points + scriptural
-                          references (+ a link to the transcript). No transcript body.
+notes/module-1..5/        ENRICHED notes — themes + summary + structured notes (with
+                          inline scriptural references) + glossary + a transcript link.
 transcripts/module-1..5/  TRANSCRIPTS — the full machine transcript for each lecture,
                           kept as-is (verbatim; only wrapped into paragraphs).
 build/                    the pipeline that produced them
@@ -51,22 +51,22 @@ All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 n
 | 2 | Chanting is our life and soul | Foundations in Bhakti | EN | [note](notes/module-1/week-02-chanting-is-our-life-and-soul.md) · [transcript](transcripts/module-1/week-02-chanting-is-our-life-and-soul.md) |
 | 3 | Becoming a Devotee | Foundations in Bhakti | EN | [note](notes/module-1/week-03-becoming-a-devotee.md) · [transcript](transcripts/module-1/week-03-becoming-a-devotee.md) |
 | 4 | Introduction to Śrīla Prabhupāda | Foundations in Bhakti | EN | [note](notes/module-1/week-04-introduction-to-r-la-prabhup-da.md) · [transcript](transcripts/module-1/week-04-introduction-to-r-la-prabhup-da.md) |
-| 5 | The Regulative Principles of Freedom |  | EN | [note](notes/module-1/week-05-the-regulative-principles-of-freedom.md) · [transcript](transcripts/module-1/week-05-the-regulative-principles-of-freedom.md) |
+| 5 | The Regulative Principles of Freedom | Foundations in Bhakti | EN | [note](notes/module-1/week-05-the-regulative-principles-of-freedom.md) · [transcript](transcripts/module-1/week-05-the-regulative-principles-of-freedom.md) |
 | 6 | Birth and death Cycle | Foundations in Bhakti | EN | [note](notes/module-1/week-06-birth-and-death-cycle.md) · [transcript](transcripts/module-1/week-06-birth-and-death-cycle.md) |
 | 7 | You are not the body | Festivals and Kirtans | EN | [note](notes/module-1/week-07-you-are-not-the-body.md) · [transcript](transcripts/module-1/week-07-you-are-not-the-body.md) |
 | 8 | Goal fo Human Form of Life | Festivals and Kirtans | EN | [note](notes/module-1/week-08-goal-fo-human-form-of-life.md) · [transcript](transcripts/module-1/week-08-goal-fo-human-form-of-life.md) |
 | 9 | Silver Spoon | Festivals and Kirtans | EN | [note](notes/module-1/week-09-silver-spoon.md) · [transcript](transcripts/module-1/week-09-silver-spoon.md) |
-| 11 | First thing First |  | PL | [note](notes/module-1/week-11-first-thing-first.md) · [transcript](transcripts/module-1/week-11-first-thing-first.md) |
-| 12 | Srila Prabhupad Glorification |  | EN | [note](notes/module-1/week-12-srila-prabhupad-glorification.md) · [transcript](transcripts/module-1/week-12-srila-prabhupad-glorification.md) |
-| 13 | Killer of the Soul |  | EN | [note](notes/module-1/week-13-killer-of-the-soul.md) · [transcript](transcripts/module-1/week-13-killer-of-the-soul.md) |
+| 11 | First thing First | Foundations in Bhakti | PL | [note](notes/module-1/week-11-first-thing-first.md) · [transcript](transcripts/module-1/week-11-first-thing-first.md) |
+| 12 | Srila Prabhupad Glorification | Foundations in Bhakti | EN | [note](notes/module-1/week-12-srila-prabhupad-glorification.md) · [transcript](transcripts/module-1/week-12-srila-prabhupad-glorification.md) |
+| 13 | Killer of the Soul | Foundations in Bhakti | EN | [note](notes/module-1/week-13-killer-of-the-soul.md) · [transcript](transcripts/module-1/week-13-killer-of-the-soul.md) |
 
 ### Module 2
 
 | Wk | Title | Category | Lang | Links |
 |---:|-------|----------|:----:|-------|
 | 14 | Sadhu-saṅga: The Power of Association | Foundations in Bhakti | EN | [note](notes/module-2/week-14-sadhu-sa-ga-the-power-of-association.md) · [transcript](transcripts/module-2/week-14-sadhu-sa-ga-the-power-of-association.md) |
-| 15 | The Seed of Devotional Service |  | EN | [note](notes/module-2/week-15-the-seed-of-devotional-service.md) · [transcript](transcripts/module-2/week-15-the-seed-of-devotional-service.md) |
-| 16 | Intelligent enough to know I am a fool |  | EN | [note](notes/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md) · [transcript](transcripts/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md) |
+| 15 | The Seed of Devotional Service | Foundations in Bhakti | EN | [note](notes/module-2/week-15-the-seed-of-devotional-service.md) · [transcript](transcripts/module-2/week-15-the-seed-of-devotional-service.md) |
+| 16 | Intelligent enough to know I am a fool | Foundations in Bhakti | EN | [note](notes/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md) · [transcript](transcripts/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md) |
 | 17 | Just be Good devotees | Foundations in Bhakti | EN | [note](notes/module-2/week-17-just-be-good-devotees.md) · [transcript](transcripts/module-2/week-17-just-be-good-devotees.md) |
 | 18 | Make a leap of faith | Foundations in Bhakti | RU | [note](notes/module-2/week-18-make-a-leap-of-faith.md) · [transcript](transcripts/module-2/week-18-make-a-leap-of-faith.md) |
 | 19 | Remembering Śrīla Prabhupada's Sacrifice | Foundations in Bhakti | EN | [note](notes/module-2/week-19-remembering-r-la-prabhupadas-sacrifice.md) · [transcript](transcripts/module-2/week-19-remembering-r-la-prabhupadas-sacrifice.md) |
@@ -75,12 +75,12 @@ All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 n
 | 22 | Overcome Addiction of Sense Gratification | Festivals and Kirtans | EN | [note](notes/module-2/week-22-overcome-addiction-of-sense-gratification.md) · [transcript](transcripts/module-2/week-22-overcome-addiction-of-sense-gratification.md) |
 | 23 | First Lord appear as Sound | Festivals and Kirtans | RU | [note](notes/module-2/week-23-first-lord-appear-as-sound.md) · [transcript](transcripts/module-2/week-23-first-lord-appear-as-sound.md) |
 | 24 | Be Enthusiastic | Festivals and Kirtans | RU | [note](notes/module-2/week-24-be-enthusiastic.md) · [transcript](transcripts/module-2/week-24-be-enthusiastic.md) |
-| 25 | The Good eye and bad Eye |  | EN | [note](notes/module-2/week-25-the-good-eye-and-bad-eye.md) · [transcript](transcripts/module-2/week-25-the-good-eye-and-bad-eye.md) |
-| 26 | Essence of Gita |  | EN | [note](notes/module-2/week-26-essence-of-gita.md) · [transcript](transcripts/module-2/week-26-essence-of-gita.md) |
-| 27 | Appreciating Devotees |  | EN | [note](notes/module-2/week-27-appreciating-devotees.md) · [transcript](transcripts/module-2/week-27-appreciating-devotees.md) |
-| 28 | I am Adventure |  | EN | [note](notes/module-2/week-28-i-am-adventure.md) · [transcript](transcripts/module-2/week-28-i-am-adventure.md) |
+| 25 | The Good eye and bad Eye | Foundations in Bhakti | EN | [note](notes/module-2/week-25-the-good-eye-and-bad-eye.md) · [transcript](transcripts/module-2/week-25-the-good-eye-and-bad-eye.md) |
+| 26 | Essence of Gita | Foundations in Bhakti | EN | [note](notes/module-2/week-26-essence-of-gita.md) · [transcript](transcripts/module-2/week-26-essence-of-gita.md) |
+| 27 | Appreciating Devotees | Foundations in Bhakti | EN | [note](notes/module-2/week-27-appreciating-devotees.md) · [transcript](transcripts/module-2/week-27-appreciating-devotees.md) |
+| 28 | I am Adventure | Festivals and Kirtans | EN | [note](notes/module-2/week-28-i-am-adventure.md) · [transcript](transcripts/module-2/week-28-i-am-adventure.md) |
 | 29 | The Greatest benefit is derived from association with elevated devotees | Festivals and Kirtans | EN | [note](notes/module-2/week-29-the-greatest-benefit-is-derived-from-association-with-elevat.md) · [transcript](transcripts/module-2/week-29-the-greatest-benefit-is-derived-from-association-with-elevat.md) |
-| 30 | Preaching in Amazon Jungles |  | EN | [note](notes/module-2/week-30-preaching-in-amazon-jungles.md) · [transcript](transcripts/module-2/week-30-preaching-in-amazon-jungles.md) |
+| 30 | Preaching in Amazon Jungles | Festivals and Kirtans | EN | [note](notes/module-2/week-30-preaching-in-amazon-jungles.md) · [transcript](transcripts/module-2/week-30-preaching-in-amazon-jungles.md) |
 
 ### Module 3
 
@@ -97,15 +97,15 @@ All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 n
 | 39 | Appreciating Devotees (The Importance of Sadhu Sanga) | Festivals and Kirtans | EN | [note](notes/module-3/week-39-appreciating-devotees-the-importance-of-sadhu-sanga.md) · [transcript](transcripts/module-3/week-39-appreciating-devotees-the-importance-of-sadhu-sanga.md) |
 | 40 | Break the vow of material enjoyment | Festivals and Kirtans | EN | [note](notes/module-3/week-40-break-the-vow-of-material-enjoyment.md) · [transcript](transcripts/module-3/week-40-break-the-vow-of-material-enjoyment.md) |
 | 41 | Importance of Festivals | Festivals and Kirtans | EN | [note](notes/module-3/week-41-importance-of-festivals.md) · [transcript](transcripts/module-3/week-41-importance-of-festivals.md) |
-| 42 | New Year Resolution |  | EN | [note](notes/module-3/week-42-new-year-resolution.md) · [transcript](transcripts/module-3/week-42-new-year-resolution.md) |
-| 43 | The best thing is purity |  | EN | [note](notes/module-3/week-43-the-best-thing-is-purity.md) · [transcript](transcripts/module-3/week-43-the-best-thing-is-purity.md) |
-| 44 | Disciple means Discipline |  | RU | [note](notes/module-3/week-44-disciple-means-discipline.md) · [transcript](transcripts/module-3/week-44-disciple-means-discipline.md) |
-| 45 | Real Happiness |  | EN | [note](notes/module-3/week-45-real-happiness.md) · [transcript](transcripts/module-3/week-45-real-happiness.md) |
-| 46 | Guru Nishta |  | EN | [note](notes/module-3/week-46-guru-nishta.md) · [transcript](transcripts/module-3/week-46-guru-nishta.md) |
-| 47 | Service Attitude |  | EN | [note](notes/module-3/week-47-service-attitude.md) · [transcript](transcripts/module-3/week-47-service-attitude.md) |
-| 48 | Initiation lecture- Becoming dear to Hari Guru and Vaisnavas |  | EN | [note](notes/module-3/week-48-initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.md) · [transcript](transcripts/module-3/week-48-initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.md) |
-| 49 | Importance of Initation |  | EN | [note](notes/module-3/week-49-importance-of-initation.md) · [transcript](transcripts/module-3/week-49-importance-of-initation.md) |
-| 50 | Do your Part |  | EN | [note](notes/module-3/week-50-do-your-part.md) · [transcript](transcripts/module-3/week-50-do-your-part.md) |
+| 42 | New Year Resolution | Foundations in Bhakti | EN | [note](notes/module-3/week-42-new-year-resolution.md) · [transcript](transcripts/module-3/week-42-new-year-resolution.md) |
+| 43 | The best thing is purity | Foundations in Bhakti | EN | [note](notes/module-3/week-43-the-best-thing-is-purity.md) · [transcript](transcripts/module-3/week-43-the-best-thing-is-purity.md) |
+| 44 | Disciple means Discipline | Foundations in Bhakti | RU | [note](notes/module-3/week-44-disciple-means-discipline.md) · [transcript](transcripts/module-3/week-44-disciple-means-discipline.md) |
+| 45 | Real Happiness | Festivals and Kirtans | EN | [note](notes/module-3/week-45-real-happiness.md) · [transcript](transcripts/module-3/week-45-real-happiness.md) |
+| 46 | Guru Nishta | Foundations in Bhakti | EN | [note](notes/module-3/week-46-guru-nishta.md) · [transcript](transcripts/module-3/week-46-guru-nishta.md) |
+| 47 | Service Attitude | Foundations in Bhakti | EN | [note](notes/module-3/week-47-service-attitude.md) · [transcript](transcripts/module-3/week-47-service-attitude.md) |
+| 48 | Initiation lecture- Becoming dear to Hari Guru and Vaisnavas | Foundations in Bhakti | EN | [note](notes/module-3/week-48-initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.md) · [transcript](transcripts/module-3/week-48-initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.md) |
+| 49 | Importance of Initation | Foundations in Bhakti | EN | [note](notes/module-3/week-49-importance-of-initation.md) · [transcript](transcripts/module-3/week-49-importance-of-initation.md) |
+| 50 | Do your Part | Foundations in Bhakti | EN | [note](notes/module-3/week-50-do-your-part.md) · [transcript](transcripts/module-3/week-50-do-your-part.md) |
 | 51 | The Essence of Ratha Yatra | Festivals and Kirtans | EN | [note](notes/module-3/week-51-the-essence-of-ratha-yatra.md) · [transcript](transcripts/module-3/week-51-the-essence-of-ratha-yatra.md) |
 
 ### Module 4
@@ -124,11 +124,11 @@ All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 n
 | 60 | Lecture: Lord Chaitanya the yoga avatars | Festivals and Kirtans | EN | [note](notes/module-4/week-60-lecture-lord-chaitanya-the-yoga-avatars.md) · [transcript](transcripts/module-4/week-60-lecture-lord-chaitanya-the-yoga-avatars.md) |
 | 61 | Initiation Lecture – The Good Disciple | Festivals and Kirtans | EN | [note](notes/module-4/week-61-initiation-lecture-the-good-disciple.md) · [transcript](transcripts/module-4/week-61-initiation-lecture-the-good-disciple.md) |
 | 62 | Initiation Lecture- The Reward of Sincere Surrender | Festivals and Kirtans | EN | [note](notes/module-4/week-62-initiation-lecture-the-reward-of-sincere-surrender.md) · [transcript](transcripts/module-4/week-62-initiation-lecture-the-reward-of-sincere-surrender.md) |
-| 63 | Services towards Guru |  | EN | [note](notes/module-4/week-63-services-towards-guru.md) · [transcript](transcripts/module-4/week-63-services-towards-guru.md) |
-| 64 | Sense Gratificaton and Krishna consciousness go ill together |  | EN | [note](notes/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md) · [transcript](transcripts/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md) |
-| 65 | Srictness is our strength |  | EN | [note](notes/module-4/week-65-srictness-is-our-strength.md) · [transcript](transcripts/module-4/week-65-srictness-is-our-strength.md) |
-| 66 | Now or Never |  | EN | [note](notes/module-4/week-66-now-or-never.md) · [transcript](transcripts/module-4/week-66-now-or-never.md) |
-| 67 | Think Big |  | EN | [note](notes/module-4/week-67-think-big.md) · [transcript](transcripts/module-4/week-67-think-big.md) |
+| 63 | Services towards Guru | Foundations in Bhakti | EN | [note](notes/module-4/week-63-services-towards-guru.md) · [transcript](transcripts/module-4/week-63-services-towards-guru.md) |
+| 64 | Sense Gratificaton and Krishna consciousness go ill together | Foundations in Bhakti | EN | [note](notes/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md) · [transcript](transcripts/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md) |
+| 65 | Srictness is our strength | Foundations in Bhakti | EN | [note](notes/module-4/week-65-srictness-is-our-strength.md) · [transcript](transcripts/module-4/week-65-srictness-is-our-strength.md) |
+| 66 | Now or Never | Foundations in Bhakti | EN | [note](notes/module-4/week-66-now-or-never.md) · [transcript](transcripts/module-4/week-66-now-or-never.md) |
+| 67 | Think Big | Festivals and Kirtans | EN | [note](notes/module-4/week-67-think-big.md) · [transcript](transcripts/module-4/week-67-think-big.md) |
 
 ### Module 5
 
@@ -140,12 +140,12 @@ All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 n
 | 71 | This is what we do (Vrindavan in Kartik) | Foundations in Bhakti | EN | [note](notes/module-5/week-71-this-is-what-we-do-vrindavan-in-kartik.md) · [transcript](transcripts/module-5/week-71-this-is-what-we-do-vrindavan-in-kartik.md) |
 | 72 | Fulfilling the mission of Six Goswamis | Foundations in Bhakti | RU | [note](notes/module-5/week-72-fulfilling-the-mission-of-six-goswamis.md) · [transcript](transcripts/module-5/week-72-fulfilling-the-mission-of-six-goswamis.md) |
 | 73 | The Life and Time fo Srila Narottam Das Thakura Part 1 | Foundations in Bhakti | EN | [note](notes/module-5/week-73-the-life-and-time-fo-srila-narottam-das-thakura-part-1.md) · [transcript](transcripts/module-5/week-73-the-life-and-time-fo-srila-narottam-das-thakura-part-1.md) |
-| 75 | The Life and Time fo Srila Narottam Das Thakura Part 2 |  | EN | [note](notes/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md) · [transcript](transcripts/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md) |
+| 75 | The Life and Time fo Srila Narottam Das Thakura Part 2 | Foundations in Bhakti | EN | [note](notes/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md) · [transcript](transcripts/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md) |
 | 76 | In Search of Krishna (Kartik Parikrama Day 1) | Foundations in Bhakti | EN | [note](notes/module-5/week-76-in-search-of-krishna-kartik-parikrama-day-1.md) · [transcript](transcripts/module-5/week-76-in-search-of-krishna-kartik-parikrama-day-1.md) |
 | 77 | One Moonlit Night | Festivals and Kirtans | EN | [note](notes/module-5/week-77-one-moonlit-night.md) · [transcript](transcripts/module-5/week-77-one-moonlit-night.md) |
 | 78 | Srimati Radharani | Festivals and Kirtans | EN | [note](notes/module-5/week-78-srimati-radharani.md) · [transcript](transcripts/module-5/week-78-srimati-radharani.md) |
 | 79 | Bringing the troops Home | Festivals and Kirtans | RU | [note](notes/module-5/week-79-bringing-the-troops-home.md) · [transcript](transcripts/module-5/week-79-bringing-the-troops-home.md) |
-| 80 | Dance to the source of the Love |  | EN | [note](notes/module-5/week-80-dance-to-the-source-of-the-love.md) · [transcript](transcripts/module-5/week-80-dance-to-the-source-of-the-love.md) |
+| 80 | Dance to the source of the Love | Festivals and Kirtans | EN | [note](notes/module-5/week-80-dance-to-the-source-of-the-love.md) · [transcript](transcripts/module-5/week-80-dance-to-the-source-of-the-love.md) |
 
 ## How it was made
 

@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 16
 module: "Module 2"
-category: ""
+category: "Foundations in Bhakti"
 source: "ISKCON Desire Tree"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-02/IDS_BG_02-11_-_Intelligent_Enough_To_Know_I_Am_A_Fool_-_1997-05-14_Germany.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Bhagavad_Gita/Chapter-02/IDS_BG_02-11_-_Intelligent_Enough_To_Know_I_Am_A_Fool_-_1997-05-14_Germany.mp3"
@@ -17,7 +17,7 @@ tags: ["humility", "surrender to guru", "the four miseries", "bhakta-vatsala", "
 
 # Intelligent enough to know I am a fool
 
-**His Holiness Indradyumna Swami** · Week 16 ·  · 1:02:49
+**His Holiness Indradyumna Swami** · Week 16 · Foundations in Bhakti · 1:02:49
 
 **Themes:** humility · surrender to guru · the four miseries · bhakta-vatsala · pure devotion · preaching
 

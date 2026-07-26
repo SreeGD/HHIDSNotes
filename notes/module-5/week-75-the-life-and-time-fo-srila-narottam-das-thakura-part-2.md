@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 75
 module: "Module 5"
-category: ""
+category: "Foundations in Bhakti"
 source: "Narottam.com"
 source_url: "https://narottam.com/2009/02/the-life-and-times-of-narottam-das-thakura-part-2/"
 audio_url: "https://narottam.com/podpress_trac/web/332/0/Indradyumna-Swami-2009-02-10-ATL_The-Life-and-Times-of-Narottam-das-Thakura-Part-2.mp3"
@@ -17,7 +17,7 @@ tags: ["preaching opposition", "conversion", "holy name", "dacoits", "separation
 
 # The Life and Time fo Srila Narottam Das Thakura Part 2
 
-**His Holiness Indradyumna Swami** · Week 75 ·  · 1:34:28
+**His Holiness Indradyumna Swami** · Week 75 · Foundations in Bhakti · 1:34:28
 
 **Themes:** preaching opposition · conversion · holy name · dacoits · separation · kirtan
 

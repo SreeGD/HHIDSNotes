@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 13
 module: "Module 1"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Killer_of_the_soul_-_10-04-10_US.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Killer_of_the_soul_-_10-04-10_US.mp3"
@@ -17,7 +17,7 @@ tags: ["bad association", "humility", "meat-eating", "sadhu-sanga", "taking shel
 
 # Killer of the Soul
 
-**His Holiness Indradyumna Swami** · Week 13 ·  · 1:04:01
+**His Holiness Indradyumna Swami** · Week 13 · Foundations in Bhakti · 1:04:01
 
 **Themes:** bad association · humility · meat-eating · sadhu-sanga · taking shelter · power of association
 

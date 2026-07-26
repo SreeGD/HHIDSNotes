@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 63
 module: "Module 4"
-category: ""
+category: "Foundations in Bhakti"
 source: "YouTube"
 source_url: "https://youtu.be/y_yAGNWdVnI?si=g-m1WlBOQRMdB3Km"
 audio_url: "https://youtu.be/y_yAGNWdVnI?si=g-m1WlBOQRMdB3Km"
@@ -17,7 +17,7 @@ tags: ["guru-disciple relationship", "chanting as prayer", "service", "preaching
 
 # Services towards Guru
 
-**His Holiness Indradyumna Swami** · Week 63 ·  · 36:47
+**His Holiness Indradyumna Swami** · Week 63 · Foundations in Bhakti · 36:47
 
 **Themes:** guru-disciple relationship · chanting as prayer · service · preaching mission · steadfastness · vedic culture
 

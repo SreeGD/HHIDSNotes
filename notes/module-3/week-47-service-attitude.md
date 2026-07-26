@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 47
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Service_Attitude_-_07-08-11_Poland.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Service_Attitude_-_07-08-11_Poland.mp3"
@@ -17,7 +17,7 @@ tags: ["service attitude", "respecting devotees", "humility", "vaishnava relatio
 
 # Service Attitude
 
-**His Holiness Indradyumna Swami** · Week 47 ·  · 25:15
+**His Holiness Indradyumna Swami** · Week 47 · Foundations in Bhakti · 25:15
 
 > _Note: This talk appears to be delivered by a guest sannyasi at Indradyumna Swami's festival program (he refers to Indradyumna Swami in the third person), not by Indradyumna Swami himself._
 

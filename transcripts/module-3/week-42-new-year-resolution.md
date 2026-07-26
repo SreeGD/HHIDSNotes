@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 42
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "YouTube"
 source_url: "https://m.youtube.com/watch?v=cpoBTJZ8Dn8&t=3314s&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"
 audio_url: "https://m.youtube.com/watch?v=cpoBTJZ8Dn8&t=3314s&pp=ygUbUXVhbGl0aWVzIEluZHJhZHl1bW5hIHN3YW1p0gcJCY0JAYcqIYzv"

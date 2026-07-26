@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 65
 module: "Module 4"
-category: ""
+category: "Foundations in Bhakti"
 source: ""
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-05/IDS_SB_05-18-13_-_Strictness_is_our_Strength_-_1990-10-31_Auckland.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Tape_Ministry/Srimad_Bhagavatam/Canto-05/IDS_SB_05-18-13_-_Strictness_is_our_Strength_-_1990-10-31_Auckland.mp3"

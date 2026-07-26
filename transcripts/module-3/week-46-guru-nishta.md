@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 46
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Guru_Nista_-_2011-02-18_Mayapur.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Guru_Nista_-_2011-02-18_Mayapur.mp3"

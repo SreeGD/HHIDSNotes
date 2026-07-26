@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 45
 module: "Module 3"
-category: ""
+category: "Festivals and Kirtans"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Festivals/IDS_Festivals_-_Real_Happiness_-_2007-08-13_Poland.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Festivals/IDS_Festivals_-_Real_Happiness_-_2007-08-13_Poland.mp3"

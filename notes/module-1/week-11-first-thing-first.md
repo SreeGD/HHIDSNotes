@@ -4,7 +4,7 @@ kind: enriched-note
 speaker: Indradyumna Swami
 week: 11
 module: "Module 1"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Lecture_with_Polish_Translation/Various/IDS_Various_Polish_Translation_-_First_Thing_First_-_2016-08-12_Poland.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Lecture_with_Polish_Translation/Various/IDS_Various_Polish_Translation_-_First_Thing_First_-_2016-08-12_Poland.mp3"
@@ -16,7 +16,7 @@ transcribed_with: whisper.cpp large-v3-turbo
 
 # First thing First
 
-**His Holiness Indradyumna Swami** · Week 11 ·  · 45:18
+**His Holiness Indradyumna Swami** · Week 11 · Foundations in Bhakti · 45:18
 
 > **Not summarized** — detected language `pl` (per the English-only rule). The transcript is kept separately.
 

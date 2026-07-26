@@ -4,7 +4,7 @@ kind: transcript
 speaker: Indradyumna Swami
 week: 50
 module: "Module 3"
-category: ""
+category: "Foundations in Bhakti"
 source: "IDT"
 source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-18/IDS_BG_18_55_-_Do_Your_Part_-_2007-04-22_Hungary.mp3"
 audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-18/IDS_BG_18_55_-_Do_Your_Part_-_2007-04-22_Hungary.mp3"
