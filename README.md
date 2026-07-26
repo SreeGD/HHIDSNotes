@@ -30,10 +30,12 @@ build/                    the pipeline that produced them
   └─ Pre-Initiation_IDS_course_modules.xlsx   the source spreadsheet with Summary column filled
 ```
 
-Each **English enriched note** contains: YAML front-matter (title, week, module, category,
-source/audio URLs, duration, detected language) → **Summary** → **Key Points** →
-**Scriptural References** → a link to its transcript. Every note and its transcript
-cross-link to each other.
+Each **English note** contains: YAML front-matter (title, week, module, category,
+source/audio URLs, duration, detected language, theme tags) → **Themes** → **Summary** →
+**Structured Notes** (a comprehensive, sectioned walkthrough of the whole lecture in the
+speaker's order, with **scriptural references woven inline**) → a consolidated
+**Scriptural References** list → **Glossary** → a link to its transcript. Every note and
+its transcript cross-link to each other.
 
 ## Lecture Index
 
