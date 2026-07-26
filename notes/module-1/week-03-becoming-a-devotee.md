@@ -165,3 +165,6 @@ The government spends millions and millions of dollars in supplying and giving g
 
 Just be a good devotee. Lord will protect you in your important services.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -157,3 +157,6 @@ Okay, anyway. At least five. Okay, so sing and dance very nicely. And we look fo
 
 - Paray Krishna.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

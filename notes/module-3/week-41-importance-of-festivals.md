@@ -187,3 +187,6 @@ So please, don't be shy. Give yourselves to the process. And certainly when we l
 
 It will have grown that much more and borne the divine fruit of love of Godhead. Hare Krishna. Thank you very much. Thank you.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -364,3 +364,6 @@ And they're waving their incense and their books. And the security guard, he tur
 
 Hare Krishna! Давайте еще поблагодарим Андрадьевна Махараза. Андрадьевна Махараза. Thank you.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

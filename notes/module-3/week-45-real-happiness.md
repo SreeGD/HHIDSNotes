@@ -104,3 +104,6 @@ Okay. And if you don't win tonight, tomorrow we're giving 15 saris. Okay. And th
 
 Which brings good luck. So the boys can also dance. Okay. So here we go.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -423,3 +423,6 @@ Hare Krishna. A line to make it. Please. Hare Krishna.
 
 This is the line to make it. Hare Krishna. That's what happened. He will go back.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

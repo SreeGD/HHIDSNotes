@@ -579,3 +579,6 @@ Time quickly passes, when we do what we like to do, what we do, what we do, what
 
 I'll see you in a couple of days. All glory is to Shri Prabhupada. Arigashina.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

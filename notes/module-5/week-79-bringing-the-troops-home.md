@@ -201,3 +201,6 @@ We have a lot of things to talk about and a lot of, you know. And as she was dra
 
 И если мы будем сотрудничать таким образом и сделаем так, что как можно больше преданных восстановится в активной практике, мы очень сильно удовлетворим Его Божественную Милость Бхакти Веданту. С вами Шалубра Упана.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

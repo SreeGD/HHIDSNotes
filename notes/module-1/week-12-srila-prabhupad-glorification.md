@@ -626,3 +626,6 @@ In front of 50,000 people, Prabhupada exploded. "You are not God, you are a dog.
 
 " But this is sadhu. If one really loves Krishna and Krishna is blasphemed, then the devotee will stand up to defend his beloved. So Prabhupada knew how to react in every situation to give Krishna conscious instruction to that person. "Jey Anilo, Rehimadana, Koruna Prachu"
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

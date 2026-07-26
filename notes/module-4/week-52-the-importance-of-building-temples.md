@@ -180,3 +180,6 @@ He wrote a book called The Wonder That Was India. Let's bring back the wonder th
 
 All right. Hare Krishna.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

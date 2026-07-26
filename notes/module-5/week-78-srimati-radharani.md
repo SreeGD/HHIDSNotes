@@ -301,3 +301,6 @@ And I took a picture, it's so nice. But for the devotee dedicated to preaching t
 
 So that should inspire us all to, according to our ability, time, place, and circumstance, big and small, to all participate in this wonderful movement of delivering the fallen conditioned souls. Under the direction of Simati Radharani's favored devotee, Chaitanya Mahaprabhu, We're all engaged in this wonderful service.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

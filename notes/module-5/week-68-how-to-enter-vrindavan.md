@@ -242,3 +242,6 @@ He thinks, I will alight, I will get off of my chariot and bow down to the lotus
 
 And then Akura thinks, and when I see Krishna, he's going to know I'm not a minister of Kamsa, he's going to know I'm a devotee, Krishna will know my heart. And he's going to know that when Krishna sees me, he will know that I'm not a minister of Kamsa, I'm a minister of Kamsa.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

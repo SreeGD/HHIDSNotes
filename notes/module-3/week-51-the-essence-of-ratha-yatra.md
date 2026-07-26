@@ -340,3 +340,6 @@ I like that look a little bit better because happy is one thing, but sublime is 
 
 The essence of Ratha Yatra, the essence of Indian culture, the essence of David culture, the essence of the Lord's coming into this material world to begin with, is share Hare Krishna and your lives will be sublime. Thank you very much, Hare Krishna.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

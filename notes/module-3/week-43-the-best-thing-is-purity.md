@@ -514,3 +514,6 @@ Some devotees took it to heart and they figured out a way to distribute those bo
 
 He was driving his car down the street and he was almost out of gas. So the temple was far away. So he stopped and he thought, oh my God, I have some gas.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

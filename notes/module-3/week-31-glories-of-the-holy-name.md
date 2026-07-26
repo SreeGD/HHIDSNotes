@@ -271,3 +271,6 @@ We're going to give blessings to the Nishis. it's in the Padyatthi of Srinathipa
 
 Sadhu! Thank you.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -164,3 +164,6 @@ to come to Juhu Beach property. And I told them, if you come here, I promise you
 
 И благодаря Ему сейчас мы принимаем прибережье у Господа все Гаудия Вайшнава с незапамятных времен. На самом деле, об этом говорит сам Бхактисидан Сарасвати, в статье, написанной для журнала «Гармонист», это в 1927 году, он тоже признает заслуги Хирани Кашипу. Он пишет, кстати, Югу, Хирани Кашипу, более чем прохлад, при помощи приемов методов негативной пропаганды, прославил величие Господа Нарасимхадева. Продолжение следует...
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -247,3 +247,6 @@ Treeby, yeah, that's just a prelude to your birthday party. We are going to have
 
 Everybody stay. We'll just have a beautiful flowing kirtan backwards and forth and then we'll go to sleep and we'll dream of Radha and Krishna and preaching Krishna conscience. Hare Krishna. Thank you so much.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

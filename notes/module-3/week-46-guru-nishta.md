@@ -371,3 +371,6 @@ He lived in a region of Bengal where there was a kazi who was very cruel. He wou
 
 He could not stand when the Vaishnavas would chant, either on their beats, in their houses, or in public, Hare Krishna, Hare Krishna, Krishna, Krishna, Hare Hare, Hare Rama, Hare Rama.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

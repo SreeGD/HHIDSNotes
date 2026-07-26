@@ -1,5 +1,13 @@
 # HH IDS Notes — Pre-Initiation Course Lecture Notes
 
+> ## ⚠️ Copyright Notice & Disclaimer
+>
+> **All lectures are © H.H. Indradyumna Swami / ISKCON; quoted scripture is © the Bhaktivedanta Book Trust. All rights reserved by those owners.**
+>
+> This is an **unofficial, non-commercial, devotional study project**. The transcripts are **machine-generated (whisper.cpp)** and are **not authorized, verified, or endorsed** by the speaker, ISKCON, or the BBT — they **contain errors** and are **not** the speaker's verbatim words. Summaries and scriptural references are **AI-generated study aids** and may be wrong — verify against the original audio and authorized books.
+>
+> **Do not** use this material commercially, present it as official/verbatim, or redistribute the copyrighted lectures or scripture. Please support the original creators at their official sources. Rights holders: see **[DISCLAIMER.md](DISCLAIMER.md)** for the full notice and takedown/correction process.
+
 Study notes for the **Pre-Initiation IDS course** — 80 lectures by **His Holiness Indradyumna Swami** — organized into 5 modules. Each lecture was downloaded, transcribed, and enriched into a markdown note with a summary, key points, and scriptural references.
 
 ## What's here

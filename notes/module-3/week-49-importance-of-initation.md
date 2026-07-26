@@ -360,3 +360,6 @@ We no longer take pleasure in material desires, O Lord. O mighty Lord, material 
 
 Oh! Hare Krishna.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

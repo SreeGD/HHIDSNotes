@@ -287,3 +287,6 @@ And then when I got to the Champs-Elysees, I walked past the building where the 
 
 Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare. Hari Rama, Hari Rama, Rama Rama, oh, Hade, Hade. Rantarashimad Bhagavatam Ki, Sri Pallad Maharaj Ki, Sira Prabhupada Ki, Sri Krishna Sankirtan Yagya Ki, Gomananda, Sri Babashoi.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

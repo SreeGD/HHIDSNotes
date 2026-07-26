@@ -429,3 +429,6 @@ After the end of Kirtan, there will be a dinner. Then, we will go back to the li
 
 We will go to Madhuvan, place of Y. Krishna. Shila Prabhuparaki. Kedisiri.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

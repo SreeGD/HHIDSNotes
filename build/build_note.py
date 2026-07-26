@@ -117,6 +117,13 @@ def build(row):
     body.append("## Transcript\n")
     body.append(transcript if transcript else "_(transcript unavailable)_")
     body.append("")
+    body.append("---")
+    body.append(
+        "_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. "
+        "Machine-generated transcript and AI-generated summary — unofficial, unverified, and may "
+        "contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. "
+        "See [DISCLAIMER](../../DISCLAIMER.md)._")
+    body.append("")
 
     open(path, "w", encoding="utf-8").write("\n".join(fm) + "\n" + "\n".join(body) + "\n")
     return path, lang, bool(summ)

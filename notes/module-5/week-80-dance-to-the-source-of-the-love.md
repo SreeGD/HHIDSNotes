@@ -150,3 +150,6 @@ Congratulations. And I thought, well, we've made some progress because, you know
 
 He said, Hare Krishna. We'll stand on Honey Nansen Kirtan Yagi-Yaki Kupi Menande Kupi Menande
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

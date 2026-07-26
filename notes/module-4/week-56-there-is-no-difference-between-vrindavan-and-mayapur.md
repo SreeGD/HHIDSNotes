@@ -207,3 +207,6 @@ Oh no, Krishna. И такие же чувства испытывают пред�
 
 А также служение сыну Шачиматы. Общение со Шрилой Сваруп Дамодаром, Госвами, Рупа, Госвами, а также общество Его старшего брата Санатана, Госвами. Верховный обитель Мадхуру, блаженный обитель Бриндаван, Божественную Радакунду и Холм Говардхан и желание, которое дремлет в моем сердце любовного служения Шри Рады и Мадхавы во Вриндаване. Субтитры создавал DimaTorzok Продолжение следует...
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

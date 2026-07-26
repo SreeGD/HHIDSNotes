@@ -390,3 +390,6 @@ No compromise. Just like Bhishma, just like Arjuna, and etc. So it's getting a l
 
 the marathon. So thank you very much. Krantaraj-Srimad-Bhagavatam-ki Srirapravapade-ki Gaurpremanandhi
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

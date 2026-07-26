@@ -135,3 +135,6 @@ And if it was taken away from him, he would pout for some time and then scheme h
 
 " "The next week. " "Obviously, Krishna has endless pastimes, so we'll speak more about Krishna's childhood pastimes next week, probably the next week after that. " "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… "… Конечно же, у Кришны безграничные игры, в том числе и Его детские игры, поэтому мы продолжим на следующей неделе и, возможно, неделю после нее. Субтитры создавал DimaTorzok
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -204,3 +204,6 @@ There is no time left to rest or drink. But later, or especially in the next yea
 
 And that nice verse, we will ask our scholar, Pandaji Shri Pilar Prabhu, to elaborate on that verse and help us enter into the mysteries of this great personality, Rupa Goswami, who was able to understand the mind, the inner mood of this most mysterious incarnation, Sri Chaitanya Mahaprabhu, of whom we have all taken shelter as Gaudiya Vaishnavas. The Rupa Goswami has been described beautifully in one of the prayers of Gaudhya Vaishnava, which says that he understood the atmosphere of the most extraordinary flesh of Krishna, the Lord of Chaitanya, and we ask our teacher, Pandita Ji, Shri Prachlada Prabhu, to explain more detail this verse. Shri Rupa Bhavaparaki, Shri Shri Rada Dhamadharaki, Shri Krishna Sen Kirtan Yajna Ki Shri Rupa Goswami Ki Shri Jiva Goswami Ki Kaviraj Goswami Ki Jai Jai Sriradhe Shandrajumna Swami Ki
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

@@ -549,3 +549,6 @@ And she was driving away, I was thinking, It must be a demigoddess. It couldn't 
 
 You just have to be very determined, that's all. It's just a big issue and enthusiasm, so it's enough to distribute lots and lots of books.
 
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+
