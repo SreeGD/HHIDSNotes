@@ -12,11 +12,14 @@ duration: "32:24"
 language: "en"
 words: 4483
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["holy name", "sound potency", "mantra", "kali-yuga", "bold preaching", "faith"]
 ---
 
 # Dance to the source of the Love
 
 **His Holiness Indradyumna Swami** · Week 80 ·  · 32:24
+
+**Themes:** holy name · sound potency · mantra · kali-yuga · bold preaching · faith
 
 ## Summary
 
@@ -32,6 +35,24 @@ Speaking at a festival themed 'Dance to the Source of the Love' (Krishna), Indra
 - The holy name is absolute and non-different from Krishna-His name, form, pastimes and paraphernalia are the same-so the name is itself an incarnation of God ('Krishna dances on the tongue'); one must learn its glories to chant with attention, as a child ignorant of a diamond's value swallows the ring.
 - The maha-mantra is more than a technique-it is a prayer of the heart calling out in distress ('my friend, my friend, my friend'; 'please engage me again in Your devotional service'), as shown by the South Africa plane story where chanting 'Hare Krishna' brought calm and turned a scoffing atheist into an agnostic.
 
+## Notable Stories & Analogies
+
+- 'Bring intelligent people to preach to' — in Paris Prabhupada repeatedly asks the sankirtana devotees to bring leaders, and beams when they produce a professor, author, poet, politician and rock star.
+- 'Preach boldly' and the dhoti gift — as Indradyumna Swami leaves for France, Prabhupada looks him in the eye and says to preach boldly and have faith in the holy names, then gifts him a dhoti he had worn for a year.
+- The radio dial — turning the dial from sad blues to a happy song to angry political news shows how mundane sound alone reshapes one's consciousness in a moment.
+- Ramanujacharya on the pole — given a 'secret' liberating mantra to keep to himself, the compassionate acharya instead climbs a pole in the marketplace and broadcasts it so everyone can be delivered.
+- 'Why sometimes?' — a godbrother tells Prabhupada he 'sometimes' feels sad for the suffering conditioned souls, and Prabhupada shoots back 'Why sometimes?'
+- The child and the diamond ring — a child who finds her mother's fallen ring, ignorant of its value, swallows it; so too we must learn the glories of the name lest we chant without appreciation.
+- 'My friend, my friend, my friend' — asked by a Boston boy what the mantra means, Prabhupada renders it simply as a call to one's dearest friend, a prayer of the heart.
+- The South Africa landing — on a violently windy, twice-aborted landing at Durban's La Mercy airport, passengers of every faith cry out to God; a scoffing atheist beside Maharaja is finally coaxed to chant 'Hare Krishna,' the wind dies, and he shifts from atheist to agnostic.
+
+## Memorable Quotes
+
+> “By sound one becomes conditioned, and by sound one becomes liberated.”
+> “Preach boldly, and have faith in the holy names.”
+> “It means, my friend, my friend, my friend.”
+> “Why sometimes?”
+
 ## Scriptural References
 
 - Bhagavad-gita 3.21 - 'whatever a great man does, the common man will follow, and whatever standard he sets the world pursues'; quoted by Prabhupada to justify preaching to society's leaders.
@@ -42,6 +63,19 @@ Speaking at a festival themed 'Dance to the Source of the Love' (Krishna), Indra
 - Unidentified Vedic sloka - 'by sound one becomes conditioned, and by sound one becomes liberated'; cited on the potency of sound (text/verse not specified).
 - Haridasa Thakura - cited that the ultimate benefit of chanting Hare Krishna is that it awakens prema (love of God) within the heart.
 - Namamrita (BBT compilation) - a book of Prabhupada's quotes glorifying the holy name, recommended for understanding how to chant Hare Krishna (a devotional book, not scripture).
+
+## Glossary
+
+- **Maha-mantra** — the great chant Hare Krishna Hare Rama, the yuga-dharma for this age
+- **Mantra** — sound vibration (man = mind, tra = deliver) that frees the mind from material consciousness
+- **Yuga-dharma** — the recommended process of self-realization for a given age
+- **Kali-yuga** — the present iron age of quarrel and hypocrisy, an 'ocean of inauspiciousness'
+- **Prema** — pure love of God, the ultimate fruit of chanting the holy name
+- **Sri Sampradaya** — the Vaishnava lineage headed by Ramanujacharya, worshiping Lakshmi-Narayana
+- **Diksha-guru** — the initiating spiritual master, as distinct from the shiksha (instructing) guru
+- **Om Namo Bhagavate Vasudevaya** — the Vishnu mantra Ramanuja proclaimed publicly from the pole
+- **Goloka** — Krishna's supreme spiritual abode, the source of the holy name's sound
+- **Namamrita** — a BBT compilation of Prabhupada's quotes glorifying the holy name
 
 📄 **Full transcript:** [week-80-dance-to-the-source-of-the-love.md](../../transcripts/module-5/week-80-dance-to-the-source-of-the-love.md)
 

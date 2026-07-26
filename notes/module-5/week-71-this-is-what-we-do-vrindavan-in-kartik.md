@@ -12,11 +12,14 @@ duration: "1:53:28"
 language: "en"
 words: 11098
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["kartik parikrama", "five essentials of bhakti", "shani/saturn", "kokilavan lila", "prabhupada's mood", "this is what we do"]
 ---
 
 # This is what we do (Vrindavan in Kartik)
 
 **His Holiness Indradyumna Swami** · Week 71 · Foundations in Bhakti · 1:53:28
+
+**Themes:** kartik parikrama · five essentials of bhakti · shani/saturn · kokilavan lila · prabhupada's mood · this is what we do
 
 ## Summary
 
@@ -32,6 +35,24 @@ Opening the 2014 Kartik Vrindavan Parikrama at Kokilavan, Indradyumna Swami fram
 - The Kokilavan pastime: Krishna lured Radharani out of Yavata by imitating cuckoo-bird song on his flute and glorifying Radha, so that the enchanted cuckoo birds fell unconscious, enabling a secret meeting arranged with the help of the sakhis.
 - The parikrama's mood is sitting for many hours a day in kirtan and hari-katha to awaken prema for Radha-Krishna, staying with the group; 'the saintly person sees through his ears, not through his eyes.'
 
+## Notable Stories & Analogies
+
+- Rameshwara's objection — when Rameshwara warned that annual pilgrimage would cost about $800 per devotee and slow book distribution, Prabhupada dismissed it: his disciples must come every year for purification and inspiration.
+- 'This is what we do' — asked by a reporter what his movement does, Prabhupada summed up the five essential practices with this simple phrase, later printed on a retreat T-shirt.
+- 'Krishna tells me directly' — when a reporter asked how Prabhupada knew all these things and Rameshwara answered that he reads the scriptures, Prabhupada corrected him: 'no, Krishna tells me directly.'
+- Loving Chaturatma's quirks — his blonde-dyed hair, earrings, and '36 teeth' illustrate that we love a person for their unique characteristics, just as Krishna's personality endears Him to us.
+- Shani the servant — Saturn, Yamaraja's crow-riding elder brother who delivers 'instant karma' during the seven-and-a-half-year sade-sati, worships Nrsimhadeva and begs His merciful sidelong glance.
+- The Kokilavan lila — to free Radharani from Yavata, Krishna imitates the cuckoo birds on His flute and sings Radha's glories until the enchanted birds faint from the branches, while Vishakha's ruse coaxes Jatila into letting Radharani go.
+- Monkeys and 44 pairs of glasses — Vrindavan's monkeys steal spectacles; once a banana bought them back, but now they crush the glasses and laugh.
+
+## Memorable Quotes
+
+> “This is what we do.”
+> “Krishna tells me directly.”
+> “The saintly person he sees through his ears, not through his eyes.”
+> “It's hard to forget Krishna when you're in Vrindavan.”
+> “Why are you sleeping when I'm speaking?”
+
 ## Scriptural References
 
 - Bhakti-rasamrita-sindhu (Rupa Goswami) — the five most-potent limbs of devotional service: 'sadhu-sanga, nama-kirtana, bhagavata-sravana, mathura-vasa, sri-murtira sraddhaya sevana'; also quoted in Caitanya-caritamrta Madhya 22.128. The organizing verse of the lecture.
@@ -45,6 +66,19 @@ Opening the 2014 Kartik Vrindavan Parikrama at Kokilavan, Indradyumna Swami fram
 - Nrsimha prayer attributed to Shani-dev (Nrsimha-stuti) — 'You protected your own devotee Prahlada from a raging fire, from being drowned in the deep ocean, from falling from a tall mountain peak, from poison, a mad elephant, and the fangs of a poisonous serpent... please bestow upon me your merciful sidelong glance'; one who chants prayers to Nrsimhadeva never falls under the effect of Saturn.
 - Srila Prabhupada's letter, 9 November 1975 — 'Anyone of my disciples who can stay permanently in Vrindavan is welcome... I want that as many of my disciples stay permanently here and become Vrajabhasis.'
 - Vishvanatha Chakravarti Thakura — there are 60 billion (sixty koti) holy places in Vrindavan; and his description of the cuckoo birds falling unconscious from the branches when Krishna danced in the Kokilavan pastime.
+
+## Glossary
+
+- **parikrama** — circumambulating pilgrimage around a holy place
+- **sadhu-sanga** — the association of devotees
+- **mathura-vasa** — residing in Mathura or Vrindavan
+- **Vrajavasi** — a resident of Vraja (also brajabasi)
+- **sade-sati** — the seven-and-a-half-year period of Saturn's difficult influence
+- **ishta-deva** — one's chosen worshipable deity
+- **Yogamaya** — the Lord's internal potency who arranges Radha-Krishna's pastimes (as Purnamasi)
+- **Katyayani** — the form of the goddess (Durga) the gopis worship to obtain Krishna
+- **kokila** — the cuckoo bird after which Kokilavan is named
+- **manjari** — a young gopi maidservant of Radha permitted at Her intimate pastimes
 
 📄 **Full transcript:** [week-71-this-is-what-we-do-vrindavan-in-kartik.md](../../transcripts/module-5/week-71-this-is-what-we-do-vrindavan-in-kartik.md)
 

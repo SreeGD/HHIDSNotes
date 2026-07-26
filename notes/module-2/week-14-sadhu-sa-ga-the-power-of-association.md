@@ -12,11 +12,14 @@ duration: "32:18"
 language: "en"
 words: 4174
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["sadhu-sanga", "five limbs of bhakti", "hearing from Vaishnavas", "kirtan", "deity worship", "holy dhama"]
 ---
 
 # Sadhu-saṅga: The Power of Association
 
 **His Holiness Indradyumna Swami** · Week 14 · Foundations in Bhakti · 32:18
+
+**Themes:** sadhu-sanga · five limbs of bhakti · hearing from Vaishnavas · kirtan · deity worship · holy dhama
 
 ## Summary
 
@@ -32,6 +35,25 @@ Drawing on Srila Rupa Goswami's Bhakti-rasamrita-sindhu (Nectar of Devotion), In
 - To understand the holy dhama one must hear from saintly persons, not merely sightsee — 'we see through our ears, not our eyes.' Bhaktisiddhanta Saraswati told disciples who left his lecture to see the arati that they 'just saw stone'; Prabhupada told a disciple who saw only rickshaw-wallas, pigs and open sewers in Vrindavan that a 'speck' (material desire) was in his eye.
 - Hearing from the guru is our lifeline, like the umbilical cord connecting child to mother; Prabhupada chastised the sleeping speaker in Hyderabad, saying transcendental sound (shabda-brahma) acts even without understanding the language, like taking medicine on a doctor's authority. Chanting plus devotee association together are potent like nitroglycerin (nitrogen + glycerin).
 
+## Notable Stories & Analogies
+
+- Salt on food — just as salt draws out the flavor of every dish, association with devotees draws out the essence of the other practices; the speaker travels with his own herbal salt and once saw Prabhupada eat an apple with salt in Vrindavan.
+- Blitzkrieg at University of Kentucky — the young devotee barged into a graduate class only to find the professor teaching Bhakti-rasamrita-sindhu, yet with no purifying effect on the smoking, gum-chewing students.
+- Milk touched by the lips of a serpent — a snake sips the cooling milk on the windowsill and leaves its venom behind, like hearing Bhagavatam from an impure reciter.
+- The kichari that tasted like Mother Yashoda's recipe — Prabhupada cooked kichari so wonderful that a godbrother said he had never tasted anything like it.
+- Bhaktisiddhanta Saraswati stops his lecture — when disciples left to see the arati he told them, 'you just saw stone; better you had sat and heard my lecture.'
+- The speck in the eye in Vrindavan — Prabhupada told a disciple who saw only rickshaw-wallas, pigs and open sewers that a speck of material desire clouded his vision of the dhama.
+- Sleeping in Hyderabad — Prabhupada chastised the drowsy speaker, insisting transcendental sound (shabda-brahma) acts even without understanding the language, like taking medicine on a doctor's authority.
+- Nitroglycerin — chanting Hare Krishna and serving in the association of devotees are each potent, but combined they are explosive like nitrogen plus glycerin.
+
+## Memorable Quotes
+
+> “We see through our ears, not through our eyes.”
+> “You just saw stone.”
+> “Milk touched by the lips of a serpent.”
+> “How can you love someone you don't know?”
+> “Why are you sleeping while I am talking?”
+
 ## Scriptural References
 
 - Bhakti-rasamrita-sindhu (Nectar of Devotion) by Srila Rupa Goswami — source of the 64 items of devotional service and the five essential angas/limbs; also the text being taught in the university classroom story.
@@ -41,6 +63,18 @@ Drawing on Srila Rupa Goswami's Bhakti-rasamrita-sindhu (Nectar of Devotion), In
 - Chaitanya-charitamrita — the pastime of Sarvabhauma Bhattacharya finding Lord Chaitanya unconscious in the Puri temple and composing 100 verses glorifying Him; one verse stresses that relief from the 'snakebite of samsara' comes through the medicinal herb of chanting the names of Bhagavan ('asadham bhagavan-nama') in the association and service of Vaishnavas ('srimad-vaishnava...').
 - Hare Krishna maha-mantra — quoted and discussed as the yuga-dharma, the sound to be chanted congregationally in the association of devotees.
 - Story of Srila Prabhupada naming the movement 'International Society for Krishna Consciousness' (1966) rather than 'God Consciousness,' to reveal the personality of Godhead.
+
+## Glossary
+
+- **sadhu-sanga** — association with saintly devotees; the most essential limb of devotional service
+- **anga** — a 'limb' or item of devotional service (five of the sixty-four are singled out as essential)
+- **yuga-dharma** — the recommended religious process for the age; in Kali-yuga, chanting the holy name
+- **prema** — pure love of God, the ultimate goal (prayojana) of devotional service
+- **kirtana** — congregational chanting of the holy names, chanted loudly so it penetrates the heart
+- **dhama** — the Lord's transcendental holy abode or place, revealed through hearing from saints
+- **shabda-brahma** — transcendental spiritual sound, which acts on the soul even without intellectual understanding
+- **Vaijayanti** — the garland of five kinds of flowers, reaching to Krishna's ankles, that adorns the deity
+- **Vaishnava** — a devotee of Vishnu/Krishna, from whom Bhagavatam must be heard for its real effect
 
 📄 **Full transcript:** [week-14-sadhu-sa-ga-the-power-of-association.md](../../transcripts/module-2/week-14-sadhu-sa-ga-the-power-of-association.md)
 

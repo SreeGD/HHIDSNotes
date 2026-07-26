@@ -12,11 +12,14 @@ duration: "1:07:57"
 language: "en"
 words: 9120
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["strictness and vows", "devotional service as strength", "renunciation", "celibacy and sense control", "the soul's relationship with Krishna", "no compromise"]
 ---
 
 # Srictness is our strength
 
 **His Holiness Indradyumna Swami** · Week 65 ·  · 1:07:57
+
+**Themes:** strictness and vows · devotional service as strength · renunciation · celibacy and sense control · the soul's relationship with Krishna · no compromise
 
 ## Summary
 
@@ -31,6 +34,26 @@ Speaking on Srimad Bhagavatam 5.18.13 (Canto 5, Chapter 18, 'The Residents of Ja
 - Real renunciation (yukta-vairagya) is not artificially rejecting the world (as Mayavadis do) but using it for Krishna's pleasure; Bhaktivinoda Thakura engaged his large family and saw his home become Vaikuntha. Material duality is unavoidable (the theater's happy and sad masks; sweet rice that turns sour), so a devotee never puts faith in the material energy ('you put your head on my lap and I cut your throat').
 - There is great strength in celibacy and sense control: semen and its energy are meant to rise to nourish the brain, so brahmacharya yields memory, determination and preaching power, exemplified by Bhaktisiddhanta Saraswati (memorized the whole Gita at seven, learned erudite English in five days); senility is described as a result of illicit sex, and subtle sex (profit, adoration, distinction) is the peacock's exhausting dance.
 - Our strength lies in our strictness: the real hero controls his mind and senses and keeps his initiation vows (no meat-eating, intoxication, illicit sex, gambling; sixteen rounds; service to guru) without compromise, since compromise is Maya's last trick. Every instruction of the spiritual master must be accepted, not just the prominent ones, lest we end up like Abhimanyu who could enter the formation but not escape it.
+
+## Notable Stories & Analogies
+
+- The crocodile in water and on land — ferocious in the water but helpless and awkward on land, like the soul strong with Krishna but weak when separated.
+- The picked peach flower — beautiful on the tree but wilting the moment it is cut off, like the soul severed from its source.
+- The thumb and Gandhi's spinning mills — the British cut off the spinners' thumbs; the thumb is vital to the hand but disgusting once severed, like the soul cut off from God.
+- The triple-bypass operation — the heart is lifted out and machines keep the body technically alive, showing that material existence is only artificial life.
+- The maximum-security prison — moat of crocodiles, electric fences, poison gas; birth, death, old age and disease keep the soul locked in Maya's kingdom.
+- Johnny Weissmuller and Elvis Presley — their bodily fame and strength became the very source of their downfall and ruin.
+- Arjuna and Urvasi — the celestial beauty offers herself, but Arjuna addresses her as 'mother' because she is his father's property, refusing without compromise.
+- Bhishma's vow — so his father may marry Satyavati, the young prince vows lifelong celibacy, and the demigods rain flowers, naming him Devavrata.
+- Abhimanyu — he learned from the womb how to enter the military formation but not how to exit it, warning that every instruction of the guru must be taken.
+
+## Memorable Quotes
+
+> “So our strength lies in our strictness.”
+> “The real hero is one who can control his mind and control his senses.”
+> “But you promised.”
+> “It may be like nectar in the beginning, but it's poison in the end.”
+> “This is Maya's last trick.”
 
 ## Scriptural References
 
@@ -50,6 +73,19 @@ Speaking on Srimad Bhagavatam 5.18.13 (Canto 5, Chapter 18, 'The Residents of Ja
 - Mahabharata - Abhimanyu (sixteen-year-old son of Arjuna and Subhadra) heard from within the womb how to penetrate the military formation (chakra-vyuha) but not how to exit it, because Subhadra fell asleep; used to teach that every instruction of the spiritual master must be assimilated, not just the prominent ones.
 - Bhaktisiddhanta Saraswati Thakura (paraphrased) - 'I see no reason that all my disciples could not go back to Godhead in this very lifetime'; cited as encouragement to remain strict.
 - Srila Prabhupada (paraphrased sayings, sources not specified) - 'material life means you put your head on my lap and I cut your throat'; senility is a result of illicit sex life; and, to a disciple who said he could no longer follow the rules, simply 'but you promised.'
+
+## Glossary
+
+- **jivera svarupa** — the constitutional nature of the soul as Krishna's eternal servant
+- **Paramatma** — the Supersoul, the all-pervading aspect of the Lord within all beings
+- **naishthika brahmachari** — a lifelong celibate from birth, as Bhaktisiddhanta Saraswati
+- **brahmachari, grihastha, sannyasa** — the celibate-student, householder, and renounced ashramas
+- **yovana** — the freshness and vigor of youth
+- **Maya / Durga** — the material illusory energy, the prison-keeper of this world
+- **rasa** — the taste or relationship one relishes through service
+- **Devavrata** — Bhishma's name, meaning the upholder of great vows
+- **apsara** — a celestial courtesan, such as Urvasi
+- **kundalini** — the yogic process of raising the vital energy upward to the brain
 
 📄 **Full transcript:** [week-65-srictness-is-our-strength.md](../../transcripts/module-4/week-65-srictness-is-our-strength.md)
 

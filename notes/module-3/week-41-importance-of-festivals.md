@@ -12,11 +12,14 @@ duration: "25:22"
 language: "en"
 words: 3443
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["festivals", "vaidhi-bhakti", "cleansing the heart", "kirtan", "spiritual world", "Sunday Love Feast"]
 ---
 
 # Importance of Festivals
 
 **His Holiness Indradyumna Swami** · Week 41 · Festivals and Kirtans · 25:22
+
+**Themes:** festivals · vaidhi-bhakti · cleansing the heart · kirtan · spiritual world · Sunday Love Feast
 
 ## Summary
 
@@ -31,6 +34,24 @@ Speaking at a multi-day Memorial Day weekend festival, Indradyumna Swami explain
 - Chanting cleanses the mirror of the heart (ceto-darpana-marjanam) — a festival is like spring cleaning.
 - Don't be shy: give yourself fully to the process — chanting, dancing, hearing, and prasadam.
 
+## Notable Stories & Analogies
+
+- Cleaning the car mirror — the speaker sprays and wipes every window before driving, as chanting cleans the ever-dirtying mirror of the heart.
+- Spring cleaning — after a musty winter you throw open the windows and scrub; a festival is spring cleaning for the heart.
+- The unwashed boy — filthy and matted, he said 'I like to keep life's experiences with me,' illustrating a heart that is never cleansed.
+- The doctor's injection — busy life leaves us treading water, so a festival is a big dose that cures the disease of material existence.
+- Krishna returning to Vrindavan — the villagers stand like wooden dolls in separation when He leaves for the forest and celebrate every evening when He returns.
+- Prabhupada and the GBC on the Mayapur festival — told the expense did not matter because coming together to chant is so important.
+- Vishnujana Swami's chastisement — 'the only thing you haven't done is given your life fully to Krishna.'
+
+## Memorable Quotes
+
+> “It does not matter. It is so important that we all come together like this and chant Hare Krishna and hear the glories of Lord Chaitanya.”
+> “No, I like to keep life's experiences with me.”
+> “Elegance is truth spoken concisely.”
+> “Take with gusto.”
+> “The only thing you haven't done is given your life fully to Krishna.”
+
 ## Scriptural References
 
 - Nectar of Devotion (Bhakti-rasamrta-sindhu) — it is an offense (aparadha) not to observe the festivals of the Vaishnava calendar.
@@ -39,6 +60,19 @@ Speaking at a multi-day Memorial Day weekend festival, Indradyumna Swami explain
 - Brahma-samhita — Goloka Vrindavan, where 'all walking is dancing and all talking is singing' and there is a festival every day.
 - Sri Chaitanya-caritamrita, Madhya 19.53 — Rupa Goswami's prayer 'namo maha-vadanyaya krsna-prema-pradaya te...'; Chaitanya is the most munificent incarnation, freely bestowing krsna-prema.
 - Songs of the Vaishnava Acaryas (Srila Prabhupada's Introduction) — 'we must always merge in the transcendental mellow of kirtana-rasa', the safest situation in the material world.
+
+## Glossary
+
+- **aparadha** — an offense; here, ignoring a Vaishnava festival
+- **ceto-darpana-marjanam** — cleansing the mirror of the heart by chanting
+- **sadhana-bhakti** — regulated devotional practice
+- **vaidhi-bhakti** — devotion following rules and regulations
+- **yajna** — sacrifice; a festival glorifying Vishnu
+- **kirtan-rasa** — the transcendental mellow of congregational chanting
+- **Hari-katha** — talks and narrations about the Lord
+- **Yogamaya** — the Lord's internal potency that keeps pastimes ever-fresh
+- **Goloka Vrindavan** — Krishna's eternal abode where every day is a festival
+- **prasadam** — sanctified food offered to Krishna
 
 📄 **Full transcript:** [week-41-importance-of-festivals.md](../../transcripts/module-3/week-41-importance-of-festivals.md)
 

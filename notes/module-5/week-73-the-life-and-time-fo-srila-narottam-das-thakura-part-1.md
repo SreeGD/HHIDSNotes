@@ -12,11 +12,14 @@ duration: "1:21:25"
 language: "en"
 words: 10940
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["narottama dasa thakura", "sankirtana mission", "keturi festival", "separation (vipralambha)", "kirtana", "jahnava mata"]
 ---
 
 # The Life and Time fo Srila Narottam Das Thakura Part 1
 
 **His Holiness Indradyumna Swami** · Week 73 · Foundations in Bhakti · 1:21:25
+
+**Themes:** narottama dasa thakura · sankirtana mission · keturi festival · separation (vipralambha) · kirtana · jahnava mata
 
 ## Summary
 
@@ -31,6 +34,25 @@ Delivered on the appearance day of Srila Narottama Dasa Thakura at the Alachua c
 - He recovered a golden deity of Gauranga and Vishnupriya from a snake-infested granary in Keturi, and received Ramachandra Kaviraja from Srinivasa as his intimate co-preacher.
 - At the Keturi Gaura-purnima festival, Srinivasa installed six deities named Gauranga, Vallabhikanta, Sri Krishna, Vrajamohana, Radharamana, and Radhakanta (celebrated in Jahnava Mata's song); Narottama's kirtana of separation grew so intense that the Panchatattva (Chaitanya, Nityananda, Advaita, Gadadhara, Srivasa) appeared and danced, followed by a festival of colors.
 - Jahnava Mata, wife of Nityananda and foremost Vaishnava of the age, is glorified as Nityananda's compassionate potency: she cooked and fed all the assembled devotees, and later converted would-be assassins (dacoits and Durga-worshipping brahmanas) into surrendered disciples.
+
+## Notable Stories & Analogies
+
+- The stolen manuscripts — King Bir Hambir's soldiers steal the trunk of the Goswamis' only hand-copied books, but a voice from the sky assures Srinivasa, 'The books will be returned, do not fear.'
+- Santosha surrenders his kingdom — Narottama's nephew, the reigning regent, runs to the edge of town and lays his entire kingdom and his life at Narottama's feet.
+- Navadvipa frozen in separation — Narottama sees a tumultuous kirtan suddenly vanish into vipralambha; the Ganges stops flowing, cows freeze with grass in their mouths, and a crippled old sadhu dances on recognizing him.
+- Gadadhara das and the Kazi — the fearless devotee storms a cruel Muslim ruler's palace at night, demanding he chant Hari or lose his head, and joyfully declares him delivered when he agrees.
+- The golden deity in the snake granary — Narottama fearlessly enters a venomous, corpse-littered granary; the snakes slither away forever, and he unearths a solid-gold deity of Gauranga (later seen by the Swami at Ganga-narayana Chakravarti's home).
+- The black snake around your neck — Srinivasa stops a wedding procession and warns the newly-wed Ramachandra that his beautiful bride is a 'black snake of death'; Ramachandra sends her home and becomes his disciple.
+- The Panchatattva appear at Keturi — Narottama's kirtan of separation grows so intense that Lord Chaitanya and the whole Panchatattva descend and dance, seen even by passing villagers, followed by a festival of colors.
+- Jahnava converts the assassins — dacoits charge her camp all night yet never advance a step, and Durga-worshipping brahmanas are threatened by Bhavani in dreams; all surrender and are initiated.
+
+## Memorable Quotes
+
+> “Preaching is the essence, books are the basis, purity is the principle and purity is the force.”
+> “It's as good to chant the name of a devotee as it is to chant the name of God.”
+> “Along with the order of the spiritual master comes the ability to execute it.”
+> “Anyone who takes shelter of you will get the shelter of my feet and easily attain prema bhakti.”
+> “Real friends don't let their friends eat meat.”
 
 ## Scriptural References
 
@@ -47,6 +69,19 @@ Delivered on the appearance day of Srila Narottama Dasa Thakura at the Alachua c
 - Bhaktivinoda Thakura (song, unspecified) - paraphrased that on hearing the chiming of kartals and the beat of the mridanga, his bliss knows no bounds and he runs to the kirtana.
 - Verse comparing the mutual attraction of young men and women to the intensity of love the devotee should feel for Krishna - attributed by the speaker to a Goswami (rendered "Rupa"); verse source not clearly identifiable from the transcript.
 - Bible (used as analogy) - John 10:30 "My Father and I are one" (on the loving oneness of the Lord and His devotee) and Acts 20:35 "it is better to give than to receive" (on sharing Krishna consciousness).
+
+## Glossary
+
+- **Mahasaya** — the honorific title ('great soul') awarded to Narottama in Vrindavan
+- **Vilasa Manjari** — Narottama's eternal identity as an intimate maidservant of Radha-Krishna
+- **prema-bhakti** — pure loving devotion, the goal Narottama could bestow
+- **vipralambha-bhava** — the mood of separation from the Lord, held as the highest
+- **sankirtana** — congregational chanting of the holy names
+- **Panchatattva** — Chaitanya, Nityananda, Advaita, Gadadhara, and Srivasa
+- **Gaura-purnima** — the festival of Lord Chaitanya's appearance (held at Keturi)
+- **Ishtagosthi** — an assembly to discuss and settle philosophy
+- **Bhakti-ratnakara** — Narahari Chakravarti's biographical source text
+- **Uttama-adhikari** — a topmost, fully realized devotee
 
 📄 **Full transcript:** [week-73-the-life-and-time-fo-srila-narottam-das-thakura-part-1.md](../../transcripts/module-5/week-73-the-life-and-time-fo-srila-narottam-das-thakura-part-1.md)
 

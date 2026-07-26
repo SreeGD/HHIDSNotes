@@ -12,11 +12,14 @@ duration: "1:15:54"
 language: "en"
 words: 12391
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["srila prabhupada", "pure devotee", "deity worship", "love in separation", "guru and disciple", "sankirtan mission", "transformation by mercy"]
 ---
 
 # Srila Prabhupad Glorification
 
 **His Holiness Indradyumna Swami** · Week 12 ·  · 1:15:54
+
+**Themes:** srila prabhupada · pure devotee · deity worship · love in separation · guru and disciple · sankirtan mission · transformation by mercy
 
 ## Summary
 
@@ -31,6 +34,26 @@ Indradyumna Swami offers a Srila Prabhupada glorification composed entirely of p
 - At the installation of Radha Paris-Ishvara, Prabhupada tenderly tried to wipe a rose-colored mark from Radharani's marble cheek, convincing the speaker that the Deity is not stone but directly Krishna and Radha (echoing the Los Angeles teaching that Deities worshiped with love and devotion will one day speak); after winning a book-distribution marathon he drank all the charanamrita from bathing Prabhupada's feet, and he witnessed Prabhupada weep torrents of tears in separation while singing 'Jaya Radha-Madhava.'
 - Prabhupada's expert, universal preaching is shown by the sudden conversion of a French Navy admiral (instructed to read the ninth chapter of the Bhagavad-gita, which he still read weekly years later) and by the transformation of 'Pigpen,' a filthy, intoxicated homeless boy whom Prabhupada blessed with 'it's all right, my boy,' who became the initiated book distributor Rasada Das, likened to bell metal turned to gold and to the deliverance of the Jagai and Madhai of the modern age.
 - Prabhupada is glorified as the perfect gentleman and listener who could touch any heart: he redirected a woman obsessed with her past life to what she could become in her next life ('pariprasnena sevaya' - questions should be relevant to advancing in Krishna consciousness), yet could also rightly explode in defense of Krishna, rebuking a man who claimed to be God in Bombay with 'You are not God, you are a dog.'
+
+## Notable Stories & Analogies
+
+- First darshan in Detroit — as seasoned devotees fell down weeping, the new devotee could not cry and feared he had too many material desires, until Prabhupada's words 'you are not this body' pierced his heart.
+- The white bag at customs — when a rude officer barked at Prabhupada to open his little white bag, the disciple threatened to break his face, then finally got to peek inside at the glasses, pen and Ayurvedic medicines.
+- The London slap on the back — left behind to carry Prabhupada's heavy bag of Acharya commentaries and missing the reception and prasadam, he received a slap and the blessing that everything will be easy and sublime back home, back to Godhead.
+- Radha Paris-Ishvara installation — Prabhupada tenderly tried to wipe a rose-colored mark from Radharani's marble cheek, treating the Deity not as stone but directly as Radharani.
+- The charanamrita marathon — to win the right to bathe Prabhupada's feet, he spent a month in the Paris metro without seeing the sun, then he and his godbrother locked themselves in the office to drink every drop of the foot-bath water while brahmacharis banged on the door.
+- Jaya Radha-Madhava tears — singing before the Deities, Prabhupada began shaking and wept torrents of tears in separation from Krishna, giving the disciple a glimpse of Vrindavan.
+- The French admiral — a naval admiral came from a yoga club, was converted in forty-five minutes, and told to concentrate on the ninth chapter of the Gita, which he still read every week years later.
+- Pigpen transformed — a filthy, drug-addicted homeless boy whom Prabhupada blessed with 'it's all right, my boy' became the initiated book distributor Rasada Das, like bell metal turned to gold.
+- 'You are not God, you are a dog' — at a Bombay pandal before 50,000 people, Prabhupada exploded in righteous anger when a man claimed to be God, defending his beloved Krishna.
+
+## Memorable Quotes
+
+> “Please believe me when I tell you, you are not this body.”
+> “So much endeavor in this material world. When I take you back home, back to Godhead, everything will be easy and sublime.”
+> “Charlie Chaplin's humor is very original and Krishna is the origin of all original things.”
+> “That's all right, my boy.”
+> “You are not God, you are a dog.”
 
 ## Scriptural References
 
@@ -52,6 +75,19 @@ Indradyumna Swami offers a Srila Prabhupada glorification composed entirely of p
 - Hare Krishna maha-mantra ('Hare Krishna Hare Krishna, Krishna Krishna Hare Hare / Hare Rama Hare Rama, Rama Rama Hare Hare') — recited in full as Prabhupada's remedy to the woman: one can become a devotee of Krishna by chanting it.
 - Srila Prabhupada pranama prayer ('nama om vishnu-padaya krishna-preshthaya bhu-tale...' and its second verse 'namas te sarasvate deve gaura-vani-pracarine...') — recited by the speaker while offering obeisances in Prabhupada's London room.
 - 'Je anilo prema-dhana karuna pracura' (song of separation by Narottama dasa Thakura) — quoted in the closing line lamenting the disappearance of the acharya.
+
+## Glossary
+
+- **darshan** — The audience or sight of the Lord or the spiritual master.
+- **charanamrita** — The sanctified water that has bathed the feet of the Deity or spiritual master.
+- **maha-prasadam** — The remnants of food taken by the spiritual master or a pure devotee.
+- **sankirtan** — The congregational chanting of the holy names and the mission of book distribution.
+- **prema-bhakti** — Pure, ecstatic love of God, the highest goal of devotional service.
+- **vipralambha** — Loving sentiments felt for the Lord in separation.
+- **archana (deity worship)** — Worship of the Lord in His Deity form on the altar.
+- **Vyasasana** — The elevated seat from which the spiritual master speaks.
+- **guru-puja** — The ceremonial worship of the spiritual master.
+- **dhoti** — The traditional cloth garment worn by men; Prabhupada gave the speaker one of his own.
 
 📄 **Full transcript:** [week-12-srila-prabhupad-glorification.md](../../transcripts/module-1/week-12-srila-prabhupad-glorification.md)
 

@@ -12,11 +12,14 @@ duration: "52:08"
 language: "en"
 words: 4566
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["sense gratification", "addiction", "bona fide guru", "holy name", "humility", "devotional service"]
 ---
 
 # Overcome Addiction of Sense Gratification
 
 **His Holiness Indradyumna Swami** · Week 22 · Festivals and Kirtans · 52:08
+
+**Themes:** sense gratification · addiction · bona fide guru · holy name · humility · devotional service
 
 ## Summary
 
@@ -31,6 +34,25 @@ Lecturing on Srimad Bhagavatam 7.7.38 from the chapter 'What Prahlada Learned in
 - Great teachers deliberately take the role of the student to show materialists, who are too absorbed to inquire, how to ask the right questions (Bhagavad-gita 4.34, 'tad viddhi pranipatena'). Examples of proper inquiry: the sages of Naimisharanya to Suta Goswami, Pariksit to Sukadeva, Rupa and Sanatana to Lord Chaitanya (Sanatana's 'ke ami — who am I?'), and even Chaitanya inquiring from Haridasa Thakura and Ramananda Raya.
 - Material life is futile: 25 years studying, 25 working to maintain family, 25 warding off disease and old age, and any remaining time spent in anxiety about death — money does not grow on trees and most of us are not Bill Gates. Its one good side is that repeated defeat breeds humility (dainya), the first step of surrender, which Bhaktivinoda Thakura develops through the seven songs of Saranagati (from cradle to grave, then atma-nivedana, accepting Krishna as protector, and rejecting the unfavorable); of the four kinds of pious men who turn to Krishna (Bhagavad-gita 7.16), the distressed (arta) are the main group.
 - Addiction is dependence one is powerless to stop; doctors treat it by stopping the substance and replacing it with something better (stop smoking, chew gum). Likewise one stops sense gratification and offers everything to Krishna (Bhagavad-gita 9.27, 'yat karoshi yad ashnasi') and chants constantly (Siksastakam, 'kirtaniya sada hari'). No compromise — the 'milk fast' (payovrata) devotee who also ate sandesh, burfi, and ice cream 'because they are milk products,' and the 70% of dieters who regain their weight, illustrate the danger of sliding back; drink the pure nectar of the holy name (Bhaktivinoda Thakura's Gitavali).
+
+## Notable Stories & Analogies
+
+- Coca-Cola cups — the donated cups read Coca-Cola, so photographs make it look as if the Swami is drinking soda.
+- Going to hell takes endeavor — to sin one must first build brothels, slaughterhouses, casinos, and breweries; going back to Godhead needs none of it.
+- Blank-faced reciters — gurukula children rattle off many shlokas like the wind but give a blank face when asked the meaning (jnana vs vijnana).
+- Kimshuka flower — the beautiful red but fragrance-less flower, like a person of birth, youth, and beauty but no knowledge.
+- Wimbledon silver medal — Federer beats Nadal, and second place gets only half the money and fame, like the gurus of yogis and jnanis.
+- Four twenty-five-year stages — 25 years studying, 25 working to maintain the family, 25 warding off disease, then only anxiety about death.
+- Stop smoking, chew gum — doctors cure addiction by stopping the substance and replacing it with something better.
+- The milk-fast cheater — a devotee on payovrata also ate sandesh, burfi, and ice cream, reasoning that they are all milk products.
+
+## Memorable Quotes
+
+> “Guru means heavy with knowledge.”
+> “There's knowledge, and then there's realization of the knowledge.”
+> “Struggle for existence, the human race, only hope is divine grace.”
+> “Money doesn't grow on trees.”
+> “Stop smoking and chew gum.”
 
 ## Scriptural References
 
@@ -51,6 +73,18 @@ Lecturing on Srimad Bhagavatam 7.7.38 from the chapter 'What Prahlada Learned in
 - Bhaktivinoda Thakura, Gitavali — cited for the joyful process of chanting: the line that life becomes successful when one is attached to the holy name (without affection for Krishna life is useless, and at the end such a chanter obtains the vision of Radha-Shyama in Vrindavan), and 'drink the pure nectar of the holy name... except for the holy name there is nothing within all the fourteen worlds.'
 - Srila Prabhupada's poem/prayer — 'Struggle for existence, the human race, the only hope is divine grace,' cited on how the hardships of material life turn one, in humility, toward God.
 - Srimad Bhagavatam (referenced) — Prahlada Maharaja named as one of the twelve mahajanas, establishing his authority as a spiritual master rather than a confused inquirer.
+
+## Glossary
+
+- **jnana** — theoretical knowledge of the scriptures
+- **vijnana** — realized, practical knowledge gained by acting on jnana
+- **shrotriyam** — being expert in understanding the Vedic conclusion, a symptom of the guru
+- **mahajana** — a great self-realized authority on devotional service (there are twelve)
+- **dainya** — humility, the first quality in surrendering to God
+- **atma-nivedana** — full self-dedication and surrender to the Lord
+- **Saranagati** — Bhaktivinoda Thakura's collection of songs on surrender
+- **payovrata** — a vow to subsist only on milk
+- **siddhanta** — the settled philosophical conclusion a real guru knows and imparts
 
 📄 **Full transcript:** [week-22-overcome-addiction-of-sense-gratification.md](../../transcripts/module-2/week-22-overcome-addiction-of-sense-gratification.md)
 

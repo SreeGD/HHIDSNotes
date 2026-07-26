@@ -12,11 +12,14 @@ duration: "1:20:25"
 language: "en"
 words: 8497
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["devotional service", "fall of the soul", "maya and durga", "certainty of death", "the soul as servant", "do your part"]
 ---
 
 # Do your Part
 
 **His Holiness Indradyumna Swami** · Week 50 ·  · 1:20:25
+
+**Themes:** devotional service · fall of the soul · maya and durga · certainty of death · the soul as servant · do your part
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking on a spring afternoon in Budapest, Indradyumna Swami lectures on Bhagav
 - The soul is eternally Krishna's servant (the hand happily serves the stomach; sugar is sweet, water is wet, salt is salty), so material happiness is only 'relief' (a Gallup poll found people bored 90% of the time), and the remedy for sadness is to rise and do service.
 - Creation exists to frustrate us into turning back to God; all are brought to their knees by intelligence or by death (Khrushchev's cosmonaut denying God; order from atom to universe implies a supreme intelligence and the Supersoul Kshirodakashayi Vishnu in every atom).
 - 'Do your part': God throws the life-preserver by directing you to devotees and a bona fide guru (external manifestation of the Supersoul, who blesses and chastises, e.g. Prabhupada correcting Shyamasundar's cigarette on Jagannath), but you must grab and hold tight through chanting, hearing and dancing, just as Mother Yashoda's rope was two inches short and she had to add her one inch to Krishna's.
+
+## Notable Stories & Analogies
+
+- Melanoma scare in Durban — a doctor mistakenly diagnoses advanced melanoma and gives him a six-month prognosis, and instantly the beauty of the world fades until only Radha-Krishna's lotus feet matter.
+- Bull tied to a post — the bull prances about thinking he is free until the nose-rope jerks him back, showing our false sense of independence from God.
+- Damodar Das and the truant boys — the young Prabhupada refused to go to school, so his mother summoned a man named Damodar Das whose paid job was to tie naughty boys with a rope and drag them to class.
+- Surfers are sufferers — watching Hawaiian surfers, Prabhupada said they are not surfers but sufferers who will become dolphins in their next life.
+- The hand and the stomach — the hand that carries a gulabjamun to the mouth is nourished only by serving the stomach, illustrating that the soul is satisfied only as servant.
+- Khrushchev's cosmonaut — the Soviet cosmonaut in orbit denies seeing God, but when his craft fails and burns up his last words are 'Oh my God, please help me.'
+- The friend whose house burned down — as an 18-year-old with a house full of visiting friends, when the house burned only an empty rocking chair remained and not one friend came, unlike Krishna the true friend in the heart.
+- Mother Yashoda's rope — the rope to bind baby Krishna was always two inches short; Krishna supplied one inch of mercy, but Yashoda still had to add her own one inch of effort.
+
+## Memorable Quotes
+
+> “A sannyasi, he can travel with the sun.”
+> “they're not surfers, they're sufferers.”
+> “Guna means rope.”
+> “Just be who you are. Don't try to be somebody you're not.”
+> “It's all fun but it's serious fun.”
 
 ## Scriptural References
 
@@ -48,6 +70,18 @@ Speaking on a spring afternoon in Budapest, Indradyumna Swami lectures on Bhagav
 - Chaitanya-charitamrita (Madhya 19.151) — quoted 'brahmanda bhramite kona bhagyavan jiva, guru-krishna-prasade paya bhakti-lata-bija': wandering the universe, a fortunate soul receives the seed of devotion by the mercy of guru and Krishna.
 - Chaitanya-charitamrita — Sanatana Goswami's inquiry to Chaitanya Mahaprabhu, quoted 'ke ami' ('who am I?'): though learned, I am a fool who does not know my own identity; please tell me who I am.
 - Prayer of Srila Rupa Goswami — quoted in translation: 'O my Lord, I am drowning in the painful, fathomless whirlpool of repeated birth and death... O friend of those who have no shelter, O effulgent moon of mercy, please, just this one time, quickly extend Your hand to save me.' (specific verse/source not identified with certainty).
+
+## Glossary
+
+- **sannyasi** — a renounced monk in the fourth order of spiritual life, free to travel and preach
+- **guna** — literally 'rope'; the three modes of material nature (goodness, passion, ignorance) that bind the soul
+- **Maya Devi** — the Lord's illusory external energy that takes charge of the soul that leaves the spiritual world
+- **Durga** — the personified material energy, wife of Shiva, likened to the warden of the material prison
+- **Rudrani** — a name of Durga meaning 'she who makes you cry'
+- **Paramatma (Supersoul)** — the Lord's expansion seated in every heart as the closest friend, guiding the soul back to God
+- **adhyatmika, adhibhautika, adhidaivika** — the three kinds of misery: from one's own body/mind, from other living beings, and from nature and the demigods
+- **dandavat** — full prostrated obeisances, falling flat like a stick (danda) before the Lord
+- **prasadam** — sanctified food first offered to Krishna
 
 📄 **Full transcript:** [week-50-do-your-part.md](../../transcripts/module-3/week-50-do-your-part.md)
 

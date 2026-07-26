@@ -12,11 +12,14 @@ duration: "26:57"
 language: "en"
 words: 3726
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["yuga avatar", "harinama", "mahabhava", "rupa goswami", "gaura purnima", "preaching"]
 ---
 
 # Lecture: Lord Chaitanya the yoga avatars
 
 **His Holiness Indradyumna Swami** · Week 60 · Festivals and Kirtans · 26:57
+
+**Themes:** yuga avatar · harinama · mahabhava · rupa goswami · gaura purnima · preaching
 
 ## Summary
 
@@ -32,6 +35,24 @@ Speaking on Gaura Purnima—the appearance day of Sri Chaitanya Mahaprabhu and t
 - Gaudiya Vaishnavism, unlike the awe-and-reverence (aishwarya) mood of earlier Vaishnavas like Ramanuja and Madhva, gives the sweet, intimate love of the residents of Vrindavan.
 - This is a missionary movement: the holy name delivers even the most fallen (Patita-pavana), preaching is what gives life to a community, and none is more dear to Krishna than one who preaches—so the Seattle devotees should keep the preaching spirit, with praise for Harivilas Prabhu and the temple being built.
 
+## Notable Stories & Analogies
+
+- The medicine for each age — like a pharmacist dispensing, the Lord gives meditation (Satya), fire sacrifice (Treta), temple worship (Dvapara) and the holy name (Kali).
+- The golden champak flower — shown a champak flower, Prabhupada said 'this is the color of Radharani,' explaining Chaitanya's golden complexion.
+- Ratha-yatra's stopped cart — Jagannath's cart would not move until Mahaprabhu appeared and danced, singing of the same lover and the same moonlit night.
+- The verse in the thatched roof — Rupa Goswami hid a verse in the thatch of Haridasa Thakura's kutir; finding it, Mahaprabhu asked, 'Who has understood my mind?'
+- Haridasa Thakura's humility — the Namacharya would not enter the Jagannath temple, so out of love the Lord visited him daily as Chaitanya Mahaprabhu.
+- Rupa's poems like strings of pearls — Mahaprabhu praised Rupa Goswami's verses on the holy name as strings of pearls.
+- Sent to a thriving mission — arriving in France on Prabhupada's order, the Swami found the preaching already flourishing under Harivilas Prabhu.
+
+## Memorable Quotes
+
+> “Our definition of auspiciousness is that which brings us closer to the Lord.”
+> “There's no other way, no other way, no other way.”
+> “the face is an index of the mind.”
+> “who has understood my mind?”
+> “preaching gives life, if the preaching stops things dry up, it gets boring and people leave.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam 11.5.32 — 'krishna-varnam tvishakrishnam sangopangastra-parshadam / yajnaih sankirtana-prayair yajanti hi su-medhasah' — the central Gaudiya verse establishing Chaitanya as the golden yuga-avatar of Kali, surrounded by His associates and worshipped by the intelligent through sankirtana.
@@ -46,6 +67,19 @@ Speaking on Gaura Purnima—the appearance day of Sri Chaitanya Mahaprabhu and t
 - Vedanta-sutra 1.1.1 — 'athato brahma-jijnasa' — cited that the sole purpose of human life in every age is self-realization / inquiry into the Absolute.
 - Srimad Bhagavatam 6.3.19 — 'dharmam tu sakshad bhagavat-pranitam' — real religion is enunciated directly by the Lord; used to explain why He personally gives the age-appropriate process.
 - Rupa Goswami's verse on the holy name (Vidagdha-madhava 1.15, also quoted in Chaitanya-caritamrita Antya-lila) — paraphrased as wishing for thousands of tongues and millions of ears to chant and hear the holy name; Chaitanya praised his poetic lines as 'strings of pearls' (exact citation approximate).
+
+## Glossary
+
+- **Yuga-avatar** — the incarnation who appears in each age to give its appropriate process of self-realization
+- **Harinama** — the holy name of the Lord
+- **Mahabhava** — the highest, deepest ecstasy of love of God, epitomized by Srimati Radharani
+- **Sankirtana** — congregational chanting of the holy names
+- **Rupanuga** — a follower in the line of Srila Rupa Goswami
+- **Rasa-acharya** — the teacher of devotional mellows; Rupa Goswami, who understood Chaitanya's inner heart
+- **Aishwarya** — the mood of awe and reverence toward God, as in Vaikuntha worship
+- **Patita-pavana** — the deliverer of the most fallen; a name of Chaitanya Mahaprabhu
+- **Namacharya** — the authority and teacher of the holy name; Haridasa Thakura
+- **Champaka** — a fragrant golden flower, likened to Radharani's golden complexion
 
 📄 **Full transcript:** [week-60-lecture-lord-chaitanya-the-yoga-avatars.md](../../transcripts/module-4/week-60-lecture-lord-chaitanya-the-yoga-avatars.md)
 

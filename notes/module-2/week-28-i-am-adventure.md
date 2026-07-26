@@ -12,11 +12,14 @@ duration: "1:30:47"
 language: "en"
 words: 12210
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["adventure in service", "preaching", "divine protection", "material world", "opulences of the absolute", "holy name"]
 ---
 
 # I am Adventure
 
 **His Holiness Indradyumna Swami** · Week 28 ·  · 1:30:47
+
+**Themes:** adventure in service · preaching · divine protection · material world · opulences of the absolute · holy name
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking on Bhagavad-gita 10.36 - where Krishna declares 'I am the gambling of c
 - The Marseille story: a party of ten skinny brahmacharis is surrounded by a Hell's Angels gang, escapes when the heavy cook rolls like a steamroller and knocks the leader down, hides in a bakery attic (the 'half-deaf' baker, the butcher who defends them and is beaten), then survives a night confrontation with gypsies by claiming 'we are brothers' (Prabhupada taught that gypsies originated from India); the next morning they march forward chanting Jayadeva's Nrisimha Dasavatara prayer ('tava kara-kamala-vare nakham adbhuta-shringam...'), and the whole gypsy village routs the returning bikers - proof that Krishna sends the solution.
 - Hearts are conquered by prasadam and kirtan: the gypsies gorge on a 27-preparation feast, dance, and chant for hours (agyata-sukriti - even unknowing service is accepted by the Lord, like a child buying his father a gift with the father's own money); a parallel story in Krasnoyarsk, Russia has shoe-stealing gypsies befriended, told to give up meat, intoxication, illicit sex and gambling, and turned into Sunday-feast guests who greet devotees with 'Hare Krishna brother' - modern pastimes of Lord Chaitanya, deliverer of the most fallen.
 - Closing call and Dagestan story: crossing a war-zone border by reciting the Shahada, the party is mistaken for Indian 'mullahs' and leads 10,000 Muslims at a wedding to chant the Hare Krishna maha-mantra (written in Arabic on the screen) as praise of Allah; real adventure is preaching, not Disneyland, and Indians must reclaim their vanishing spiritual culture ('Cry, my beloved country'; India as second-largest exporter of cow flesh) per Lord Chaitanya's charge to those born in Bharat (CC Madhya 9.41) - because if India becomes Krishna conscious, the whole world will follow.
+
+## Notable Stories & Analogies
+
+- Airplane newspapers — passengers read four newspapers of the same news then throw them away; 'chewing the chewed,' like the boy who re-chewed old gum.
+- Drop of water in the desert — a man dying of thirst is given only a single drop; material life feeds the senses but never satisfies the soul.
+- Marwari's check and the sweeper's rose — Prabhupada told the rich man 'God is looking what you're keeping in your pocket,' but accepted the humble lady's rose.
+- Marseille Hell's Angels — a motorcycle gang surrounds ten skinny brahmacharis until the heavy cook rolls like a steamroller and knocks the leader down.
+- The Nrisimha marching song — the devotees march boldly forward chanting Jayadeva's Dasavatara prayer, like New Zealand's All Blacks performing the haka before a match.
+- Gypsy blood brotherhood — Maharaja defuses a knife-point standoff by claiming 'we are brothers' (gypsies came from India) and mingles blood with their leader.
+- Dagestan Muslim wedding — mistaken for Indian mullahs, the devotees lead 10,000 Muslims in chanting Hare Krishna as praise of Allah, written in Arabic on the screen.
+- Disneyland — real adventure is not the plastic pirates of a theme-park ride but the risk of preaching with faith in Krishna's protection.
+
+## Memorable Quotes
+
+> “If Krishna wants to kill you, no one can save you, and if Krishna wants to save you, no one can kill you.”
+> “Along with the instructions of the spiritual master come the ability to execute it.”
+> “When did I ever say that preaching is easy?”
+> “Adventure isn't going to Disneyland.”
+> “One who does good, my friend, is never overcome by evil.”
 
 ## Scriptural References
 
@@ -55,6 +77,18 @@ Speaking on Bhagavad-gita 10.36 - where Krishna declares 'I am the gambling of c
 - Srimad Bhagavatam 7.5.30 ('punah punas carvita-carvananam') - 'chewing the chewed,' evoked in the airplane-newspaper analogy about repeatedly reading valueless material things.
 - Chanakya Pandit's niti-shastra - referenced regarding people being bored most of the time (the 90% survey).
 - The Islamic Shahada / Kalima ('La ilaha illallah, Muhammadur rasulullah') and 'Allahu akbar, alhamdulillah' - quoted (not as Vaishnava scripture) in the Dagestan border and wedding stories.
+
+## Glossary
+
+- **sankirtana** — Congregational chanting of the holy name and preaching, including book distribution.
+- **sannyasi** — A member of the renounced order who travels to preach; 'a rolling stone gathers no moss.'
+- **brahmachari** — A celibate student devotee.
+- **paramahamsa** — A topmost, swan-like devotee of the Lord.
+- **parivrajakacharya** — A saintly teacher who wanders from place to place preaching.
+- **agyata-sukriti** — Unknowing or unintentional devotional service, which is still accepted by the Lord.
+- **yuga-dharma** — The process for the age — chanting the holy names, brought by Lord Chaitanya.
+- **Nrisimhadeva** — Krishna's half-man, half-lion incarnation who protects His devotees.
+- **prasadam** — Sanctified food offered to the Lord, which lifts one above the modes of nature.
 
 📄 **Full transcript:** [week-28-i-am-adventure.md](../../transcripts/module-2/week-28-i-am-adventure.md)
 

@@ -12,11 +12,14 @@ duration: "36:47"
 language: "en"
 words: 4854
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["guru-disciple relationship", "chanting as prayer", "service", "preaching mission", "steadfastness", "vedic culture"]
 ---
 
 # Services towards Guru
 
 **His Holiness Indradyumna Swami** · Week 63 ·  · 36:47
+
+**Themes:** guru-disciple relationship · chanting as prayer · service · preaching mission · steadfastness · vedic culture
 
 ## Summary
 
@@ -31,12 +34,43 @@ In this London disciple meeting (a "warm-up" Vyasa Puja), Indradyumna Swami reas
 - A prayer to Lord Shiva at Ujjain inspired the plan to bring the festival tour to India to help preserve Vedic culture as Prabhupada wanted.
 - The spiritual master must be a steadfast lighthouse — firm amid every storm — and always there for the disciples.
 
+## Notable Stories & Analogies
+
+- Juhu beach dogs — the fat, cared-for dog on a leash has a master, while the skinny, mange-ridden strays fight over scraps, showing the fortune of having a master.
+- Malati's question — she asks Prabhupada whether the planet of cows and the flute-playing cowherd boy are really true, and he replies, 'Do you think that I would cheat you?'
+- Medicine from a bona fide physician — it works on king or pauper, fool or scholar, man or woman, any color; so does the holy name for everyone.
+- Agarwal and Sons — an aging father entrusts the family business to his grown sons as a sign of maturity, just as the guru entrusts more service to the advancing disciple.
+- Jesus the anointed one — the Lord entrusts His mission only to His most intimate, 'chosen' servants.
+- Ujjain and Sandipani Muni's school — visiting where Krishna and Balarama studied, history came alive and inspired the plan to preach in India.
+- Prayer to Lord Shiva on the riverbank — torn between staying in India and preaching abroad, the sudden thought came, 'not here or there — do both,' birthing the India festival tour.
+- The lighthouse in the storm — through wars and passing generations the lighthouse still stands; the spiritual master must be that steady beacon for his disciples.
+
+## Memorable Quotes
+
+> “Do you think that I would cheat you?”
+> “The spiritual master must be like the rock of Gibraltar in the midst of the storm.”
+> “When we learn to serve Hari, Guru, and Vaishnava, then we know the real joy of service.”
+> “And I'll be here for you. Always.”
+> “Faith means to put your trust in something of someone sublime.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam 7.5.23 — Prahlada Maharaja's nine processes of devotional service: sravanam, kirtanam, visnoh smaranam, pada-sevanam, arcanam, vandanam, dasyam, sakhyam, atma-nivedanam.
 - Bhagavad-gita 6.22 — 'yam labdhva caparam labham... yasmin sthito na duhkhena gurunapi vicalyate'; established in yoga, one is not shaken even by the greatest calamity.
 - Brahma-samhita — the description of Krishna as a youthful cowherd with lotus-petal eyes and bimba-red lips, playing His flute (Malati's question to Prabhupada).
 - Mahabharata / Srimad Bhagavatam — Draupadi's complete surrender to Krishna, cited as the model of crying out for the Lord's shelter.
+
+## Glossary
+
+- **vandanam** — offering prayers; one of the nine processes of devotional service
+- **godasa** — servant of the senses, as opposed to go-swami, master of the senses
+- **Vyasa Puja** — the annual ceremony honoring and glorifying the spiritual master
+- **yatra** — a devotional community or traveling festival gathering
+- **madhukari** — begging alms from door to door like a bee, a mendicant's practice
+- **jyotirlinga** — a self-manifested Shiva lingam; one of twelve principal ones in India
+- **babaji** — a renounced devotee living a simple, solitary life of bhajan
+- **sankirtana** — congregational chanting of the holy names of Krishna
+- **Kali Yuga** — the present age of quarrel and hypocrisy
 
 📄 **Full transcript:** [week-63-services-towards-guru.md](../../transcripts/module-4/week-63-services-towards-guru.md)
 

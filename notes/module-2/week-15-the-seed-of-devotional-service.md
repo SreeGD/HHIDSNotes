@@ -12,11 +12,14 @@ duration: "1:03:09"
 language: "en"
 words: 7640
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["soul's identity", "false ego", "transmigration", "bhakti-lata-bija", "holy name", "surrender"]
 ---
 
 # The Seed of Devotional Service
 
 **His Holiness Indradyumna Swami** · Week 15 ·  · 1:03:09
+
+**Themes:** soul's identity · false ego · transmigration · bhakti-lata-bija · holy name · surrender
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking on Bhagavad-gita 15.7, Indradyumna Swami establishes the true identity 
 - The spiritual master plants the seed of devotional service in the heart through his instructions (not by a magical touch), and it is watered by hearing and chanting until it grows through the coverings of the universe to the lotus feet of Krishna — as the tiny banyan seed grows into a tree extending fifty miles.
 - The maha-mantra carries the seed of love of God; transcendental sound (shabda-brahma) awakens the sleeping soul as a noise wakes a sleeper to a thief, and its real glory (per Haridasa Thakura) is not liberation or freedom from karma but awakening dormant love for God.
 - The practical process is simple and scientific: hear about Krishna, chant Hare Krishna, and honor prasadam (controlling the tongue); one must give up independent speculation, take shelter of a self-realized soul, and surrender — the purpose of all philosophy and of Prabhupada's purports, echoed by the arguing philosophers vs. the devotee who simply offers the fallen apple to Krishna.
+
+## Notable Stories & Analogies
+
+- Sun globe and its rays — the rays share all the qualities of the sun but not its quantity, as the soul is qualitatively one with God but infinitesimal.
+- Beauty is only skin deep — peel off one millimeter of skin, enough to fill half a thimble, and the whole situation changes.
+- The car-accident body — an arm here, a leg here, hair and blood: the same matter, only rearranged, showing our identification with the body is illusion.
+- Worms feasting in the intestine — the round, ring, flat, tape and hook worms in the doctor's office pictures think the dark, dirty gut is a wonderful feast.
+- The terrifying movie is 'just light on a screen' — a frightened child calms down once told it is only images made of light.
+- The prison of four walls — birth, death, old age and disease; some prisoners have a TV and nice room, others solitary confinement, but all are confined.
+- The banyan seed — a seemingly insignificant seed grows into a tree extending fifty miles, as the tiny maha-mantra contains the seed of love of God.
+- The man looking for his keys under the lamppost — he dropped them in his garage but searches down the street 'because the light is better,' like seeking happiness in the wrong place.
+
+## Memorable Quotes
+
+> “Beauty is only skin deep. That's a fact.”
+> “It's a boil on the soul, nothing to be proud about.”
+> “How long will you sleep in the lap of the maya witch?”
+> “A saintly person, he sees through his ears, not through his eyes.”
+> “The real glory of chanting Hare Krishna is that one awakens one's dormant love for God.”
 
 ## Scriptural References
 
@@ -50,6 +72,18 @@ Speaking on Bhagavad-gita 15.7, Indradyumna Swami establishes the true identity 
 - Bhaktivinoda Thakura's song ('jiv jago, jiv jago,' Arunodaya-kirtana), voicing Lord Caitanya — 'Wake up, wake up, sleeping souls! How long will you sleep in the lap of the maya witch?'
 - Sukadeva Gosvami / Srimad Bhagavatam — cited for the point that the many subject matters ('grama-katha,' village talk) heard in the material world never satisfy the soul, which yearns to hear about, see, touch, and love Krishna.
 - Nectar of Devotion / bhakti-rasamrta-sindhu teaching — the allegory of the devotional creeper growing through the coverings of the material universe to rest at Krishna's lotus feet and bear the fruit of love of God.
+
+## Glossary
+
+- **mamaivamsa** — 'My own fragmental part'; the living entity as an eternal part and parcel of Krishna
+- **sanatana** — eternal; used to stress that the soul's fragmental nature is everlasting, not temporary
+- **ahankara** — false ego, which makes the transcendental soul identify with gross matter; the strongest material element
+- **maya** — illusory energy with two potencies: she covers reality and throws the soul away from Krishna
+- **shabda-brahma** — transcendental sound, which awakens the sleeping soul like a noise waking a sleeper to danger
+- **bhakti-lata-bija** — the seed of the devotional creeper, planted in the heart by the guru's instructions
+- **sravanam kirtanam** — hearing and chanting about Vishnu/Krishna; the 'watering' of the seed of devotion
+- **dhira** — the sober person who, by transcendental knowledge, is not bewildered by the body's changes
+- **siddhanta** — the settled philosophical conclusion at which real philosophy aims, not endless speculation
 
 📄 **Full transcript:** [week-15-the-seed-of-devotional-service.md](../../transcripts/module-2/week-15-the-seed-of-devotional-service.md)
 

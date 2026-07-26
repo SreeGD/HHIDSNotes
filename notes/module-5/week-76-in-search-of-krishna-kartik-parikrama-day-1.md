@@ -12,11 +12,14 @@ duration: "1:03:51"
 language: "en"
 words: 7879
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["kartik", "damodara", "rasa-lila", "radharani", "separation", "parikrama", "vratas"]
 ---
 
 # In Search of Krishna (Kartik Parikrama Day 1)
 
 **His Holiness Indradyumna Swami** · Week 76 · Foundations in Bhakti · 1:03:51
+
+**Themes:** kartik · damodara · rasa-lila · radharani · separation · parikrama · vratas
 
 ## Summary
 
@@ -31,6 +34,25 @@ Delivered on the first day of Kartik at the Krishna-Balaram Mandir in Vrindavan,
 - Radharani is the topmost lover possessing mahabhava; Krishna leaves the dance with her, then abandons even her, so that her unrivaled love may be revealed; her name derives from aradhana, 'she who worships Krishna best,' and Radha asked to be carried out of compassion for her friends, not pride.
 - In shared separation from Krishna, even rival gopis' feelings of rivalry transform into mutual affection, and they unite to revive the fainted Radharani; Prabhupada applied this principle to devotees cooperating in ISKCON despite being culturally many but spiritually one.
 - Parikrama means wandering Vrindavan in search of Krishna in the footsteps of the Goswamis (e.g., Sanatana Goswami circumambulating Govardhana daily); devotees should take vratas during Kartik (extra japa, more reading, less sleep, avoiding mundane news), and the night's inauspicious lunar eclipse holds no danger for those worshiping Radharani, the source of all auspiciousness.
+
+## Notable Stories & Analogies
+
+- Damodara bound to the mortar — Mother Yashoda ties baby Krishna's belly with a rope to the grinding mortar, giving the month its name (dama = rope, udara = belly).
+- Bound by Radha's golden belt — having missed a rendezvous, Krishna is frowned upon by Radha and bound with her golden belt, again becoming 'Damodara.'
+- The gopis imitate Krishna — maddened in separation, the gopis dramatize his pastimes; Yogamaya (Purnamasi), not the gopis, assumes the demon roles of Putana and Trinavarta.
+- Krishna's marked footprints — the gopis find his prints stamped with flag, lotus, thunderbolt, elephant goad and barley corn, beside Radha's smaller prints, and know he took her.
+- Radha asks to be carried — not from pride but from compassion, she feigns fatigue so Krishna will move off and her friends can reach her; he then vanishes 'as if Rahu had devoured the full moon.'
+- Reviving the fainted Radha — even rival gopis unite to comfort her, and the lingering fragrance of Krishna on their bodies rouses her.
+- The Gopi-gita on the Yamuna — in a unified concert of voices the gopis sing their hearts out, drawing Krishna back.
+- 'Just wander' — a Western devotee asks Prabhupada what to do in Vrindavan, and Prabhupada simply says to wander the lila-sthanas and imbibe their moods.
+- 'Mommy, I want Krishna' — after the Damodara drama on the Polish festival tour, a six-year-old girl stands on her mother's lap and cries out, making 35 years of struggle worthwhile.
+
+## Memorable Quotes
+
+> “Love is in the details.”
+> “Just wander.”
+> “Mommy, I want Krishna.”
+> “It means my friend, my friend, my friend.”
 
 ## Scriptural References
 
@@ -59,6 +81,21 @@ Delivered on the first day of Kartik at the Krishna-Balaram Mandir in Vrindavan,
 - Sarartha-darshini on Bhagavatam 10.32 - a gopi suggests the forest is so dark that even moonlight cannot enter, so better to return to the Yamuna and let Krishna come to them.
 - Gopi-gita (Srimad-Bhagavatam, ch. 31) - the gopis sing in a unified concert of voices on the bank of the Yamuna, which draws Krishna back.
 - Radha-kripa-kataksha-stava-raja (concluding verse) - 'O goddess whose face eclipses millions of autumn moons in an auspicious way... when will you cast your merciful sidelong glance upon me?'
+
+## Glossary
+
+- **Damodara** — 'bound at the belly by a rope'; a name of Krishna and the worshipable deity of the month of Kartik
+- **Saradiya Rasa-lila** — Krishna's autumn full-moon dance with the gopis, celebrated on Kartik's first day
+- **Vrata** — a vow of observance or austerity taken especially during Kartik
+- **Vipralambha-bhava** — the ecstatic mood of love felt in separation from the beloved
+- **Pramada** — the divine madness of the gopis in separation from Krishna
+- **Mahabhava** — the topmost ecstasy of love, held only by Radha, Chaitanya and Madhavendra Puri
+- **Tadiya** — things connected to the Lord that stimulate remembrance of him
+- **Aradhana** — the best, most perfect worship; the root of the name Radha
+- **Parikrama** — circumambulating and wandering the holy places in search of Krishna
+- **Aprakata-lila** — the Lord's unmanifest pastimes, still ongoing though hidden from ordinary vision
+- **Yogamaya** — the Lord's internal potency (as Purnamasi) that arranges the pastimes
+- **Sakhi** — a confidante-gopi; the gopis form groups (Vipaksha, Tatastha, Suhrit-paksha)
 
 📄 **Full transcript:** [week-76-in-search-of-krishna-kartik-parikrama-day-1.md](../../transcripts/module-5/week-76-in-search-of-krishna-kartik-parikrama-day-1.md)
 

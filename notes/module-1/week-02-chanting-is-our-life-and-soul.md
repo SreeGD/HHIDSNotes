@@ -12,11 +12,14 @@ duration: "1:24:24"
 language: "en"
 words: 10114
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["holy name", "japa", "sankirtana", "humility", "yuga-dharma", "higher taste"]
 ---
 
 # Chanting is our life and soul
 
 **His Holiness Indradyumna Swami** · Week 2 · Foundations in Bhakti · 1:24:24
+
+**Themes:** holy name · japa · sankirtana · humility · yuga-dharma · higher taste
 
 ## Summary
 
@@ -31,6 +34,25 @@ Given on the second day of a devotional festival (the Nama Ruchi Festival at the
 - Congregational chanting is uniquely powerful: like a crowd petitioning a mayor, many devotees praying together with intensity attracts Krishna's attention, and love is a two-way street in which Krishna reciprocates (analogy of Hanuman receiving Rama's embrace).
 - Krishna is always present as the Supersoul, more eager for our return than we are; the 'footprints in the sand' story shows He carries us through our hardest times (one set of footprints because we are on His shoulders).
 - In Kali-yuga one need only add chanting to normal life; by gaining the higher taste (param drstva nivartate) the lower tastes of lust, anger and greed are given up — 'simple but not cheap' — so never stop chanting, avoid offenses/criticism, and take shelter of Vaishnava association.
+
+## Notable Stories & Analogies
+
+- Fakir Mohan the sadhu — an advanced Gaudiya Vaishnava who lectured ten years on a single verse and spent two hours in prayers, offering arati to his beads, before chanting japa slowly with trembling hands and tears.
+- Narottama and Mother Padmavati — Mahaprabhu left prema with the personified Padma river to give the young boy Narottama, who bathed there and went mad with love of God.
+- Woodsman in the kalpavriksha forest — his idle wishes all came true in the desire-tree forest, including his fear that a tiger would come and eat him.
+- Crowd petitioning the mayor — one lone voice at the town hall goes unheard, but thousands chanting together get the roads paved; so with congregational chanting.
+- Three sadhus and Vyasadeva — arguing which yuga is best, they faint at the very word 'Kali,' and Vyasadeva answers that Kali-yuga is best because one need only chant.
+- Hot-air balloon sandbags — the balloon rises not by pushing but by dropping the sandbags, as the higher taste lets us drop the lower tastes.
+- Footprints in the sand — a devotee sees only one set of footprints in his hardest times because Krishna was carrying him on His shoulders.
+- Hanuman's embrace — offered any boon for his service, Hanuman asks only for a hug from Rama, showing love reciprocated according to one's bhakti.
+
+## Memorable Quotes
+
+> “It's simple, but it's not cheap.”
+> “You may not know Krishna, but he knows you very well.”
+> “Krishna's more eager that you come home than you are right now.”
+> “When you're chanting Hare Krishna, Krishna is dancing on the tip of your tongue.”
+> “Better to be moving slowly in the right direction than running hell-bent for leather in the wrong direction.”
 
 ## Scriptural References
 
@@ -47,6 +69,19 @@ Given on the second day of a devotional festival (the Nama Ruchi Festival at the
 - Srimad Bhagavatam 1.2.6 area / First Canto — the nine processes of devotional service 'sravanam kirtanam visnoh smaranam pada-sevanam, arcanam vandanam dasyam sakhyam atma-nivedanam' culminating in atma-nivedanam (full surrender).
 - Bhagavata reference to laziness/procrastination as a symptom of Kali-yuga (First Canto), cited to urge not delaying spiritual life.
 - Matthew 6:6 (Bible) — Jesus' instruction to go to your room, close the door and pray to your Father in private, cited alongside the need to chant in a solitary place.
+
+## Glossary
+
+- **yuga-dharma** — the prescribed spiritual process for an age; in Kali-yuga, chanting the holy name
+- **maha-mantra** — the Hare Krishna mantra, the great chant for deliverance
+- **japa** — soft, individual chanting of the holy name on beads
+- **kirtana** — loud congregational singing of the holy name
+- **harinama-sankirtana** — public congregational chanting of the holy name, meant to be chanted at the top of one's lungs
+- **Nama Prabhu** — the holy name as a person, non-different from Krishna Himself
+- **prema** — pure love of God
+- **premamrita** — the nectar of divine love, likened to the water of Radha-kunda
+- **kalpavriksha** — a desire-fulfilling tree of the spiritual world
+- **atma-nivedanam** — full surrender of the self, the ninth process of devotional service
 
 📄 **Full transcript:** [week-02-chanting-is-our-life-and-soul.md](../../transcripts/module-1/week-02-chanting-is-our-life-and-soul.md)
 

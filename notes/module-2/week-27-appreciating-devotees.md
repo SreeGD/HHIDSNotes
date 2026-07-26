@@ -12,11 +12,14 @@ duration: "1:21:17"
 language: "en"
 words: 11421
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["association of devotees", "sadhu-sanga", "bad association", "vaishnava qualities", "appreciation", "chanting"]
 ---
 
 # Appreciating Devotees
 
 **His Holiness Indradyumna Swami** · Week 27 ·  · 1:21:17
+
+**Themes:** association of devotees · sadhu-sanga · bad association · vaishnava qualities · appreciation · chanting
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking at a temple 'Festival of Appreciation,' Indradyumna Swami takes up Prah
 - The secret to living among materialists without being affected is not to take their association but to give association (Prabhupada's instruction: never look back or envy the sense enjoyers); conversely, even a moment's association with a devotee awards all success (sadhu-sanga) and transmits bhakti like a good, contagious disease, as when the young Indradyumna Swami stayed awake through Prabhupada's Hindi lecture: 'It is transcendental subject matter, it will act.'
 - The five most potent limbs of devotion (CC Madhya 22.128) are associating with devotees, chanting the holy name, hearing the Bhagavatam, residing in Mathura, and worshiping the deity; association of devotees is the 'salt' that brings out the flavor and result of the other four, since chanting must be learned through initiation from a bona fide guru and the Bhagavatam heard from a living 'person-bhagavata,' not merely read (Bhaktisiddhanta: 'you have only seen stone').
 - Every devotee's service, big or small, is essential like the tiny screw that holds the harmonium together, and each generation of Vaishnavas is a unique passing 'wave'; devotees should recognize, serve, and take advantage of the advanced souls present now, and honor everyone who has turned their back on Maya ('just say no') and turned toward Krishna.
+
+## Notable Stories & Analogies
+
+- Salt — association of devotees is the salt that brings out the flavor and result of every other devotional activity.
+- Harmonium screw — the tiny screw matters as much as the big keys; every devotee's service holds the whole together.
+- Chameleon lizard — placed on green, red or brown it changes color; we take on the qualities of whatever we associate with.
+- World War II medals — heroes wore their medals so people would honor them, just as Krishna decorates His devotees so the public knows whom to follow.
+- The one-eyed guru — television, through which materialists pour out their hearts in soap operas and news, subtly implants material desires.
+- Ajamila — a pure brahmana boy fell to become a thief after one glance at an amorous couple; a little bad association can ruin even great souls.
+- Swine flu (H1N1) — a tiny, undetectable virus fells the strongest athlete, as one moment of inattention can bring down a transcendentalist.
+- Prabhupada's Hindi lecture — the young Indradyumna dozed off at a talk he could not understand; Prabhupada said, 'It is transcendental subject matter, it will act.'
+
+## Memorable Quotes
+
+> “We're not there to get association. We're there to give association.”
+> “Spiritual mathematics means one minus one is a million.”
+> “Maharaj Yudhisthira's enemy was never born.”
+> “The duty of a first class man is not to subjugate others. The duty of a first class man is to make a fifth class man also a first class man.”
+> “If you fall down nine times, pick yourself up ten times.”
 
 ## Scriptural References
 
@@ -63,6 +85,18 @@ Speaking at a temple 'Festival of Appreciation,' Indradyumna Swami takes up Prah
 - Sarvabhauma Bhattacharya's verse ('...hari hari...') — his prophecy that from the moment the holy names of Hari appeared, Vaishnavas adorned with tilak and neckbeads and equipped with the Mahamantra would manifest everywhere and purify the atmosphere in the age of Kali; also cited for association of devotees plus chanting being the two essentials of this age.
 - Bible, Gospel of Luke 23:34 — Jesus on the cross: 'Father, forgive them, for they know not what they do,' cited as an example of a devotee befriending even the inimical.
 - Vaishnava-pranama — 'vancha-kalpa-tarubhyas ca krpa-sindhubhya eva ca / patitanam pavanebhyo vaisnavebhyo namo namah,' recited collectively at the end to honor all the Vaishnavas.
+
+## Glossary
+
+- **Vaishnava** — A devotee of Vishnu/Krishna.
+- **sadhu-sanga** — Association with saintly devotees; even a moment of it is said to yield all perfection.
+- **asat-sanga** — Intimate association with non-devotees and materialists, which a Vaishnava should give up.
+- **tatastha-shakti** — The Lord's marginal energy — the tiny living entity, apt to be influenced by either matter or spirit.
+- **uttama-adhikari** — A first-class, advanced devotee.
+- **kanistha-adhikari** — A neophyte or beginner devotee.
+- **yuga-dharma** — The recommended religious process for the age — congregational chanting of the holy name.
+- **person-bhagavata** — The living self-realized devotee from whom one must hear the Bhagavatam, a transparent via-medium.
+- **prasadam** — Sanctified vegetarian food first offered to the Lord; its remnants purify those who take them.
 
 📄 **Full transcript:** [week-27-appreciating-devotees.md](../../transcripts/module-2/week-27-appreciating-devotees.md)
 

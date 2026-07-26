@@ -50,8 +50,8 @@ def yaml_str(s):
     if s is None: return '""'
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
 
-def frontmatter(row, lang, words, dur, kind):
-    return [
+def frontmatter(row, lang, words, dur, kind, tags=None):
+    fm = [
         "---",
         f"title: {yaml_str(row['title'])}",
         f"kind: {kind}",
@@ -66,9 +66,18 @@ def frontmatter(row, lang, words, dur, kind):
         f"language: {yaml_str(lang)}",
         f"words: {words}",
         "transcribed_with: whisper.cpp large-v3-turbo",
-        "---",
-        "",
     ]
+    if tags:
+        fm.append("tags: [" + ", ".join(yaml_str(t) for t in tags) + "]")
+    fm += ["---", ""]
+    return fm
+
+def glossary_line(g):
+    if isinstance(g, dict):
+        term = g.get("term") or g.get("name") or ""
+        meaning = g.get("meaning") or g.get("definition") or g.get("desc") or ""
+        return f"**{term}** — {meaning}" if (term and meaning) else (term or meaning)
+    return str(g)
 
 def build(row):
     slug = row["slug"]
@@ -92,16 +101,23 @@ def build(row):
     tx_link = f"../../transcripts/{stem}"
     note_link = f"../../notes/{stem}"
 
+    themes = (summ or {}).get("themes") or []
     # ---------- ENRICHED NOTE (no transcript body) ----------
-    out = frontmatter(row, lang, words, dur, "enriched-note")
+    out = frontmatter(row, lang, words, dur, "enriched-note", tags=(themes if lang == "en" else None))
     out += [f"# {row['title']}", "",
             f"**His Holiness Indradyumna Swami** · Week {row['week']} · {row.get('category') or ''} · {dur or ''}", ""]
     if summ and summ.get("note"):
         out += [f"> _Note: {summ['note'].strip()}_", ""]
     if summ and lang == "en":
+        if themes:
+            out += ["**Themes:** " + " · ".join(themes), ""]
         out += ["## Summary", "", summ["summary"].strip(), ""]
         if summ.get("key_points"):
             out += ["## Key Points", ""] + [f"- {k}" for k in summ["key_points"]] + [""]
+        if summ.get("stories"):
+            out += ["## Notable Stories & Analogies", ""] + [f"- {s}" for s in summ["stories"]] + [""]
+        if summ.get("quotes"):
+            out += ["## Memorable Quotes", ""] + [f"> “{q.strip().strip(chr(8220)+chr(8221)+chr(34))}”" for q in summ["quotes"]] + [""]
         refs = summ.get("references") or []
         if refs:
             out += ["## Scriptural References", ""]
@@ -114,6 +130,8 @@ def build(row):
                     line = str(r)
                 out.append(f"- {line}")
             out.append("")
+        if summ.get("glossary"):
+            out += ["## Glossary", ""] + [f"- {glossary_line(g)}" for g in summ["glossary"]] + [""]
     elif lang and lang != "en":
         out += [f"> **Not summarized** — detected language `{lang}` (per the English-only rule). "
                 "The transcript is kept separately.", ""]

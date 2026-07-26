@@ -12,11 +12,14 @@ duration: "1:33:06"
 language: "en"
 words: 10171
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["preaching in the jungle", "sankirtana", "divine provision", "holy name", "Lord Chaitanya's mercy", "prasadam distribution"]
 ---
 
 # Preaching in Amazon Jungles
 
 **His Holiness Indradyumna Swami** · Week 30 ·  · 1:33:06
+
+**Themes:** preaching in the jungle · sankirtana · divine provision · holy name · Lord Chaitanya's mercy · prasadam distribution
 
 ## Summary
 
@@ -32,9 +35,40 @@ In 1987 Indradyumna Swami was invited to preach Krishna consciousness in Brazil,
 - Over about two months they visited 60 to 70 villages and distributed roughly 65,000 plates of khichari and many books, surviving poisonous moths, snakes (avoided by a walking-order trick the Indians taught), near-fatal dysentery cured by a jungle medicine man, quicksand in a swamp, and a hurricane-like storm.
 - The formerly meat-eating captain was transformed by two months of prasadam (including Mahaprasadam of Lord Nrisimhadeva) and stayed vegetarian; Maharaja's closing lesson is that with determination and enthusiasm even the 'lowest' people can be converted and books distributed widely.
 
+## Notable Stories & Analogies
+
+- The governor's wife — an aristocratic 'tiny servant of Krishna' who provides the governor's palatial white riverboat, a crew, and $2,000 for the mission.
+- The pistol — she comes running with her pistol to make the reluctant crew agree to become vegetarian for two months.
+- Gods from the sky — the tribal villagers think the white-skinned devotees are gods and try to rub off the 'paint' to see the black skin underneath.
+- Aghasura — Maharaja explains Krishna as the one who killed the giant serpent demon whose open mouth stretched from the earth to the sky.
+- The weeping chief — the village chief kneels and begs them to stay: 'before you came, we were not happy; now we are happy.'
+- The jungle medicine man — a witch doctor cures near-fatal dysentery overnight and refuses payment: 'if I take money, I lose my power.'
+- Quicksand in the swamp — pushing the stuck boat, Maharaja is sucked into quicksand ringed by alligators' eyes, leading the fastest kirtan he ever sang.
+- The captain's conversion — after two months of prasadam the meat-eating captain proclaims all glories to Lord Chaitanya's movement and stays vegetarian two years later.
+
+## Memorable Quotes
+
+> “No, I am only a little, tiny servant of Krishna.”
+> “Krishna is in His holy name.”
+> “This is not Disneyland.”
+> “Before you came, we were not happy. Now we are happy.”
+> “If we can convert Amazon Indians, we can easily convert Gorbachev.”
+
 ## Scriptural References
 
 - Srimad-Bhagavatam, Canto 10, Chapter 12 (the pastime of Aghasura, the giant serpent demon killed by Krishna in Vrindavan) - narrated to explain Krishna's supremacy to the villagers; recounted as a story, not quoted verbatim.
+
+## Glossary
+
+- **sankirtana** — Congregational chanting and preaching, including distribution of books and prasadam.
+- **kirtan** — Musical chanting of the holy names of Krishna.
+- **prasadam** — Sanctified vegetarian food first offered to Krishna.
+- **maha-prasadam** — Especially sacred food remnants from the Lord's own offering, as from the deity Nrisimhadeva.
+- **khichari** — A cooked rice-and-dal dish distributed to the villagers (transcribed 'kittri').
+- **Nrisimhadeva** — Krishna's half-lion incarnation; the deity worshiped aboard the boat.
+- **Aghasura** — The serpent demon killed by Krishna in Vrindavan, used to explain Krishna's greatness.
+- **yatra** — A temple community or organized preaching mission, as the Brazilian yatra.
+- **Haribol** — 'Chant the name of God!' — a call the jungle villagers eagerly took up.
 
 📄 **Full transcript:** [week-30-preaching-in-amazon-jungles.md](../../transcripts/module-2/week-30-preaching-in-amazon-jungles.md)
 

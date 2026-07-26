@@ -12,11 +12,14 @@ duration: "54:28"
 language: "en"
 words: 5085
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["vrindavan", "kartik parikrama", "humility", "akrura's example", "pure devotion", "taking shelter"]
 ---
 
 # How to enter Vrindavan
 
 **His Holiness Indradyumna Swami** · Week 68 · Foundations in Bhakti · 54:28
+
+**Themes:** vrindavan · kartik parikrama · humility · akrura's example · pure devotion · taking shelter
 
 ## Summary
 
@@ -31,6 +34,24 @@ Opening a month-long Kartika parikrama, Indradyumna Swami frames the pilgrims as
 - Akrura, sent by Kamsa to bring Krishna and Balarama to Mathura, was a hidden (gupta) devotee who concealed his ecstasy and approached in deep humility, feeling himself a wretched, fallen materialist—so humility is the first qualification for entering Vraj; if one lacks it, one should 'desire to desire' it.
 - Humility is not imitated but arises from realizing the Lord is great and oneself small—modeled by Prahlada before Nrisimhadev, Krishnadas Kaviraja ('lower than the worm in stool'), and Mahaprabhu's trinad-api-sunichena verse (to be worn like a garland around the mind). A devotee's real strength is trust that the Lord's mercy exceeds his disqualifications.
 - We are all rupanugas following Prabhupada and Rupa Goswami from shraddha to prema; chant each kirtan as if it were your last (Madhava's mood; the priest who died mid-sermon), longing like Akrura to bow at Krishna and Balarama's lotus feet and all of Vraja, and for the Lord's fragrant lotus hand—scented like the saugandhika lotus of Manasarovara from touching the gopis' faces—to rest on one's head and remove all fear.
+
+## Notable Stories & Analogies
+
+- First day of school — the Swami recalls being unable to sleep the night before his first day at age six, so eager to learn, mirroring how pilgrims should enter Vrindavan as students.
+- Kamsa's plan A and plan B — a management analogy: when sending a demon daily to kill Krishna failed, Kamsa switched to luring Krishna to Mathura to be killed by the wrestlers Chanura and Mustika.
+- Leaf in the river reaching the shore — a fallen soul swept along in the river of time may, by the Lord's mercy, be pushed to the bank like a stray leaf or stick.
+- The elephant of the mind — from Padyavali verse 61, the mind drowns in material illusion, seized by the crocodile of the threefold miseries, until Hari rescues it with His Sudarshana chakra.
+- The Christian priest who died mid-sermon — an elderly priest suffered a heart attack while preaching and cried out 'Oh, monseigneur!' (O my Lord), modeling how to chant each kirtan as if it were one's last.
+- Prabhupada's slippers and 'good boy' — as a young devotee in Paris the Swami held Prabhupada's slippers in his lap, then placed them on his lotus feet, and Prabhupada rubbed his head saying 'good boy.'
+- Saugandhika lotus of Manasarovara — Krishna's lotus hand carries the fragrance of this rare white lotus, acquired from touching the faces of the gopis.
+
+## Memorable Quotes
+
+> “In the transcendental classroom of Shri Vrindavan Dham, love is the teacher, Radha and Krishna are the students, all the gopis who are listening attentively are their classmates, and they're learning the great knowledge of relishing past times together.”
+> “So this is our first day of transcendental school in Karti.”
+> “Vrindavan is so merciful that Vrindavan opens its arms to sinful rascals.”
+> “When you actually realize that God is great and you are very small, then that humility naturally comes from the heart.”
+> “He said, good boy.”
 
 ## Scriptural References
 
@@ -54,6 +75,19 @@ Opening a month-long Kartika parikrama, Indradyumna Swami frames the pilgrims as
 - Letter of Srila Prabhupada, 9 November 1975 — 'Anyone who can stay permanently is welcome. I want that as many devotees stay permanently and become brajabasis. This will be very inspiring.'
 - Hari-bhakti-vilasa — devotees are humble, do not display their japa-mala or proudly announce their guru, keeping their devotion hidden (gupta).
 - Puranic reference to the saugandhika lotus of Lake Manasarovara — the acharyas say Krishna's lotus hand carries its fragrance, acquired by touching the faces of the gopis.
+
+## Glossary
+
+- **Vrindavan** — Krishna's supreme transcendental abode, the 'playground of God'
+- **Kartika** — the holiest month, especially favorable for pilgrimage and devotional vows
+- **amala-bhakti** — pure, unalloyed devotional service
+- **gupta** — 'hidden'; devotees keep their love and spiritual emotions concealed
+- **Ajita** — 'unconquerable,' a name of Krishna
+- **kshetra-sannyasi** — a renunciant who settles permanently in a holy place until death
+- **rupanuga** — a follower in the line of Srila Rupa Goswami
+- **prema** — pure love of God, the goal of devotional life
+- **saugandhika** — the fragrant white lotus of Lake Manasarovara
+- **brajabasi** — a resident of Vraja (Braj)
 
 📄 **Full transcript:** [week-68-how-to-enter-vrindavan.md](../../transcripts/module-5/week-68-how-to-enter-vrindavan.md)
 

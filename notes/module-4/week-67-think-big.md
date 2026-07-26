@@ -12,11 +12,14 @@ duration: "1:13:01"
 language: "en"
 words: 9716
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["renunciation through higher taste", "panihati festival", "prasadam", "love in separation (vipralambha)", "the ultimate goal (prema)", "think big"]
 ---
 
 # Think Big
 
 **His Holiness Indradyumna Swami** · Week 67 ·  · 1:13:01
+
+**Themes:** renunciation through higher taste · panihati festival · prasadam · love in separation (vipralambha) · the ultimate goal (prema) · think big
 
 ## Summary
 
@@ -31,6 +34,26 @@ Delivered on the day of the Panihati (Chipped Rice) Festival, this lecture by In
 - The ultimate goal (prayojana) is prema, love of Krishna in the mood of the Vraja gopis, revealed by Raghunath Das Goswami in works like Vilapa-kusumanjali; love in separation (vipralambha) is more relishable than union.
 - Prema may be deliberately withheld from active preachers: Mahaprabhu 'locked' Advaita Acharya's tears in a knot on His rope so he could keep managing devotees, and Indradyumna Swami's godbrother tells him prema now would end his preaching mission.
 - 'Think big': as Prabhupada thought big (the proposed 18-day Mahabharata movie), aspire boldly for the highest spiritual goal while doing simple daily service (chant, dance, hear, take prasadam, serve), because the guru ultimately walks the disciple into the kunja and places his hand in Krishna's.
+
+## Notable Stories & Analogies
+
+- The spider and the web — the spider walks freely on her own web while a stray fly gets fatally entangled, like devotees moving through the material world without being caught.
+- The Panihati pastime — Nityananda Prabhu playfully calls the wealthy Raghunath Das a 'thief' and 'punishes' him by ordering a feast of chipped rice and yogurt for all the devotees.
+- Prasadam as secret weapon — twenty come for the lecture but five hundred for the prasadam at seven o'clock; Mahaprabhu called it Lord Chaitanya's secret weapon.
+- The camphor's lingering smell — even after camphor is removed its fragrance remains, like the subtle desire for honor (pratistha) that lingers after gross desires are gone.
+- The sadhu at Chiragat — sitting in fire with hot coals piled on his topknot in the midday sun, an example of the unnecessary austerity that bhakti makes needless.
+- The snake shedding its skin — unwanted desires fall away naturally as one chants and matures, without artificial renunciation.
+- Advaita Acharya's tears locked in a knot — Mahaprabhu ties Advaita's love-tears in a knot on His rope so he can keep managing devotees and preaching.
+- Prabhupada's 18-day Mahabharata movie — planned on a morning walk in Nairobi with disciples cast as the heroes, showing how to 'think big.'
+- The married woman and her paramour — dutiful at home but always thinking of her lover, like keeping Krishna always in mind while performing one's duties.
+
+## Memorable Quotes
+
+> “Think big. Prabhupada always thought big.”
+> “You can only give up something if you get something better.”
+> “We should be easy on others and hard on ourselves.”
+> “We don't eat prasadam, we respect prasadam.”
+> “The more you feel separation from Krishna, you should understand that you are advancing.”
 
 ## Scriptural References
 
@@ -54,6 +77,19 @@ Delivered on the day of the Panihati (Chipped Rice) Festival, this lecture by In
 - Nectar of Devotion, p. 107 - 'For persons who are not inclined to clear the dust from their hearts, who want to keep the dirty things as they are, it is not possible to derive the transcendental result of chanting Hare Krishna.'
 - Srila Prabhupada, letter (Seattle, 1968) - 'as we go on chanting in the pure status we shall be on the loving platform... that feeling of separation from the Lord is more relishable than meeting the Lord.'
 - Srila Prabhupada, lecture at 26 Second Avenue (1966) - 'The more you feel separation from Krishna, you should understand that you are advancing... but don't try to see Krishna artificially; be advanced in separation feelings.'
+
+## Glossary
+
+- **Panihati** — the Chipped Rice Festival and the village where Nityananda blessed Raghunath Das
+- **prasadam** — sanctified food offered to the Lord, non-different from Him
+- **prema** — pure love of God, the ultimate goal
+- **vipralambha** — love of God in separation, held more relishable than meeting Him
+- **pratistha** — the subtle desire for honor and prestige, the hardest impurity to give up
+- **nitya-siddha** — an eternally liberated soul who descends to teach by example
+- **manjari** — a maidservant of Radha in Goloka Vrindavan; the goal of Chaitanya's followers
+- **prayojana** — the ultimate goal, love of God; Raghunath Das is the prayojana-guru
+- **Shikshashtaka** — the eight prayers of Sri Chaitanya, ISKCON's 'mission statement'
+- **laulyam** — intense eager greed to serve the Lord; the price of the highest perfection
 
 📄 **Full transcript:** [week-67-think-big.md](../../transcripts/module-4/week-67-think-big.md)
 

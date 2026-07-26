@@ -12,11 +12,14 @@ duration: "23:13"
 language: "en"
 words: 3885
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["material desire and purification", "sense gratification vs devotion", "maturity in devotion", "pure devotion of the gopis", "taking shelter", "responsibility"]
 ---
 
 # Sense Gratificaton and Krishna consciousness go ill together
 
 **His Holiness Indradyumna Swami** · Week 64 ·  · 23:13
+
+**Themes:** material desire and purification · sense gratification vs devotion · maturity in devotion · pure devotion of the gopis · taking shelter · responsibility
 
 ## Summary
 
@@ -32,6 +35,25 @@ His Holiness Indradyumna Swami explains that one may approach Krishna even while
 - Pure devotion is exemplified by the gopis, who never asked anything of Krishna and only wished to please Him—Prabhupada wept recalling this (definition of uttama-bhakti, Bhakti-rasamrita-sindhu 1.1.11); worshiping demigods for material gain is 'less intelligent' (BG 7.23).
 - Q&A: material facility is safe only under the guidance of guru and Krishna; one need not recall past misdeeds to surrender now (drowning-man and 'everyone is crazy in this material world' stories; the intricacies of karma are hard to grasp, BG 4.17); Jaya and Vijaya fell to fulfill the Lord's desire to fight, as with Bhishmadeva's vision of Krishna rushing to kill him (raudra rasa).
 
+## Notable Stories & Analogies
+
+- The blind man and the fire — even one who cannot appreciate fire still gets warm by coming near it, as one who approaches Krishna with material desire is still purified.
+- Dhruva Maharaja — after gaining his kingdom he saw the Lord and judged the benediction a mere pebble beside the diamond of the Lord's darshan, and gave it up.
+- The monkey and the banana — clutching the fruit inside the bottle it refuses to unclench its fist, losing both the banana and its freedom, like wanting Krishna and sense gratification together.
+- Oil and water — no matter how hard you try, they always break back into little beads and never mix, like Krishna consciousness and sense gratification.
+- The child's 'give me, give me' — parents tolerate a small child's endless demands, expecting it to grow up and help the family, as the guru tolerates the immature disciple.
+- The persecuted devotees of Russia — young, with no temple, president, or facility, reading scripture in dark rooms at night, yet responsibly going out to preach.
+- The gopis who never asked anything from Krishna — recalling this, Prabhupada began to cry.
+- The drowning man and the boat — you don't ask how you fell in or how long you have; you just get in the boat, as one need not recall past misdeeds to surrender now.
+
+## Memorable Quotes
+
+> “Sense gratification and Krishna consciousness go ill together.”
+> “No matter how hard you try from now to eternity, you'll never mix oil and water.”
+> “But the gopis, they never asked anything from Krishna. And then Prabhupada began to cry.”
+> “Instead of having unlimited desires, he has unlimited service.”
+> “Everyone's crazy in this material world.”
+
 ## Scriptural References
 
 - Srimad-Bhagavatam 2.3.10 — 'akamah sarva-kamo va moksa-kama udara-dhih...': whether desireless, full of all material desire, or seeking liberation, one should worship the Supreme Lord; the talk's central verse.
@@ -44,6 +66,19 @@ His Holiness Indradyumna Swami explains that one may approach Krishna even while
 - Bhagavad-gita As It Is, Prabhupada's purport — quoted phrase 'Sense gratification and Krishna consciousness go ill together' (specific verse not stated in the talk); source of the lecture's title.
 - Srimad-Bhagavatam, Canto 4 — pastime of Dhruva Maharaja, who approached the Lord with material desire, then compared his benediction to a 'pebble' beside the 'diamond' of the Lord's darshan and gave it up.
 - Srimad-Bhagavatam, Canto 3 / Canto 7 — pastime of Jaya and Vijaya and the curse of the four Kumaras: they fell to become demons to satisfy the Lord's desire for combat; linked to Bhishmadeva's vision of Krishna rushing to kill him (raudra rasa).
+
+## Glossary
+
+- **akama** — free from material desire
+- **sarva-kama** — full of all material desires
+- **moksha-kama** — desiring liberation
+- **nishtha** — the steady, fixed stage of devotional service
+- **nishkama** — desirelessness in devotional service
+- **ahaituki apratihata** — unmotivated and uninterrupted (devotional service)
+- **Hari** — the Lord as the one who removes and relieves distress
+- **gopis** — the cowherd girls of Vrindavan, exemplars of pure devotion
+- **raudra rasa** — the fighting or 'ghastly' relationship with Krishna, as in Bhishma's vision
+- **Jaya and Vijaya** — the Lord's Vaikuntha gatekeepers who fell to fulfill His desire to fight
 
 📄 **Full transcript:** [week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md](../../transcripts/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md)
 

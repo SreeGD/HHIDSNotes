@@ -12,11 +12,14 @@ duration: "1:37:26"
 language: "en"
 words: 12567
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["gokula and goloka", "playground of god", "akrura's example", "humility", "braja-renu", "following a pure devotee"]
 ---
 
 # How to enter Vrindavan(Power of Pilgrimage)
 
 **His Holiness Indradyumna Swami** · Week 70 · Foundations in Bhakti · 1:37:26
+
+**Themes:** gokula and goloka · playground of god · akrura's example · humility · braja-renu · following a pure devotee
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking at the Radha Gopinath temple in Chowpatty, Mumbai, on the eve of the Ay
 - Humility is the crest-jewel of a devotee; one sees Vrindavan truly only when the 'speck' of material desire is removed and the eyes are anointed with love (Brahma-samhita 5.38, premanjana-cchurita).
 - Vrindavan purifies even sinful, atheistic visitors; devotees should go often (SB 5.13.8, 4.29.39, 4.8.42), and may make their own home Vrindavan through the nine processes of devotional service and hearing/chanting about the dham.
 - Numerous Prabhupada pastimes drive home that Krishna consciousness is 'love masquerading as a philosophy': Mother Yasoda's samosa recipe, ocean waves as the gopis' heartbeats, and 'you are not these bodies.'
+
+## Notable Stories & Analogies
+
+- Goloka, the planet of cows — the Swami tells a Christian man his idea of heaven is a planet of cows, prompting an astonished 'Excuse me?'
+- The Zulu king's name for God — 'Akulukula,' meaning 'He who owns the most cows,' over which the Swami and the king bonded, with a promised Food for Life for 60 million Zulus.
+- Bhaktisiddhanta's three-day dictionary — at age seven he locked himself in a room with a British dictionary and emerged speaking fluent English.
+- Mother Yasoda's samosa — Prabhupada revealed that the samosa Tamal Krishna Goswami called the most delicious ever was made 'by the recipe of Mother Yasoda.'
+- Ocean waves as the gopis' heartbeats — on a California beach Prabhupada told the devotees the crashing waves were the sound of the gopis' hearts in separation from Krishna.
+- The speck in your eye — a devotee who saw only filth and mosquitoes in Vrindavan was told the speck was his desire for material enjoyment, not dust on his glasses.
+- Krishna won't wear shoes — He refuses Yasoda's shoes because His 900,000 cows go barefoot, so His lotus feet leave prints that make Vrindavan more glorious than Vaikuntha.
+- Akrura rolling in the dust — reaching Vrindavan at sunset and seeing Krishna's footprints, Akrura exclaims 'this is the dust from my master's feet' and rolls in the braja-renu.
+
+## Memorable Quotes
+
+> “One cannot go to Vrindavan by purchasing a ticket.”
+> “It's love masquerading as a philosophy.”
+> “That is the sound of the gopis' heartbeats in separation from Krishna.”
+> “You'll never see a picture of Krishna alone.”
+> “It means He who owns the most cows.”
 
 ## Scriptural References
 
@@ -61,6 +83,19 @@ Speaking at the Radha Gopinath temple in Chowpatty, Mumbai, on the eve of the Ay
 - Sri Mukta-charita (Raghunatha dasa Goswami) - closing verse: bowing to the guru by whose causeless mercy one obtains the holy name, the divine mantra, the service of the son of Sachi Mata, the association of Svarupa Damodara, Rupa and Sanatana Goswami, Mathura, Vrindavan, Radha-kunda, Govardhan Hill, and the desire for the loving service of Sri Radhika and Madhava.
 - Traditional Vishnu prayer - 'namo brahmanya-devaya go-brahmana-hitaya ca, jagad-dhitaya krishnaya govindaya namo namah,' glorifying the cows and brahmanas as dear to Krishna.
 - Bhaktivinoda Thakura, celebrated song quoted in Krishna Book chapter 38 - 'When my mind will be purified after leaving the contamination of material sense enjoyment, I shall be able to visit Vrindavan.'
+
+## Glossary
+
+- **Goloka** — the topmost planet of the spiritual world, Krishna's eternal abode
+- **Gokula** — the earthly Vrindavan, non-different from Goloka
+- **Viraja** — the river dividing the material world from the spiritual world
+- **braja-renu** — the sacred dust of Vraja
+- **Ajita** — 'unconquerable,' a name of Krishna
+- **vipralambha-bhava** — the exalted mood of separation from Krishna
+- **premanjana** — the salve of love that anoints the devotee's eyes to see the Lord
+- **guru-nishtha** — firm faith in the spiritual master
+- **saugandhika** — the fragrant white lotus of Lake Manasarovara
+- **amala-bhakti** — pure, unalloyed devotion
 
 📄 **Full transcript:** [week-70-how-to-enter-vrindavan-power-of-pilgrimage.md](../../transcripts/module-5/week-70-how-to-enter-vrindavan-power-of-pilgrimage.md)
 

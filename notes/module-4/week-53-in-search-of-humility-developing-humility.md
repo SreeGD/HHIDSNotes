@@ -12,11 +12,14 @@ duration: "1:09:40"
 language: "en"
 words: 9352
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["humility", "pride and false ego", "chanting hare krishna", "being an instrument", "sankirtana", "serving vaishnavas"]
 ---
 
 # In Search of Humility (Developing Humility(
 
 **His Holiness Indradyumna Swami** · Week 53 · Foundations in Bhakti · 1:09:40
+
+**Themes:** humility · pride and false ego · chanting hare krishna · being an instrument · sankirtana · serving vaishnavas
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking at New Raman Reti (Alachua) from Srimad-Bhagavatam 7.5.11, Prahlada Mah
 - Practical antidotes to pride include simple living and yukta-vairagya (take by need not greed, everything belongs to Krishna) and menial service to Vaishnavas (Prataparudra sweeping the road with a golden broom to earn Mahaprabhu's embrace).
 - Street sankirtana is the natural training ground for humility, since no one offers you guru-puja there, and it reminds us we are not better than others, only more fortunate (CC Madhya 19.151, brahmanda bhramite).
 - The goal of humble chanting is one day to see, with spiritual eyes, the divine form of Sri Sri Radha-Shyamasundara.
+
+## Notable Stories & Analogies
+
+- The formula for love of God — in his pharmaceutical lab Prabhupada tells his godbrother Dr. O.B.L. Kapoor that he has discovered the formula for love of God; it is trinad api sunicena, but he humbly adds, 'I know the formula, but I don't know how to apply it.'
+- Sugar in the cake — humility is the essential ingredient of pure chanting, like the sugar without which even a beautiful three-inch-iced cake is worthless.
+- Kumbha Mela sadhus on elephants — renunciates who had given up money and women still seemed to relish being famous, paraded proudly on elephants.
+- The Shankaracharya-follower's spoiled katha — an austere speaker glorifies baby Krishna so sweetly, then ruins it with the impersonal conclusion 'tat tvam asi' (thou art that Krishna), sending the Maharaja running to bathe.
+- The prisoner's stripes — the material body is like a convict's black-and-white stripes, a badge of our escape from Krishna, yet we foolishly admire it as beautiful.
+- Punar musiko bhava — a yogi turns a fearful mouse into a cat, then a dog, then a tiger; when the ungrateful tiger moves to eat him, the yogi says 'again become a mouse.'
+- Prataparudra's golden broom — the King of Puri, forbidden association as a worldly monarch, humbly sweeps the road before Jagannath's chariot with a golden broom and thereby wins Mahaprabhu's embrace.
+- Arjuna defeated by cowherds — after Krishna returns to the spiritual world, the mighty Arjuna, escorting the gopis, loses his divine powers and is beaten by simple forest-dwellers with sticks, teaching that his strength was Krishna's all along.
+
+## Memorable Quotes
+
+> “Deathlessness begins at the moment of initiation.”
+> “we are what we are only by the mercy of guru.”
+> “You take one step towards God, he takes a thousand steps.”
+> “the best gift we can give our spiritual master is our progress in Krishna consciousness.”
+> “we're not better than others but we are certainly more fortunate than them.”
 
 ## Scriptural References
 
@@ -52,6 +74,19 @@ Speaking at New Raman Reti (Alachua) from Srimad-Bhagavatam 7.5.11, Prahlada Mah
 - Raghunatha dasa Goswami's prayer - O mind, a shameless low-born prostitute is dancing in my heart in the form of desire for fame; how can pure love for Krishna find a place there?
 - Canakya-niti (Canakya Pandita) - one does not find rubies in every mountain, sandalwood in every forest, or genuine sadhus everywhere; if you find them, grab them.
 - Adi Purana statement quoted by Krishna - one who claims to be My devotee is not; but the devotee of My devotee is truly My devotee.
+
+## Glossary
+
+- **trinad api sunicena** — Siksastakam line: chant humbly, thinking oneself lower than a straw in the street, more tolerant than a tree
+- **Siksastakam** — the eight instructional verses composed by Sri Chaitanya Mahaprabhu
+- **prema** — pure love of God, the ultimate fruit of chanting the holy name
+- **vipralambha-bhava** — the ecstatic mood of loving separation from Krishna
+- **anartha-nivritti** — the clearing stage of bhakti, in which unwanted material habits are removed
+- **bhava** — the stage of spiritual emotion that precedes prema
+- **yukta-vairagya** — 'befitting renunciation'; using everything in Krishna's service rather than artificially rejecting it
+- **punar musiko bhava** — 'again become a mouse'; falling back to one's low position through pride and ingratitude
+- **sankirtana** — congregational chanting and public preaching/book distribution
+- **guru-puja** — the ceremonial honoring and worship of the spiritual master
 
 📄 **Full transcript:** [week-53-in-search-of-humility-developing-humility.md](../../transcripts/module-4/week-53-in-search-of-humility-developing-humility.md)
 

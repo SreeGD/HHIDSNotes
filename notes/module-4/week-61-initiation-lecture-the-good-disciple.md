@@ -12,11 +12,14 @@ duration: "46:50"
 language: "en"
 words: 6287
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["initiation", "the good disciple", "serving the servant", "holy name as treasure", "regulative principles", "guru-disciple relationship"]
 ---
 
 # Initiation Lecture – The Good Disciple
 
 **His Holiness Indradyumna Swami** · Week 61 · Festivals and Kirtans · 46:50
+
+**Themes:** initiation · the good disciple · serving the servant · holy name as treasure · regulative principles · guru-disciple relationship
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking at an initiation ceremony in Melbourne, Indradyumna Swami bases his tal
 - Astrologer/buried-treasure parable: avoid the south (wasp of karma-kanda), the west (ghost of mental speculation), and the north (snake of mystic yoga); go east to Krishna consciousness and Chaitanya's sankirtana movement.
 - A good disciple feels indebted for the guru's mercy and repays the debt by becoming fixed up and preaching, giving glory to his spiritual master, who is judged by the quality of his disciples.
 - Devotees should still respect their material parents as their first siksa-gurus — illustrated by the swami's scientist mother, who converted before death — and should be strict and sincere in their vows, picking themselves up if they fall.
+
+## Notable Stories & Analogies
+
+- Prahlada refuses the Lord's benedictions — choosing to remain in the service of his guru Narada Muni, the mark of a pure devotee.
+- Argument with his mother — the Swami 'won' the debate until she wept, reminding him she changed his diapers and nursed him; then asked only that he take out the garbage.
+- His mother's deathbed conversion — the atheist scientist read his books and died with God's name on her lips, telling his brother 'I'm not this body, I'm a spirit soul.'
+- The astrologer and the buried treasure — a poor man is told to avoid the south (wasp of karma-kanda), west (ghost of speculation) and north (snake of yoga), and go east.
+- The four kinds of sleep — a snap, a nap, a sleep and comatose; the deepest is the sleep of ignorance, in which people are awake yet dreaming their whole life.
+- The Nairobi pujari — defending the deities from machete-wielding jewel thieves, he fought on with one arm after the other was cut off and drove four attackers away.
+- Devavrata's terrible vow — Bhishma vows never to marry, cited as an example of unbreakable adherence to one's vow.
+- Guru joins your hand to Krishna's — at the end the spiritual master leads you into the grove (kunja) and places your hand in Krishna's hand.
+
+## Memorable Quotes
+
+> “may this be your last birth.”
+> “sleep means forgetfulness of Krishna.”
+> “the father who dies with debts is an enemy to his children.”
+> “you can judge the guru by the quality of his disciples.”
+> “knowledge is the ornament of everything.”
 
 ## Scriptural References
 
@@ -52,6 +74,19 @@ Speaking at an initiation ceremony in Melbourne, Indradyumna Swami bases his tal
 - Chanakya Pandit (Niti-sastra) — give up evil association, associate with the saintly, perform pious deeds, and always remember the flickering nature of the world; also the verse that knowledge is the ornament of everything.
 - Mahabharata — Devavrata (Bhishma) takes his "terrible vow" ("Pita, I shall not marry"), cited as an example of strict adherence to one's vow.
 - The astrologer's buried-treasure parable (attributed to the Chaitanya-charitamrita) — the poor man is told to go east for the inherited wealth, avoiding the wasp of karma-kanda (south), the ghost of mental speculation (west), and the snake of yoga (north).
+
+## Glossary
+
+- **Diksha** — spiritual initiation, described as a second birth into the sampradaya
+- **Sampradaya** — an authorized disciplic succession or lineage (here Brahma-Madhva-Gaudiya)
+- **Shiksha guru** — an instructing spiritual master; one's parents are called the first shiksha gurus
+- **Bhakti-lata-bija** — the seed of the creeper of devotion, planted in the heart at initiation
+- **Shabda-brahma** — transcendental spiritual sound, by which the guru awakens the disciple
+- **Gupta** — hidden or secret; the root of the word gopi, keeping love for Krishna confidential
+- **Parakiya-bhava** — the paramour mood of Vraja, in which love is heightened by concealment
+- **Karma-kanda** — fruitive ritual activity performed for material benefit
+- **Prema** — pure love of God, the treasure awakened by chanting
+- **Samsara** — the wheel of repeated birth and death
 
 📄 **Full transcript:** [week-61-initiation-lecture-the-good-disciple.md](../../transcripts/module-4/week-61-initiation-lecture-the-good-disciple.md)
 

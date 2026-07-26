@@ -12,11 +12,14 @@ duration: "1:09:50"
 language: "en"
 words: 4000
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["nrisimhadev", "pure devotee", "protection of devotees", "faith", "prahlada maharaja", "the lord's love"]
 ---
 
 # The Heart of a Vaisnava
 
 **His Holiness Indradyumna Swami** · Week 20 · Foundations in Bhakti · 1:09:50
+
+**Themes:** nrisimhadev · pure devotee · protection of devotees · faith · prahlada maharaja · the lord's love
 
 ## Summary
 
@@ -32,6 +35,22 @@ Speaking on the appearance day of Lord Nrisimhadev, Indradyumna Swami reads Srim
 - The heart of a Vaishnava (Shikshashtaka: na dhanam na janam na sundarim) and the heart of the Lord contain only mutual love—'the pure devotee is in the core of My heart and I in his'; a unity of loving devotional service, like Jesus's 'I and the Father are one.'
 - The Lord accepts only the positive: He sat on the impure throne without hesitation because Hiranyakashipu was really the cursed Vaikuntha doorkeeper Jaya. We should even thank Hiranyakashipu, whose 'negative propaganda' (Bhaktisiddhanta Sarasvati, The Harmonist, 1927) glorified Nrisimhadev and revealed this lila.
 
+## Notable Stories & Analogies
+
+- Boyhood bayonet — at thirteen the Swami's father gave him a battlefield bayonet trophy, which he proudly carried to school.
+- The trophy throne — Nrisimhadev fearlessly enjoys Hiranyakashipu's throne, which had originally belonged to Indra, as the spoils of victory.
+- Chand Kazi's chest — Nrisimhadev appeared in a dream and clawed Chand Kazi's chest to stop him persecuting Lord Chaitanya's sankirtana.
+- Mr. Nair and the Juhu land — Prabhupada prayed to Nrisimhadev to remove the cheater blocking the Juhu Beach temple land, who died of a heart attack.
+- God in the pillar — challenged where his Lord was, Prahlada told Hiranyakashipu He is even in this pillar, so be careful.
+- Blood into milk — no scientist can explain how the body transforms blood into milk, showing how tiny our knowledge really is.
+- Cow recognizing her calf — as a cow finds her own calf in a vast herd, the Lord recognizes His pure devotee in any crowd.
+- The GBC faith question — Prabhupada silenced the whole GBC meeting by asking each member whether he had full faith that Krishna is the Supreme.
+
+## Memorable Quotes
+
+> “And I told them, if you come here, I promise you, I will build you a temple.”
+> “Now, as conditioned souls with a tendency to cheat, we sometimes make promises we can't keep.”
+
 ## Scriptural References
 
 - Srimad-Bhagavatam 7.8.34 — the verse read for the class: Lord Nrisimhadev, of fearsome effulgent countenance, takes His seat on Hiranyakashipu's throne while none dares approach to offer respects.
@@ -46,6 +65,19 @@ Speaking on the appearance day of Lord Nrisimhadev, Indradyumna Swami reads Srim
 - 'Vaishnava Ke?' by Bhaktisiddhanta Sarasvati Thakura — book analyzing 'what kind of Vaishnava are you,' and how a devotee's level (madhyama/uttama) is measured by faith.
 - Bhaktisiddhanta Sarasvati Thakura, article in The Harmonist (1927) — credits Hiranyakashipu, even more than Prahlada, with glorifying Lord Nrisimhadev through 'negative propaganda.'
 - The twelve mahajanas — Prahlada Maharaja cited as a foremost pure-devotee authority (list given in SB 6.3.20).
+
+## Glossary
+
+- **Nrisimhadev** — Vishnu's half-man, half-lion incarnation who slew Hiranyakashipu
+- **Hiranyakashipu** — the demon king, father of Prahlada, killed by Nrisimhadev
+- **Prahlada Maharaja** — the child pure devotee, son of Hiranyakashipu; one of the twelve mahajanas
+- **vibhuti** — the spoils or trophies of battle (also opulence)
+- **sarva-loka-maheshvara** — Krishna as the supreme owner and enjoyer of all worlds
+- **Jaya** — a gatekeeper of Vaikuntha, cursed to be born as the demon Hiranyakashipu
+- **Vaikuntha** — the spiritual world of Vishnu, realm of awe and reverence
+- **lila** — the transcendental pastimes of the Lord
+- **shraddha** — faith; the measure of a devotee's advancement
+- **mahajana** — a great self-realized authority on devotional service (there are twelve)
 
 📄 **Full transcript:** [week-20-the-heart-of-a-vaisnava.md](../../transcripts/module-2/week-20-the-heart-of-a-vaisnava.md)
 

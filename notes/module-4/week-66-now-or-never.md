@@ -12,11 +12,14 @@ duration: "2:14:00"
 language: "en"
 words: 19600
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["soul versus body", "reincarnation and karma", "vegetarianism and ahimsa", "chanting the holy name", "the bona fide guru", "liberation (mukti)"]
 ---
 
 # Now or Never
 
 **His Holiness Indradyumna Swami** · Week 66 ·  · 2:14:00
+
+**Themes:** soul versus body · reincarnation and karma · vegetarianism and ahimsa · chanting the holy name · the bona fide guru · liberation (mukti)
 
 ## Summary
 
@@ -31,6 +34,27 @@ Speaking to a university audience at an ISKCON festival, Indradyumna Swami intro
 - A disciplined lifestyle supports the practice: early rising (brahma-muhurta), sixteen rounds of japa daily, Gita study, and four regulative principles (no meat, intoxication, illicit sex, or gambling), like the discipline required to earn a degree.
 - Vegetarian food offered to Krishna first becomes prasadam and is free of karmic reaction; plants have life too, but eating is authorized by God and offering it minimizes and neutralizes the karma.
 - A bona fide guru is needed as God's empowered representative, and self-realization means reviving an active, personal loving relationship (rasa) with God, not dissolving into an impersonal light or void.
+
+## Notable Stories & Analogies
+
+- The car and the driver — we spend our whole life polishing the body (the car) but neglect the soul (the driver) inside.
+- The Tajik mullah's remark — if there is no life throughout the universe, then Allah 'wasted a lot of space.'
+- The apartment being bulldozed — given six months' notice you find a new flat; so the soul moves to a new body when the old one is condemned.
+- The gray-haired alumnus — honored as the same student though he returns with a completely different, aged body, proving something stays while the body changes.
+- The slaughterhouse at fourteen — a football-captain boy sure he needs meat is taken by his vegetarian father to a slaughterhouse and gives up meat on the spot.
+- Hamburgers on trees — a McDonald's ad shows kids picking burgers off trees, but hamburgers come from slaughterhouses, not trees.
+- The yogi's four benedictions — 'live long' to the prince, 'die at once' to the monk, 'live or die, no difference' to the saint, and 'don't live, don't die' to the butcher, explaining karma.
+- The boomerang and the aborigines — throwing the boomerang so it returns illustrates karma: what goes around comes around.
+- The guru hugging the tree — screaming 'let me go, tree!' shows that we cling to our material desires, not the reverse; just let go.
+- The telescope and the moon — the guru is not a block between you and God but a lens that brings the distant Absolute near enough to touch.
+
+## Memorable Quotes
+
+> “There's a difference in polishing the car and feeding the guy inside the car.”
+> “Hamburgers don't grow on trees. They come from slaughterhouses.”
+> “You're not better than them, you're more fortunate than them.”
+> “Man created the city but God created the country.”
+> “We have to make the best use of a bad bargain.”
 
 ## Scriptural References
 
@@ -50,6 +74,19 @@ Speaking to a university audience at an ISKCON festival, Indradyumna Swami intro
 - Brihan-naradiya Purana (mis-heard as 'Brihat Narayam Parana') - 'harer nama harer nama harer nama eva kevalam / kalau nasty eva nasty eva nasty eva gatir anyatha' (in the age of Kali, chanting the Lord's name is the only way); cited on the primacy of chanting.
 - Bible - Genesis ('I give you the seed-bearing fruit... for you it shall be meat'), the Psalms of David ('from the rising of the sun to its setting, the Lord's name is to be praised with drums and cymbals'), and the Gospel injunction to be 'in this world but not of this world'; cited as cross-tradition parallels for vegetarianism, chanting, and detachment.
 - Buddhist teaching (paraphrased) - 'anyone who calls upon my name shall be delivered'; cited as a parallel to the glory of chanting the holy name.
+
+## Glossary
+
+- **atma** — the eternal soul, the spark of life within the body
+- **yantra** — machine; the body is a sophisticated material machine
+- **buddhi** — intelligence, the faculty unique to human life
+- **mukti** — liberation, returning to the spiritual world
+- **prasadam** — vegetarian food first offered to Krishna, making it free of karma
+- **karma** — the universal law that every action brings an equal reaction
+- **brahma-muhurta** — the auspicious hour and a half before sunrise, best for meditation
+- **maha-mantra** — the great chant, Hare Krishna, that awakens the sleeping soul
+- **ahimsa** — non-violence toward all living beings
+- **paramahamsa** — a swan-like sage who takes the essence and leaves the rest
 
 📄 **Full transcript:** [week-66-now-or-never.md](../../transcripts/module-4/week-66-now-or-never.md)
 

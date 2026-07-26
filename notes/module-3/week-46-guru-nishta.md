@@ -12,11 +12,14 @@ duration: "1:37:03"
 language: "en"
 words: 9032
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["guru-nishta", "humility", "menial service", "initiation", "separation (vipralambha)", "preaching", "prema"]
 ---
 
 # Guru Nishta
 
 **His Holiness Indradyumna Swami** · Week 46 ·  · 1:37:03
+
+**Themes:** guru-nishta · humility · menial service · initiation · separation (vipralambha) · preaching · prema
 
 ## Summary
 
@@ -32,6 +35,25 @@ Delivered on the appearance day of Srila Narottama dasa Thakura, this lecture gl
 - The mood of separation (vipralambha) is the topmost prema: the desolation of Navadvipa after Mahaprabhu's departure (the Ganga standing still, cows unable to bite grass, bees' wings motionless, birds silent) and Gour Govinda Swami's summary that the essence of Krishna consciousness is 'to cry, cry, cry,' because separation multiplies remembrance and love a thousandfold.
 - The thread of concrete guru-instruction: Lokanatha's two orders to serve the deity and spread the sankirtana movement, echoed by Bhaktisiddhanta telling Prabhupada to preach in English and by Prabhupada's personal words to Maharaja in 1972 en route to France, 'preach boldly and have faith in the holy names.'
 
+## Notable Stories & Analogies
+
+- Ramakeli prediction — during an ecstatic kirtan Chaitanya Mahaprabhu cries out 'Narottama, Narottama' and faints, foretelling the appearance of a devotee no one had yet heard of.
+- Prema entrusted to Padmavati — Chaitanya deposits liquid prema-bhakti with the personified Padma River to hold until Narottama should bathe in her waters.
+- The infant's refusal — at his grain-giving ceremony baby Narottama pushes away the sweet rice because the pujari had forgotten to offer it to the deity.
+- Bathing in the Padma — following Nityananda's dream-order Narottama enters the river, Padmavati pours prema over him, his body erupts in the eight ecstasies and turns golden like Mahaprabhu.
+- Cleaning the guru's toilet-spot — to win initiation from the reluctant Lokanatha Goswami, the prince secretly cleans the place where the acharya passed stool until his heart melts.
+- The burned hands — absorbed in manasa-seva as the gopi Vilasa Manjari, Narottama grabs Champakalata's boiling milk pot and actually burns his physical hands.
+- Galeries Lafayette rebuke — after a rough Paris Harinama, Prabhupada leans over and snaps, 'When did I ever say that preaching was easy?'
+- Navadvipa's desolation — in separation from Mahaprabhu the Ganga stands still, cows freeze with grass half-bitten, bees' wings stop moving and birds fall silent.
+
+## Memorable Quotes
+
+> “Narottam is my very dear devotee.”
+> “when did I ever say that preaching was easy?”
+> “Humility is actually the crest jewel of all the devotees' fine qualities.”
+> “you do not know what is ecstasy.”
+> “preach boldly and have faith in the holy names.”
+
 ## Scriptural References
 
 - Bhagavad-gita 10.10 — 'tesham satata-yuktanam bhajatam priti-purvakam / dadami buddhi-yogam tam yena mam upayanti te': to those who lovingly serve, Krishna gives the intelligence by which they come to Him; quoted for Nityananda's dream directing Narottama to bathe in the Padma.
@@ -41,6 +63,19 @@ Delivered on the appearance day of Srila Narottama dasa Thakura, this lecture gl
 - Narottama dasa Thakura's own writings — Prarthana and Prema-bhakti-candrika, named as his two most famous devotional works.
 - Narahari Chakravarti's Narottama-vilasa (Narottama's biography, always carried by Bhaktivinoda Thakura) and Bhakti-ratnakara (which describes Raghava Pandita's Vrindavan parikrama with Narottama and Srinivasa Acharya).
 - Hari-bhakti-vilasa (Gopala Bhatta Goswami) — the newly compiled devotional manual whose system Lokanatha Goswami followed in giving Narottama diksha; also the Goswami books sent to Bengal: Bhakti-rasamrita-sindhu and Ujjvala-nilamani (Rupa) and Brihad-bhagavatamrita (Sanatana), plus the collection Bhaktivinoda Bani quoted on whether past acharyas hear our prayers.
+
+## Glossary
+
+- **guru-nishta** — firm faith in and steady attachment to the spiritual master
+- **bhajananandi** — a devotee absorbed in private, internal worship
+- **goshthyanandi** — a devotee dedicated to preaching and expanding the Lord's mission
+- **rasika** — a devotee who relishes the deep mellows (rasa) of devotion
+- **nitya-siddha** — an eternally perfected, liberated soul
+- **prema** — pure ecstatic love of God
+- **diksha** — spiritual initiation by a bona fide guru
+- **manasa-seva** — worship of the Lord performed within the purified mind
+- **manjari** — a maidservant-gopi in Radha and Krishna's service (Narottama's eternal form as Vilasa Manjari)
+- **vipralambha** — the mood of loving separation from the Lord, considered the topmost prema
 
 📄 **Full transcript:** [week-46-guru-nishta.md](../../transcripts/module-3/week-46-guru-nishta.md)
 

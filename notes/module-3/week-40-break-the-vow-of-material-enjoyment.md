@@ -12,11 +12,14 @@ duration: "1:00:55"
 language: "en"
 words: 8256
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["always remember Krishna", "love of God", "unchaste to God", "bona-fide guru", "favorable devotion", "sankirtana"]
 ---
 
 # Break the vow of material enjoyment
 
 **His Holiness Indradyumna Swami** · Week 40 · Festivals and Kirtans · 1:00:55
+
+**Themes:** always remember Krishna · love of God · unchaste to God · bona-fide guru · favorable devotion · sankirtana
 
 ## Summary
 
@@ -31,6 +34,24 @@ Speaking on Bhagavad-gita 9.34 (Chapter Nine, 'The Most Confidential Knowledge')
 - Remembrance must be favorable (anukulyena, per Rupa Goswami): the demon Kamsa remembered Krishna constantly but in fear and hatred, so it was not bhakti; a real devotee serves with loving attention to detail, as when Prabhupada stepped off the Vyasasana to wipe a blemish from Radharani's marble cheek in Paris ('detail is a sign of love').
 - The goal is pure love of God and going home to Goloka Vrindavan (not Vaikuntha); success is weeping while chanting in separation (Siksastakam), and the final test of one's bhajan is calling out Krishna's name spontaneously at the moment of death (Bhaktivinoda Thakura). The greatest gift to the spiritual master is to advance and join him in the Lord's eternal nitya-lila.
 - Extended Sankirtana story: ISKCON's football-field-sized 'Krishna's Village of Peace' at Poland's Woodstock festival (110,000 plates of prasadam in 72 hours, Ratha-yatra three times a day, book distribution) and the deepening faith of organizer Jurek Owsiak, who was taken to Muktinath (108 spouts on the Kali Gandaki), Radha Kunda, and Vrindavan, now carries a Shalagram Shila everywhere ('he, not it, is always protecting me'), and dreams of retiring to Vrindavan in a dhoti, demonstrate how patient, favorable service attracts even powerful materialists.
+
+## Notable Stories & Analogies
+
+- The two-sided t-shirt — the front reads 'always remember Krishna,' the back reads 'and never forget Krishna.'
+- The New York governor — publicly fought vice while secretly visiting prostitutes, the very picture of being 'unchaste' to God.
+- The pointing finger — you point one finger at the accused while three fingers point back at yourself.
+- The do-not shop — Prabhupada's pun on the donut shop where devotees smoked and dunked donuts after class.
+- The electric line — plug in at the beginning, middle, or end and you get full potency, so every disciple has equal opportunity.
+- Prabhupada wiping Radharani's cheek — stepping off the Vyasasana in Paris to clean a blemish from the marble, teaching that attention to detail is a sign of love.
+- Kamsa and Shishupala — both remembered Krishna constantly, but in fear and hatred rather than favorably.
+- Jurek Owsiak at Woodstock — the tough Polish organizer gradually awakened through Muktinath, Radha Kunda, and Vrindavan, now carrying a Shalagram Shila everywhere.
+
+## Memorable Quotes
+
+> “Lust means for me and love means for Krishna.”
+> “The rules are the don'ts and the regulations are the do's.”
+> “Attention to detail is a sign of love.”
+> “He, not it, he is always protecting me.”
 
 ## Scriptural References
 
@@ -51,6 +72,19 @@ Speaking on Bhagavad-gita 9.34 (Chapter Nine, 'The Most Confidential Knowledge')
 - Bible - Jesus: one cannot love/serve God and mammon at once (Matthew 6:24); 'the meek shall inherit the earth' (Matthew 5:5); 'my cup runneth over' (Psalm 23:5).
 - Bhaktivinoda Thakura - the real test of one's bhajan comes at the moment of death, whether one can spontaneously call out Krishna's name (paraphrased; specific work not identified in the audio).
 - Srila Prabhupada (paraphrased sayings, source works not specified) - 'religion means following the laws of God'; 'lust means for me and love means for Krishna'; 'faith means to put your trust in something sublime'; 'material enjoyment and Krishna consciousness don't go well together'; and his teaching that World War II was collective (global) karmic reaction for mass cow slaughter.
+
+## Glossary
+
+- **man-mana bhava mad-bhakto** — BG 9.34: always think of Me and become My devotee
+- **Maya** — the Lord's illusory material energy
+- **tattva-darshi** — one who has seen the Absolute Truth
+- **shiksha-guru** — the instructing spiritual master
+- **anukulya** — favorable service, done as Krishna desires
+- **sahajiya** — one who cheaply imitates advanced devotion
+- **Goloka Vrindavan** — Krishna's supreme personal abode
+- **Shalagram Shila** — the self-manifest sacred stone form of Vishnu
+- **nitya-lila** — the Lord's eternal pastimes
+- **sadhana-bhakti** — devotional service in practice
 
 📄 **Full transcript:** [week-40-break-the-vow-of-material-enjoyment.md](../../transcripts/module-3/week-40-break-the-vow-of-material-enjoyment.md)
 

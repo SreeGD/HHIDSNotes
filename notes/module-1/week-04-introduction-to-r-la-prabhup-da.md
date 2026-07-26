@@ -12,11 +12,14 @@ duration: "54:15"
 language: "en"
 words: 7496
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["spiritual master", "srila prabhupada", "initiation", "separation", "service", "mercy"]
 ---
 
 # Introduction to Śrīla Prabhupāda
 
 **His Holiness Indradyumna Swami** · Week 4 · Foundations in Bhakti · 54:15
+
+**Themes:** spiritual master · srila prabhupada · initiation · separation · service · mercy
 
 ## Summary
 
@@ -33,6 +36,25 @@ On the appearance and disappearance days of his spiritual master, Indradyumna Sw
 - Two central benedictions/teachings frame the endeavor of devotional service: after the hard slap in London, 'so much endeavor in this world; when I take you back to Godhead everything will be easy and sublime'; and when the Swami complained sankirtan was difficult, Prabhupada replied, 'When did I ever say that preaching is easy? Just you continue.'
 - The Paris charanamrita story illustrates the three sources of great mercy from the spiritual master, the remnants of his fruit/food, the dust of his feet, and the water that washed his feet, obtained through a grueling three-month Metro book-distribution marathon.
 
+## Notable Stories & Analogies
+
+- Yard-sale conversion — as a teenager he sold everything he owned for about $1,850, was shaved up within fifteen minutes of joining, and gave his first Bhagavatam class within seventy-two hours.
+- The last $10 and the letter — he gave Prabhupada his final ten dollars with a note, and weeks later received a personal letter promising to accept him as an initiated disciple.
+- Mukunda Datta — Chaitanya Mahaprabhu said He would accept him only after a million births, at which the devotee danced in ecstasy that acceptance was at least guaranteed.
+- Orange peels as maha-prasada — nervously serving Prabhupada oranges, he ate the stinging peels as remnants and kept the last one for six months, like Madhavendra Puri's cup of sweet rice.
+- Charlie Chaplin on the plane — Prabhupada laughed at the film and taught that Krishna is the source of all original things, so we must learn to see Krishna everywhere.
+- The TWA phone call — he preached to an airline agent about an overbooked flight until two cancellations opened the seats to travel with Prabhupada.
+- The lost suitcase and the slap — made to wait for a heavy suitcase of Prabhupada's books, he missed the kirtan and feast, dragged it improperly into Prabhupada's room, and received a hard slap with a benediction.
+- Paris charanamrita — after a three-month Metro book-distribution marathon to win washing Prabhupada's feet, he and his godbrother secretly drank the whole bowl of foot-wash water while brahmacharis pounded on the locked door.
+
+## Memorable Quotes
+
+> “I do not know who is Krishna. I only know my Guru Maharaja.”
+> “So much endeavor in this material world. When I take you back to Godhead, everything will be easy and sublime.”
+> “When did I ever say that preaching is easy?”
+> “Krishna is the source of all original things.”
+> “I am also missing my Guru Maharaja, but I always feel that he is watching over and protecting me.”
+
 ## Scriptural References
 
 - Chaitanya-caritamrita, Madhya-lila 19.151 — 'brahmanda bhramite kona bhagyavan jiva, guru-krsna-prasade paya bhakti-lata-bija' (quoted as 'brahmanda brahmatikonya... guru krishna prashad... bhakti ladbhij'); quoted to the airline agent to explain that the soul wanders through the universes since time immemorial and receives the seed of the devotional creeper only by the mercy of guru and Krishna.
@@ -45,6 +67,18 @@ On the appearance and disappearance days of his spiritual master, Indradyumna Sw
 - Chaitanya-caritamrita — the pastime of Mukunda Datta, whom Lord Chaitanya Mahaprabhu declared He would accept only after a million births, and who danced in ecstasy that acceptance was at least guaranteed; cited as an example of a Vaishnava's faith in the spiritual master's word.
 - Chaitanya-caritamrita, Madhya-lila (Kshira-chora Gopinatha of Remuna) — the pastime of Madhavendra Puri and the cup of sweet rice (kshira) hidden and delivered by the Gopinatha deity/pujari, which he relished and preserved; cited in parallel to the speaker keeping Prabhupada's orange-peel maha-prasada for six months.
 - Commentaries of Vishvanatha Chakravarti Thakura (in Sanskrit and Bengali) — named as among the reference books in Prabhupada's heavy suitcase that Prabhupada used for his translation and purport work.
+
+## Glossary
+
+- **Founder-Acharya** — the founding spiritual preceptor of an institution; Srila Prabhupada of ISKCON
+- **diksha guru** — the initiating spiritual master
+- **shiksha guru** — the instructing spiritual master
+- **prasadam** — sanctified food that has been offered to Krishna
+- **maha-prasada** — the especially sanctified remnants of what the deity or spiritual master has taken
+- **charanamrita** — the sanctified water that has washed the feet of the Lord or the spiritual master
+- **Vyasasana** — the seat of the spiritual master as representative of Vyasadeva
+- **sankirtana** — congregational chanting and, by extension, book distribution and preaching
+- **nitya-seva** — eternal service to the Lord and guru in the spiritual world
 
 📄 **Full transcript:** [week-04-introduction-to-r-la-prabhup-da.md](../../transcripts/module-1/week-04-introduction-to-r-la-prabhup-da.md)
 

@@ -12,6 +12,7 @@ duration: "25:15"
 language: "en"
 words: 1819
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["service attitude", "respecting devotees", "humility", "vaishnava relationships", "preaching", "festival"]
 ---
 
 # Service Attitude
@@ -19,6 +20,8 @@ transcribed_with: whisper.cpp large-v3-turbo
 **His Holiness Indradyumna Swami** · Week 47 ·  · 25:15
 
 > _Note: This talk appears to be delivered by a guest sannyasi at Indradyumna Swami's festival program (he refers to Indradyumna Swami in the third person), not by Indradyumna Swami himself._
+
+**Themes:** service attitude · respecting devotees · humility · vaishnava relationships · preaching · festival
 
 ## Summary
 
@@ -34,6 +37,20 @@ Delivered as an arrival address at Indradyumna Swami's Polish festival tour, thi
 - A busy life of constant service leaves 'no time' to lose respect for devotees; only those with too much idle time fall into mental conflicts and search for reasons to disrespect others. Service must be under the guidance of advanced devotees, not by one's own whims.
 - Prasadam analogy: instead of sitting and expecting to be served (and getting frustrated to the point of wanting to 'strangle' a Godbrother when hot khichri is dumped on your hand), pick up the bucket and serve others; rendering service also kills envy at its root.
 
+## Notable Stories & Analogies
+
+- The crying girl at the bus tour — watching the Hare Krishna Youth Bus Tour dance at the Canadian Rathayatras, a sixteen-year-old girl begins to weep, longing for such a joyful life.
+- The Mayavadi sannyasi — imagining he has become Narayana, he lets people bow down longer and thinks 'I am your master,' the opposite of the Vaishnava mood.
+- Sarvabhauma Bhattacharya at Jagannatha Puri — temple guards want to beat the ecstatically fallen Mahaprabhu, but the learned Bhattacharya recognizes genuine ecstasy and later counsels against His youthful sannyasa.
+- The hot khichri — sitting and expecting to be served, you cover the pot to signal 'enough' and get a scoop of hot khichri on your hand, then feel like strangling the server; instead, pick up the bucket and serve.
+
+## Memorable Quotes
+
+> “One who has life he can preach”
+> “We can only avoid losing respect for devotees by maintaining a service attitude”
+> “I am the servant of everybody”
+> “It was embarrassing but inspiring at the same time.”
+
 ## Scriptural References
 
 - Upadesamrta (Nectar of Instruction), verse 5 — Rupa Goswami's instruction on how a devotee should associate with and treat more advanced, equal, and less advanced Vaishnavas; the speaker paraphrases the idea that learning this makes one 'happy in Krishna consciousness,' and that neglecting it prevents happiness.
@@ -41,6 +58,19 @@ Delivered as an arrival address at Indradyumna Swami's Polish festival tour, thi
 - Bhagavad-gita — teaching that the Supersoul (Paramatma) is present in every living entity, so a Vaishnava respects every living being; the speaker paraphrases rather than quotes (cf. the 'samam sarveshu bhuteshu tishthantam paramesvaram' teaching, Bhagavad-gita 13.28), verse not stated in the lecture.
 - Srila Prabhupada, oft-repeated instruction 'One who has life can preach' — quoted as a general saying, not a scriptural verse.
 - 'Dasoham' ('I am your servant') — the humble response a Vaishnava sannyasi gives when offered obeisances; cited as the proper Vaishnava mood, not a specific verse.
+
+## Glossary
+
+- **service attitude** — the mood of being the humble servant of everyone
+- **Vaishnava** — a devotee of Vishnu/Krishna
+- **sannyasi** — a man in the renounced order of spiritual life
+- **Mayavadi** — an impersonalist who wrongly thinks the self becomes God (Narayana)
+- **Paramatma** — the Supersoul, the Lord present within every living being
+- **daso 'smi** — 'I am your servant,' the humble reply a Vaishnava gives when offered obeisances
+- **Rathayatra** — the festival of the chariots of Lord Jagannatha
+- **kirtan** — congregational chanting of the holy names
+- **prasadam** — sanctified food first offered to the Lord
+- **Vyasa-puja** — the ceremony of honoring and worshiping the spiritual master
 
 📄 **Full transcript:** [week-47-service-attitude.md](../../transcripts/module-3/week-47-service-attitude.md)
 

@@ -12,11 +12,14 @@ duration: "1:04:01"
 language: "en"
 words: 8834
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["bad association", "humility", "meat-eating", "sadhu-sanga", "taking shelter", "power of association"]
 ---
 
 # Killer of the Soul
 
 **His Holiness Indradyumna Swami** · Week 13 ·  · 1:04:01
+
+**Themes:** bad association · humility · meat-eating · sadhu-sanga · taking shelter · power of association
 
 ## Summary
 
@@ -31,6 +34,25 @@ Lecturing from Sri Chaitanya-caritamrita (Madhya-lila) at New Raman Reti (Alachu
 - Even the most fallen can be transformed — as bell-metal into gold — through chanting Hare Krishna and initiation.
 - A devotee's only fear (Prahlada's prayer) is forgetting Krishna under maya; take shelter in Krishna and the association of devotees — the reason Prabhupada created ISKCON.
 
+## Notable Stories & Analogies
+
+- Lotus flower — rooted in the mud yet always a few inches above the water, like a devotee who is in this world but not of it.
+- Chameleon lizard — turns the color of whatever paper it sits on, showing how we take on the qualities of those we associate with.
+- Hussain Shah's mason — the king hurled his humble chief mason off the top of the memorial, then pressed Sanatana Goswami into government service.
+- McDonald's hamburger trees — an old TV ad showed children picking hamburgers off trees, hiding from them where meat really comes from.
+- The mamsa mantra — whispered in the goat's ear: 'in this lifetime I kill you, in the next you will eat me' (mam sa = me, you).
+- Bell metal into gold — Sanatana Goswami's example that a fallen, sinful soul can be chemically transformed into a brahmana and Vaishnava.
+- Crabs fleeing into the ocean — sensing danger, the tiny crabs take shelter in the greatness of the ocean, as we take shelter in Krishna.
+- Jean-Paul Sartre — a brilliant philosopher who dissected material suffering but, seeing no light at the end of the tunnel, took his own life.
+
+## Memorable Quotes
+
+> “Atmahani means killer of the soul.”
+> “Of course you can't kill the soul, but you can kill the soul's chances for self-realization.”
+> “Love is in the eyes of the beholder.”
+> “Sometimes the truth is so simple it just knocks you over.”
+> “Our problem is we're smiling so much, sometimes our jaws ache.”
+
 ## Scriptural References
 
 - Sri Chaitanya-caritamrita, Madhya-lila 1.195–197 — the three verses under discussion: Rupa and Sanatana call themselves lower than Jagai and Madhai and of the 'caste of meat-eaters' by association.
@@ -42,6 +64,18 @@ Lecturing from Sri Chaitanya-caritamrita (Madhya-lila) at New Raman Reti (Alachu
 - Manu-samhita — for as many hairs as are on the cow's body, the killer must take birth and be slaughtered that many times.
 - Gaura-ganoddesa-dipika — identifies Rupa Goswami as Rupa Manjari and Sanatana Goswami as Rati/Lavanga Manjari, associates of Radharani.
 - Padyavali (Kaviratna) — the closing verse: one who daily sings Krishna's glories is untroubled by Kali-yuga.
+
+## Glossary
+
+- **atmahani** — 'killer of the soul'; a meat-eater, who kills not the soul itself but its chance for self-realization
+- **mleccha** — a meat-eater; one whose habits fall outside Vedic culture
+- **yavana** — one who has deviated from Vedic culture and does not lead a pure life
+- **nitya-siddha** — an eternally perfected soul, never touched by the material nature even while in this world
+- **jivan-mukta** — one who is liberated even while still living within the material body
+- **ahimsa** — nonviolence, a foundational principle of Vedic culture
+- **guru-parampara** — disciplic succession; the transcendental 'baton' handed down from one generation of Vaishnavas to the next
+- **maya** — the illusory material energy, which covers reality and can overwhelm the tiny soul
+- **manjari** — a young maidservant gopi of Radharani (Rupa Goswami is Rupa Manjari; Sanatana is Rati/Lavanga Manjari)
 
 📄 **Full transcript:** [week-13-killer-of-the-soul.md](../../transcripts/module-1/week-13-killer-of-the-soul.md)
 

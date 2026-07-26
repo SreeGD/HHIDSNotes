@@ -12,11 +12,14 @@ duration: "53:28"
 language: "en"
 words: 4429
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["temple building", "the guru's order", "humility", "vedic culture", "fundraising", "mayapur"]
 ---
 
 # The importance of building temples
 
 **His Holiness Indradyumna Swami** · Week 52 · Foundations in Bhakti · 53:28
+
+**Themes:** temple building · the guru's order · humility · vedic culture · fundraising · mayapur
 
 ## Summary
 
@@ -32,12 +35,44 @@ Speaking at Sridham Mayapur around the appearance day of Lord Chaitanya Mahaprab
 - Modern parallel: Ambarish Prabhu (Alfred Ford) is providing the balance of the funds for the Mayapur temple; everyone can and should participate according to their ability—through donations, physical work, or even encouraging words—and thereby gain eternal benefit.
 - India (Bharata) means 'light,' i.e., transcendental knowledge, and its greatest gift is the teachings of Sri Chaitanya Mahaprabhu; the Mayapur temple is to be a lighthouse for the world, fulfilling the vision of Bhaktivinoda Thakura and Srila Prabhupada.
 
+## Notable Stories & Analogies
+
+- Lala Babu and the ashes — the wealthy businessman turned Vrindavan renunciate begs even his greatest enemy, who dumps a bucket of dirty ashes on his head; he simply says 'thank you very much,' and that humility inspires Kolkata's devotees to fund his temple in three days.
+- Prabhupada's one-line letter — the discouraged early London devotees were revived by a single sentence: if you build a temple for Krishna in this world, Krishna will build a palace for you in the spiritual world.
+- The neglected jungle temple — Tirumangai Alvar comes upon a dilapidated temple with rats on the altar and lean, hungry-looking deities, and resolves to build a temple so glorious even sinful people cannot resist it.
+- Tirumangai's thieves — unable to raise a single anna by begging, the Alvar recruits the town's thieves and dacoits to steal from the rich and give to the Lord to build Sri Rangam.
+- The four mystic yogis — his disciples use mystic powers to collect funds: one walks on water to rob houseboats, one opens any lock without a key, one freezes people by stepping on their shadow, and one freezes them while talking.
+- The overloaded boat — 110 greedy thieves crowd into a boat meant for 15, chanting 'money is the honey,' and drown, yet attain liberation for the service they rendered.
+- The Doberman chase in France — doing sankirtana he opens a door, a red-eyed Doberman gives chase, and he escapes by leaping from rooftop to rooftop.
+- Prabhupada with 40 rupees — newly arrived in New York, he walks the city alone eyeing multi-million-dollar buildings as future temples for Radha and Krishna, with only about 40 rupees to his name.
+
+## Memorable Quotes
+
+> “along with the order of the Guru comes the ability to fulfill it.”
+> “if you build a temple of Lord Krishna in this world, Krishna will build a palace for you in the spiritual world.”
+> “But these thieves were taking from the rich and giving to the Lord.”
+> “money is the honey, money is the honey, it's so sweet, it can't be beat.”
+> “Let us think of it as the light of the world.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam, Canto 11 (Deity-worship / kriya-yoga instruction, likely 11.27.52), paraphrased in the closing: 'By installing the deity of the Lord, one becomes king of the entire earth; by building a temple for the Lord, one becomes ruler of the three worlds; by worshiping and serving the deity, one goes to the planet of Lord Brahma; and by performing all three of these activities, one attains a transcendental form like the Lord's.'
 - Nrisimha Purana (verse number not specified in the talk), quoted by Tirumangai Alvar: one who helps build a beautiful temple for the Lord is freed from all sinful reactions and very soon enters the Vaikuntha planets—used to explain why the drowned thieves went back to Godhead.
 - Bible, Gospel of John (10:30), 'the Father and I are one'—cited to illustrate the pure devotee's oneness of desire with God (the speaker clarifies this does not mean Jesus is God, but that he knew every one of God's desires).
 - Srila Prabhupada-lilamrta (Satsvarupa dasa Goswami), the 'Let there be a temple' episode—referenced regarding Srila Prabhupada envisioning a Radha-Krishna temple in New York with only about 40 rupees, and ultimately establishing 108 temples worldwide.
+
+## Glossary
+
+- **baba / babaji** — a renunciate who lives simply with only a loincloth, water pot, and mala
+- **madhukari** — begging alms door to door, taking a little from each household
+- **Alvar** — one of the twelve great South Indian Vaishnava saint-poets
+- **arca-vigraha / Vigraha** — the deity form of the Lord installed for worship
+- **dakshina** — a donation or offering given to a holy person or sacred cause
+- **acharya** — a spiritual teacher who teaches by example and can present Krishna consciousness in new ways without changing the tradition
+- **Vaikuntha** — the eternal spiritual world, the abode of Vishnu
+- **yuga-dharma** — the recommended spiritual process for the age; for Kali-yuga, chanting the holy name
+- **Bharata** — a name of India, one meaning of which is 'light' (transcendental knowledge)
+- **Gaudiya Vaishnava** — a follower of the devotional tradition of Sri Chaitanya Mahaprabhu
 
 📄 **Full transcript:** [week-52-the-importance-of-building-temples.md](../../transcripts/module-4/week-52-the-importance-of-building-temples.md)
 

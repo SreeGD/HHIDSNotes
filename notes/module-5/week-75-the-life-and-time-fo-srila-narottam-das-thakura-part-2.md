@@ -12,11 +12,14 @@ duration: "1:34:28"
 language: "en"
 words: 12158
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["preaching opposition", "conversion", "holy name", "dacoits", "separation", "kirtan"]
 ---
 
 # The Life and Time fo Srila Narottam Das Thakura Part 2
 
 **His Holiness Indradyumna Swami** · Week 75 ·  · 1:34:28
+
+**Themes:** preaching opposition · conversion · holy name · dacoits · separation · kirtan
 
 ## Summary
 
@@ -32,6 +35,30 @@ Continuing his series on Srila Narottama Das Thakura, Indradyumna Swami recounts
 - The unique quality distinguishing a Vaishnava is selfless compassion (illustrated by Dhruva, Prahlada, Vasudeva Datta, and Jesus), which requires a heart cleansed of material desire (anartha-nivritti); it was Ganga Narayan Chakravarti's compassion for the blaspheming brahmanas that prompted his prayer, whereupon Narottama returned to life on the funeral pyre and later accepted those very brahmanas as disciples.
 - Overwhelmed by separation from Ramachandra Kaviraja and Srinivasa Acharya, Narottama composed his song of separation from the Vaishnavas and finally departed by merging into the Ganges as milk (the Dudh Samadhi), reappearing twice during the mourners' kirtan to console his devotees and assure them he would always be with them.
 
+## Notable Stories & Analogies
+
+- Leprous brahmana cured by dancing — a proud karma-kandi brahmana afflicted with leprosy is cured finger by finger, limb by limb, as he dances all night in Narottama's kirtan.
+- The two goatherd boys — Hari Rama and Ramakrishna, sent to bring goats for Durga sacrifice, overhear the two Vaishnavas loudly discussing philosophy, free the animals, and become empowered preachers.
+- Balaram defeats the digvijaya — the king's physician, after only 45 minutes of philosophy from the boys, defeats the never-beaten debater Murari, who is shamed into begging.
+- Ganga Narayan's dream — the learned head brahmana surrenders after Narottama appears in his dream and promises to meet him at the Ganges at noon.
+- The market-vendor disciples — Ramachandra Kaviraja and Ganga Narayan pose as a betel-nut seller and a clay-pot seller and defeat the challenging pundits in Sanskrit, collapsing the whole procession's confidence.
+- Durga in the dreams — the goddess repeatedly appears in the brahmanas' dreams declaring she is Krishna's servant and demanding 'Surrender to Narottam or die.'
+- Hari Chandarai the dacoit-king — tortured from within by a chicken-footed Brahmana-rakshasa ghost, he is freed by Narottama's mere glance and becomes a fixed chanter of the holy name.
+- The elephant execution — imprisoned in a filthy pit and condemned by a vengeful Yavana king, Chandarai seizes the charging elephant's trunk, swings it, snaps it off, and kills it, melting the king's heart.
+- Prabhupada's glance — Indradyumna Swami recalls sitting in front just to be noticed, raising his hand with no real question, and Prabhupada answering 'actually, you can't understand.'
+- The Sputnik astronaut — Khrushchev's cosmonaut reports seeing no God, but as the failing craft falls to earth his last words are 'My dear God, please save me.'
+- The Manipur stoning — a modern reminiscence of Maoist youths pelting the Village of Peace band with rocks in tribal Manipur, where Ganga Narayan had converted the king centuries before.
+- Vishvanatha's practical letter — a letter found in the Jaipur archives in which Vishvanatha Chakravarti asks King Jai Singh to clear the dacoits attacking pilgrims on the road from Vrindavan.
+- The Dudh Samadhi — as his disciples massage him in the Ganges, Narottama's body melts into milk and merges with the water, leaving the humble milk samadhi under a tree.
+- Return from the funeral pyre — at Ganga Narayan's compassionate plea to spare the blaspheming brahmanas, life returns to Narottama's corpse and a sacred thread shining like millions of suns appears on his body.
+
+## Memorable Quotes
+
+> “If there's no opposition, that means there's no preaching.”
+> “It's like drinking hot sugar juice. It burns the lips. But at the same time, it's so sweet, you can't stop.”
+> “If Krishna wants to kill you, no one can save you, and if Krishna wants to save you, no one can kill you.”
+> “You just glanced at us and we were free.”
+
 ## Scriptural References
 
 - Chaitanya-charitamrita, Madhya 22.54 - 'sadhu-sanga, sadhu-sanga -- sarva-sastre kaya / lava-matra sadhu-sange sarva-siddhi haya'; quoted on how even a moment's association with a pure devotee accelerates all spiritual perfection.
@@ -44,6 +71,20 @@ Continuing his series on Srila Narottama Das Thakura, Indradyumna Swami recounts
 - Bible, Luke 23:34 - 'Father, forgive them, for they know not what they do'; cited alongside Vasudeva Datta as an example of accepting others' sins.
 - Padma Purana nama-aparadha (paraphrased) - blaspheming or even thinking ill of a Vaishnava/sadhu (sadhu-ninda) is the first and most serious offense against the holy name; referenced by the speaker as 'hanti mata.'
 - Bhaktivinoda Thakura (paraphrased) - 'I would rather take birth as an insect in the house of a devotee than become a non-devotee Brahma,' and his prayer that compassion for all fallen souls awaken so that with a humble heart he may go out and preach the divine command.
+
+## Glossary
+
+- **Acharya** — a spiritual teacher who instructs by his own example
+- **Sankirtan** — congregational chanting of the holy names, and the movement to spread it
+- **Kayastha** — a sub-caste between vaishya and kshatriya; Narottama's family birth, not brahmana
+- **Karma-kanda** — the Vedic path of fruitive ritual and material work
+- **Jnana-kanda** — the Vedic path of speculative knowledge for liberation
+- **Digvijaya** — a scholar who has conquered all others in debate everywhere
+- **Brahmana-rakshasa** — a fierce ghost of a fallen or sinful brahmana, hard to exorcise
+- **Dacoit** — an armed bandit or robber (Bengali: dakait)
+- **Yavana** — a person outside Vedic culture, a meat-eater or 'barbarian'
+- **Samadhi** — the memorial tomb-shrine of a departed saint; also deep meditative trance
+- **Anartha-nivritti** — the cleansing of the heart of unwanted material desires
 
 📄 **Full transcript:** [week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md](../../transcripts/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md)
 

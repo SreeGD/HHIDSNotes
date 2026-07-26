@@ -12,11 +12,14 @@ duration: "12:35"
 language: "en"
 words: 1367
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["kirtan", "holy name", "real happiness", "love of god", "spiritual identity", "congregational chanting"]
 ---
 
 # Real Happiness
 
 **His Holiness Indradyumna Swami** · Week 45 ·  · 12:35
+
+**Themes:** kirtan · holy name · real happiness · love of god · spiritual identity · congregational chanting
 
 ## Summary
 
@@ -32,12 +35,40 @@ This is an introductory address given by Indradyumna Swami before a public kirta
 - Chanting arose in India but is meant for all people because every soul is part of God's family (pizza-from-Italy analogy: good things from other countries can be embraced); as a transcendental sound vibration it never tires the chanter and touches and awakens the soul, unlike material songs.
 - He teaches the audience the Hare Krishna maha-mantra two words at a time so they can chant along and feel the same joy.
 
+## Notable Stories & Analogies
+
+- One sun, many names — just as the single sun is called by different names around the world, the one God has many names in different languages.
+- Water, water, water — repeating the word 'water' cannot quench thirst, because in the material world the name and the object are different, unlike God who is present in His name.
+- Western image of God — the mistaken depiction of God as old, grey-haired and feeble holding up the earth, corrected by the Vedic picture of the ever-youthful Lord.
+- Pizza from Italy — Poles love pizza although it was not invented in Warsaw, so something good from another land (like chanting from India) can be embraced by everyone.
+- Radio song vs. the mantra — a favorite radio song grows tiresome because it is a material sound, but the Hare Krishna chant never tires even after thirty or forty years because it touches the soul.
+
+## Memorable Quotes
+
+> “Krishna is a very appropriate name for the Lord, because it means the most attractive or the most beautiful person.”
+> “We foolishly tried to find our happiness in material things.”
+> “Because ultimately, all of us are spiritual beings, we're part of God's family.”
+> “Some of us have been chanting for 30 or 40 years.”
+> “But pizza was not invented in Warsaw.”
+
 ## Scriptural References
 
 - Brahma-samhita 5.33 — 'adyam purana-purusam nava-yauvanam ca': the Lord is the oldest, primeval person yet ever-youthful; the basis for his correction of the Western image of God as old and feeble (source inferred; not cited by name in the talk).
 - Padma Purana, nama-cintamani verse ('abhinnatvan nama-naminoh') — the holy name is non-different from the Lord Himself; underlies his central point that God is present in the sound of His name (source inferred; not cited by name).
 - Brihan-naradiya Purana — 'harer nama harer nama harer namaiva kevalam / kalau nasty eva gatir anyatha': chanting the holy name is the recommended process for this age; underlies his claim that kirtan is the easiest and most sublime means of awakening love of God now (source inferred; not cited by name).
 - Hare Krishna maha-mantra (from the Kali-Santarana Upanishad): 'Hare Krishna Hare Krishna, Krishna Krishna Hare Hare / Hare Rama Hare Rama, Rama Rama Hare Hare' — the sixteen-word mantra he teaches the audience.
+
+## Glossary
+
+- **kirtan** — glorification of God by singing His holy names
+- **Krishna** — a name of God meaning 'the most attractive' or 'most beautiful person'
+- **Hare Krishna maha-mantra** — the sixteen-word chant of the holy names that awakens love of God
+- **Sanskrit** — the ancient sacred language of India in which the names of God are sung
+- **Vedic scriptures** — the ancient sacred texts of India
+- **transcendental** — spiritual; beyond and untouched by the material world
+- **material world** — the temporary realm of matter where souls are separated from God
+- **spiritual world** — the eternal abode where every soul originally lived with God
+- **soul** — the eternal spiritual self, distinct from the temporary material body
 
 📄 **Full transcript:** [week-45-real-happiness.md](../../transcripts/module-3/week-45-real-happiness.md)
 

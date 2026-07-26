@@ -12,11 +12,14 @@ duration: "1:05:42"
 language: "en"
 words: 10305
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["spiritual attachment", "association of devotees", "srila prabhupada", "guru and disciple", "prasadam", "coming to krishna consciousness"]
 ---
 
 # Silver Spoon
 
 **His Holiness Indradyumna Swami** · Week 9 · Festivals and Kirtans · 1:05:42
+
+**Themes:** spiritual attachment · association of devotees · srila prabhupada · guru and disciple · prasadam · coming to krishna consciousness
 
 ## Summary
 
@@ -32,6 +35,25 @@ Indradyumna Swami recounts his early days of coming to Krishna consciousness as 
 - Take the spiritual master's instruction as one's very life and soul — Prabhupada gave his dhoti as maha-prasad with the order 'preach boldly and have faith in the holy names,' just as Prabhupada himself took Srila Bhaktisiddhanta Saraswati Thakura's instructions (spread Krishna consciousness in English, print books) as life and soul, as noted in Vishvanatha Chakravarti Thakura's Bhagavad-gita purport.
 - Pleasing the spiritual master pleases Krishna, and then one's life is perfect — illustrated through the loving exchanges (the ten-dollar book-fund offering, Prabhupada's letter, the maha-prasad oranges where the disciple acts a 'fool,' and Prabhupada seeing Krishna as the source of all originality even in Charlie Chaplin's humor).
 
+## Notable Stories & Analogies
+
+- The silver spoon — Vishnujana Swami's cherished spoon, the deity's own spoon that Prabhupada had lovingly given him, taught that one should be detached from matter but attached to whatever reminds one of Krishna.
+- The museum guard — a sleepy guard reads the caption of a Rasa-lila painting and explains that the little blue boy is 'the good Lord up there enjoying with the girls.'
+- Subala's shoes — the barefoot sannyasi insisted 'Krishna will provide,' and moments later a hippie boy gave away a size-9 pair of tennis shoes that fit him.
+- Three shopping carts — the sannyasis filled three carts in ten minutes, leaving the young man with one dollar, and Brahmananda ate up to six full plates of the resulting feast.
+- The farewell note — the departing sannyasis left the spoon with a Bhagavatam verse comparing souls to sticks, twigs and leaves brought together and scattered again by the waves of a river.
+- Fired on the appearance day — praying in a basement after cleaning up after his boss's dog on Bhaktisiddhanta Saraswati's appearance day, he was overheard and fired, which he took as the grandfather-guru's mercy freeing him for the temple.
+- The orange-peel maha-prasad — on the plane, ordered to take Prabhupada's remnants, the eager neophyte popped a whole orange peel into his mouth, eyes watering and lips burning, 'the fool that I am.'
+- The Charlie Chaplin film — Prabhupada laughed heartily at the in-flight movie, later explaining that Charlie Chaplin's humor is original and Krishna is the source of all original things.
+
+## Memorable Quotes
+
+> “Attention to detail is a sign of love.”
+> “But it reminds me of Krishna.”
+> “A gift from a Vaishnava is a very, very, very special thing.”
+> “Krishna will provide.”
+> “Please believe me when I say you are not this body.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam 3.9.8 — The verse on which the class is based (lecture title 'Silver Spoon').
@@ -45,6 +67,18 @@ Indradyumna Swami recounts his early days of coming to Krishna consciousness as 
 - Krishna, the Supreme Personality of Godhead (Krishna Book) — Cited for Prabhupada's statement that when a devotee speaks Krishna-katha, little drops of nectar collect in the sky and fall on the heads of the audience, turning them into pure devotees.
 - Radha-Damodara Vilasa — Named as the book from which the 'silver spoon' story and the pastimes of Vishnujana Swami's traveling sankirtan party come.
 - Srila Prabhupada-lilamrta — Named as the biography that records Srila Prabhupada's arrival in Detroit (1970 or 1971) described in the lecture.
+
+## Glossary
+
+- **prasadam** — Sanctified food first offered to Krishna; described as 'Krishna's mercy.'
+- **maha-prasadam** — The sacred remnants of food taken by the spiritual master or a pure devotee.
+- **sadhu-sanga** — The association of saintly devotees, which awards a higher taste for Krishna consciousness.
+- **sannyasi** — A member of the renounced order of spiritual life.
+- **Krishna-katha** — Talks and discussions about Krishna.
+- **dandavat** — Full prostrated obeisances offered flat on the ground.
+- **diksha (initiation)** — Formal acceptance as a disciple by the spiritual master.
+- **shuddha-bhakta** — A pure devotee, from whose lips chanting and instruction are especially potent.
+- **japa** — The soft, private chanting of the holy names on beads.
 
 📄 **Full transcript:** [week-09-silver-spoon.md](../../transcripts/module-1/week-09-silver-spoon.md)
 

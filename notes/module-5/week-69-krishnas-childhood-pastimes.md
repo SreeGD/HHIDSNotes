@@ -12,11 +12,14 @@ duration: "29:55"
 language: "en"
 words: 3316
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["krishna's childhood", "vatsalya rasa", "gopala-campu", "vraja-prema", "surdas", "ecstatic love"]
 ---
 
 # Krishna’s Childhood Pastimes
 
 **His Holiness Indradyumna Swami** · Week 69 · Foundations in Bhakti · 29:55
+
+**Themes:** krishna's childhood · vatsalya rasa · gopala-campu · vraja-prema · surdas · ecstatic love
 
 ## Summary
 
@@ -32,6 +35,23 @@ In part 96 of his mini-series on stimulating ecstatic love for Krishna, Indradyu
 - Intimate vignettes: Yasoda repeatedly dresses Krishna as a prince but He strips off everything except a peacock feather; He is possessive of toys, steals Balarama's, and throws tantrums; He dances and claps ('ti-ti') to the gopis' songs with skill mysterious even to Lord Shiva.
 - When Krishna stumbles He runs to hide under Yasoda's veil and nurse; a jealous Balarama does likewise, and the two brothers fall asleep—followed by a closing prayer from Rupa Goswami's Padyavali.
 
+## Notable Stories & Analogies
+
+- Milk and water mixed — Jiva Goswami's image that Krishna's 'happy' and 'sad' pastimes can no more be separated than milk blended with water.
+- Surdas's first poem — the poet recited his maiden verse on Krishna's birth before his guru Vallabhacharya at Mathura, but choked with ecstasy, so the guru completed the final Brajbhasha stanza.
+- Gopis like caged birds set free — hearing of Krishna's birth, decorated gopis rushed to Nanda's home like birds freed after ages of captivity, their flowers raining down from loosened braids.
+- Yasoda dressing Krishna as a prince — she ties a golden dhoti and hangs necklaces on Him, but He strips off every ornament, keeping only a peacock feather as His crown.
+- Krishna dancing 'ti-ti, ti-ti' — to distract His roving eyes the gopis ask Him to dance, and He claps and recites playful sounds while skillfully moving in time to their singing.
+- Krishna's tantrums and thefts — He flies into a rage if His smallest toy is taken, yet laughs and refuses to return Balarama's toys, scheming to steal them again.
+- Stumbling into mother's veil — when He falls mid-dance Krishna runs to hide under Yasoda's veil and nurse contentedly; a jealous Balarama does the same, and the brothers fall asleep.
+
+## Memorable Quotes
+
+> “I hope someday I will love Krishna as they do, and so do we.”
+> “That love will not tolerate the logician's attempts to discuss and understand it.”
+> “The whole of Braj was shaking in bliss.”
+> “But as soon as she finished, Krishna would undo all her hard work.”
+
 ## Scriptural References
 
 - Gopala-campu (Purva-campu / Prathama Puranam) by Srila Jiva Goswami — primary source for the lecture; speaker cites verse 142 on Krishna's pastimes being glorified in song and that Vraja-prema is beyond logic ('That love will not tolerate the logician's attempts to discuss and understand it').
@@ -41,6 +61,18 @@ In part 96 of his mini-series on stimulating ecstatic love for Krishna, Indradyu
 - Parmananda Das — poem on the sages Garga, Sandila, Bhrigu, and Agastya visiting the day after Krishna's birth to bless Yasoda, wondering how the Lord 'who sleeps on the waters of the milk ocean' stayed in her small womb.
 - Shri Kaviratna — verse (attributed to Rupa Goswami's Padyavali) that one who daily sings the glories of Yasoda's son 'is never troubled by Kali-yuga' but finds 'a torrential flood of the sweetest nectar.'
 - Rupa Goswami's Padyavali — closing prayer: 'When will infant Krishna, charmingly decorated with a large peacock feather on his head, wriggling his lotus toes, his lotus mouth placed on his mother's breast, enter the pathway of my eyes?'
+
+## Glossary
+
+- **Gopala-campu** — Jiva Goswami's Sanskrit poetic work on Krishna's Vraja pastimes
+- **Vraja-prema** — the pure love the people of Vraja feel for Krishna
+- **ananda-sagara** — 'ocean of bliss,' the term for Krishna's childhood pastimes
+- **rasa** — a devotional mellow or loving relationship with Krishna
+- **vatsalya** — parental love, the mood of the elder gopis for baby Krishna
+- **madhurya** — the sweet, conjugal loving relationship with Krishna
+- **Brajbhasha** — the vernacular language of Vraja in which Surdas sang
+- **gunja-mala** — a garland strung from small red-and-black gunja berries
+- **Padyavali** — an anthology of devotional verses compiled by Rupa Goswami
 
 📄 **Full transcript:** [week-69-krishnas-childhood-pastimes.md](../../transcripts/module-5/week-69-krishnas-childhood-pastimes.md)
 

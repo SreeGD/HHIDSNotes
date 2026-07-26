@@ -12,11 +12,14 @@ duration: "1:06:11"
 language: "en"
 words: 5372
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["harinam sankirtan", "lord chaitanya", "book distribution", "congregational chanting", "preaching standards", "compassion"]
 ---
 
 # Reviving Harinam Snakirtan
 
 **His Holiness Indradyumna Swami** · Week 36 · Festivals and Kirtans · 1:06:11
+
+**Themes:** harinam sankirtan · lord chaitanya · book distribution · congregational chanting · preaching standards · compassion
 
 ## Summary
 
@@ -32,6 +35,24 @@ Speaking to devotees at a festival in Russia, Indradyumna Swami makes the case f
 - Attract all the senses: eyes by the display of spiritual ecstasy, ears by the sweet holy name, tongue by prasadam, and mind/intelligence by invitations, accompanying book distribution, short philosophy talks, and advertising an upcoming event; Sri Prahlad's unpublished Harinam manual, based on Prabhupada's quotes, is recommended for the details.
 - The internal mood is the real essence—without it the formula won't work. The devotee goes out from compassion, to share his good fortune and relieve souls suffering even in the wealthiest countries; tolerating heat, cold and the restless mind, this makes Harinam the 'highest welfare work' and a transcendental 'magic formula' that plants a seed sure to fructify.
 
+## Notable Stories & Analogies
+
+- The 'do-not' shop — passing a donut shop where his students took coffee and cigarettes, Prabhupada renamed it the 'do-not' shop: do not be my student and go there.
+- The first chanting party — the self-conscious early devotees at 26 Second Avenue with a big bass drum and dhotis pinned like diapers, captured on an old video.
+- Coming down from LSD — hippies would take acid at night and drop into the Bowery morning program to hear Swamiji and get something good to eat.
+- Haridas Thakura jailed — persecuted and imprisoned for the 'crime' of singing Hare Krishna in the streets.
+- Kashi sannyasis call him mad — strict Mayavadi renunciants at Benares wrote off the singing, dancing Chaitanya as a madman, not knowing He was the Supreme Lord.
+- Why not both? — asked to choose between two services, Tamala Krishna Goswami answered 'why this or that? Why not both?' — find the balance.
+- A flock of canaries — in the early days every devotee, men and women, wore light yellow, so the party looked like a flock of canary birds.
+- Broken drum vs. billboards — a shabby party with mismatched socks and an unpolished drum cannot compete with the advertising of billboards, TV, and the internet.
+
+## Memorable Quotes
+
+> “No, it's a do-not shop.”
+> “This is like a spiritual revolution.”
+> “Power to the people.”
+> “attention to detail is a sign of love”
+
 ## Scriptural References
 
 - Brihan-naradiya Purana — 'harer nama harer nama harer nama eva kevalam / kalau nasty eva nasty eva nasty eva gatir anyatha': in Kali-yuga there is no other way, no other way, no other way to self-realization than chanting the holy name (the same verse is quoted in Chaitanya-charitamrita Adi 17.21).
@@ -42,6 +63,18 @@ Speaking to devotees at a festival in Russia, Indradyumna Swami makes the case f
 - Rupa Goswami — describes Sankirtan (of which Harinam is an integral part) as the 'highest welfare work' (para-upakara); speaker does not give a verse number.
 - Bhaktivinoda Thakura — quoted prayer: 'When will my compassion for all fallen souls manifest, and with a lowly heart in a mood of humility I will go out to preach the divine command' (source song not named by speaker). Also cited: 'man's glory lies in his common sense.'
 - Non-scriptural sayings cited: Srila Prabhupada — 'the most important instruction is the last one,' 'if you want to please me, distribute my books,' and 'attention to detail is a sign of love'; Bhaktisiddhanta Saraswati Thakura — 'if you ever get money, print books' (spoken at Radha-kunda) and, in closing, 'this preaching will do good for you and it will do good for others.'
+
+## Glossary
+
+- **Harinam Sankirtan** — Congregational chanting of the holy names in public, the trademark of Lord Chaitanya's movement.
+- **Yuga-avatara** — The incarnation who establishes the process for an age; Lord Chaitanya for Kali-yuga.
+- **Sankirtan** — The complete, congregational glorification of the Lord, including chanting and book distribution.
+- **Brihat Mridanga** — The 'great drum' of book distribution, whose sound is heard all over the world.
+- **Anga** — A limb or process of devotional service; the nine angas go on side by side.
+- **Sannyasi** — A renunciant in the fourth spiritual order of life.
+- **Panca-tattva mantra** — The mantra invoking Chaitanya and His associates, chanted before the maha-mantra.
+- **Sampradaya** — A bona fide disciplic succession or spiritual tradition.
+- **Goloka Vrindavan** — Krishna's supreme spiritual abode, glimpsed in the mood of Harinam.
 
 📄 **Full transcript:** [week-36-reviving-harinam-snakirtan.md](../../transcripts/module-3/week-36-reviving-harinam-snakirtan.md)
 

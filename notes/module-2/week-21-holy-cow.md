@@ -12,11 +12,14 @@ duration: "57:12"
 language: "en"
 words: 7849
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["reciprocation", "rasa", "cows of vrindavan", "surrender", "vatsalya", "separation"]
 ---
 
 # Holy Cow
 
 **His Holiness Indradyumna Swami** · Week 21 · Festivals and Kirtans · 57:12
+
+**Themes:** reciprocation · rasa · cows of vrindavan · surrender · vatsalya · separation
 
 ## Summary
 
@@ -32,6 +35,25 @@ Given at the Gita Nagari farm community, this lecture is based on Bhagavad-gita 
 - Govardhan-lila uniquely united all the rasas under one hill for seven days; Vishvanatha Chakravarti Thakura explains the gopis' prior purva-raga mood and that Govardhan expanded from ecstasy to hold everyone; Prabhupada teaches that hearing such confidential pastimes under guidance decreases, not increases, material lust.
 - Krishna's love for cows: Nanda Maharaja's 900,000 cows in 108 groups and four colors, whose names Krishna knows and plays on his flute at Terakadamba; described by Vishvanatha Chakravarti as chintamani-like nitya-siddha and sadhana-siddha associates dearer to Krishna than his life, so caring for Gita Nagari's cows pleases Krishna ('love me, love my dog').
 - Material 'skin love' is temporary (three of four marriages end in divorce; the monkey that tried to nurse a stolen puppy; the Pierre Cardin imitation), whereas love for Krishna in Vrindavan is deathless and ever-increasing (anandambudhi-vardhanam, like a beam of light); make Radha-Damodara the life and soul (prananatha) of your life.
+
+## Notable Stories & Analogies
+
+- Vishnujana's New York harinama — the Radha-Damodara Deities carried downtown on sankirtana, penetrating the darkness of Kali-yuga.
+- Hanuman's hug — after the battle Hanuman asks Rama only for an embrace, worth more than all the opulence of the three worlds.
+- Fruit vendor's jewels — Krishna turns a Vrindavan fruit-seller's basket of fruits into jewels in exchange for her loving offering.
+- Aghasura's belly — Krishna expands inside the foul-breathed demon until he bursts, rescuing the cowherd boys.
+- Paris Deity separation — Prabhupada angrily demanded a barrier between the Balarama and Radharani Deities so their moods are not mixed.
+- Naming 900,000 cows — Krishna knows every cow's name and calls them on his flute at Terakadamba, drawing a pearl for each one.
+- The monkey and the puppy — a childless monkey stole a puppy and tried to nurse it, an artificial surrogate love that failed.
+- 'Do you think I would shoot you?' — asked if Vrindavan's pastimes are really true, Prabhupada was moved and answered thus.
+
+## Memorable Quotes
+
+> “In Vrindavan, every step is a dance, every word is a song, and there's a festival every day.”
+> “These cows that you have here are more dear to Krishna than his very life.”
+> “Here's Krishna. Take him.”
+> “Love me, love my dog.”
+> “Do you think that I would shoot you?”
 
 ## Scriptural References
 
@@ -50,6 +72,19 @@ Given at the Gita Nagari farm community, this lecture is based on Bhagavad-gita 
 - Chaitanya-caritamrta — the pastimes of Jagadananda Pandit and Lord Chaitanya (their loving quarrels and his desire to go to Vrindavan).
 - 'rakhe krsna mare ke, mare krsna rakhe ke' — Bengali proverb: if Krishna protects you no one can kill you, if Krishna wants to kill you no one can save you.
 - Bhaktisiddhanta Sarasvati Thakura — quoted: 'the whole show is only temporary.'
+
+## Glossary
+
+- **rasa** — the specific loving relationship or mellow exchanged between Krishna and a devotee
+- **vatsalya** — parental love, such as Mother Yashoda's love for Krishna
+- **madhurya** — conjugal or amorous love, the highest rasa (the gopis)
+- **dasya** — the relationship of servitude, such as Hanuman's toward Rama
+- **bhakti-lata-bija** — the seed of the devotional creeper, eternally within the heart
+- **nitya-siddha** — an eternally perfect associate who never left the spiritual world
+- **sadhana-siddha** — one who attains perfection through the practice of devotional service
+- **purva-raga** — the preliminary attraction and pastimes leading up to meeting
+- **vipralambha** — the ecstatic mood of separation from Krishna
+- **archa-vigraha** — the worshipable Deity form of the Lord in the temple
 
 📄 **Full transcript:** [week-21-holy-cow.md](../../transcripts/module-2/week-21-holy-cow.md)
 

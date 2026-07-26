@@ -12,11 +12,14 @@ duration: "50:48"
 language: "en"
 words: 4081
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["kali-yuga", "taking shelter", "surrender and protection", "sadhu-sanga", "remembrance of the Lord", "fearlessness"]
 ---
 
 # Just be Good devotees
 
 **His Holiness Indradyumna Swami** · Week 17 · Foundations in Bhakti · 50:48
+
+**Themes:** kali-yuga · taking shelter · surrender and protection · sadhu-sanga · remembrance of the Lord · fearlessness
 
 ## Summary
 
@@ -31,6 +34,26 @@ Speaking on Srimad Bhagavatam 1.15.36, Indradyumna Swami explains that the age o
 - Buddha sent a grieving mother door to door to beg rice only from a house where no one had died; finding death in every home taught her that loss is universal, not a personal exception—a lesson in renunciation and cleansing the heart before bhakti can begin.
 - Protection comes in proportion to surrender: shown by the retreating crabs and Shiva's saying 'rakhe Krishna mare ke, mare Krishna rakhe ke,' by Prahlada fearing only maya and not Nrsimhadeva's ferocious form, and by Draupadi being saved only when she let go of her sari and raised both hands crying 'Govinda!'
 - A devotee's real prayer is to be protected from illusion so as never to forget Krishna's lotus feet (protecting the body is pure only when the body is used in His service); devotees receive special protection, mercy and love because of their responsibility to share Krishna consciousness, so one should 'just be a good devotee' and be free of anxiety, like an honest citizen who need not fear the government.
+
+## Notable Stories & Analogies
+
+- Prabhupada's 'don't come back' — when a disciple wished to return birth after birth to serve, Prabhupada frowned and said no, this Kali-yuga will only get worse; finish this lifetime.
+- Vishnujana Swami's letter about Sankirtan hardships — Prabhupada replied that with the association of devotees such austerities become like a child's game.
+- Jean-Paul Sartre — his books read like a summary of the Gita ('duhkhalayam asasvatam'), taking apart the material world piece by piece, but offering no conclusion he ended in suicide.
+- Buddha and the grieving mother — told to beg rice only from a house where no one had died, she found death in every home and learned that loss is universal, not her special exception.
+- Tornado shelters — a Midwest town was flattened yet everyone survived because they knew to take shelter in their underground cellars.
+- 1950s bomb shelters — Americans fearing a Russian nuclear attack built shelters stocked with food to survive.
+- Crabs fleeing into the ocean — sensing danger, the tiny crabs slip sideways into the vast ocean, knowing its greatness will protect them, as we take shelter in Krishna.
+- Shiva watching Rama slay Ravana — Parvati begs Shiva to save his great devotee, and Shiva explains 'rakhe Krishna mare ke': whom Krishna protects none can kill, whom Krishna would kill none can save.
+- Draupadi's sari — Krishna came only when she let go with both hands and cried out 'Govinda!', because He knew she wanted only Him.
+
+## Memorable Quotes
+
+> “Just be a good devotee.”
+> “We have to make the best use of a bad bargain.”
+> “This Kali-yuga is only going to get worse.”
+> “Protection also comes in proportion to surrender.”
+> “Sense gratification and devotional service go ill together.”
 
 ## Scriptural References
 
@@ -47,6 +70,19 @@ Speaking on Srimad Bhagavatam 1.15.36, Indradyumna Swami explains that the age o
 - Brahma-samhita — an unspecified verse cited to show that remembrance/devotion of the Lord is gained in small increments over many lifetimes and should not be lost.
 - Teachings of Queen Kunti (A.C. Bhaktivedanta Swami Prabhupada) — the account of Parvati and Lord Shiva watching Rama's battle with Ravana at Lanka.
 - Bengali proverb quoted by Lord Shiva: 'Rakhe Krishna mare ke, mare Krishna rakhe ke' — if Krishna protects a person none can kill him, and if Krishna would kill him none can protect him.
+
+## Glossary
+
+- **Kali-yuga** — the present age of quarrel and hypocrisy, fully manifest since Krishna's departure from earth
+- **apauruseya** — not made by any mundane being; why the predictions of shastra are infallible, unlike Nostradamus
+- **shastra** — revealed scripture, the perfect authority whose predictions are certain to come true
+- **smaranam** — remembrance of the Lord; the devotee's constant hankering is to remember Krishna in love under all conditions
+- **bhakti** — devotional service; pure bhakti includes even praying to protect a body used only in the Lord's service
+- **ahaituki apratihata** — unmotivated and uninterrupted; the quality of devotion with which Krishna fully reciprocates
+- **sudra** — the laborer class; in Kali-yuga it is said everyone is born with sudra qualities
+- **sankirtana** — the congregational chanting and preaching mission that devotees carry as their important responsibility
+- **Mukunda** — a name of Krishna as the giver of liberation and protector of His devotees
+- **Kalki** — the future incarnation who will appear with a sword when only the demoniac remain at the end of Kali-yuga
 
 📄 **Full transcript:** [week-17-just-be-good-devotees.md](../../transcripts/module-2/week-17-just-be-good-devotees.md)
 

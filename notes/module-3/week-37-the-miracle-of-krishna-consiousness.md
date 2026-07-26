@@ -12,11 +12,14 @@ duration: "48:25"
 language: "en"
 words: 6332
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["krishna consciousness", "devotee association", "illusion (maya)", "detachment", "goal setting", "material suffering"]
 ---
 
 # The Miracle of Krishna Consiousness
 
 **His Holiness Indradyumna Swami** · Week 37 · Festivals and Kirtans · 48:25
+
+**Themes:** krishna consciousness · devotee association · illusion (maya) · detachment · goal setting · material suffering
 
 ## Summary
 
@@ -31,6 +34,24 @@ Speaking in Detroit, the city where he joined ISKCON 36 years earlier, Indradyum
 - The guru/sadhu 'cuts' our material attachments (like a doctor who points out sickness and gives medicine); maintaining attachment after hearing is an offense to the holy name, and since God is the source of all (BG 10.8) His verdict on this world should be trusted.
 - Maya's two snares are thinking 'I am the body' and (harder to overcome) 'I am God' (Mayavada); illustrated by Duryodhana's bewilderment in the illusory Maya-sabha and by the water-seen-in-fire analogy of Srimad Bhagavatam 1.1.1.
 - Set spiritual goals with the moment of death in view (like corporate goal-setting; the Vedic ideal of renunciation by age 50), aspiring for freedom from lust/anger/greed and love in separation like Siksastakam verse 7; the reward is pure devotional service (SB 1.2.6).
+
+## Notable Stories & Analogies
+
+- Swan separating milk from water — the paramahamsa drinks the milk and lets the water fall; Swami tested it at a lake and watched swans do exactly this, increasing his faith.
+- Cancer cut with a wide margin — a surgeon removes flesh well around the tumor so not one cell remains; likewise every trace of lust must be uprooted before death.
+- The child who dreamt of Radha — a seven-year-old Vaishnavi in Vrindavan dreamt a sakhi sent her into the kunja to gently wake Radharani, who patted her on the head.
+- Purifying the Calcutta courtroom — Prabhupada had the devotees chant to purify the court; the impurity, he said, was all the lawyers' lies.
+- The floating-roof patent — Swami's grandfather patented a floating tank roof to stop petroleum evaporating; the inventor knows his product best, as Krishna knows this world.
+- Duryodhana in the Maya-sabha — bewildered in the illusory palace, he lifts his skirt at a dry floor and falls into real water, mocked by the laughing palace ladies.
+- Yosemite's hidden struggle — the postcard forest actually hides a bitter fight for survival, animals competing and eating one another (jivo jivasya jivanam).
+- Dasharatha greets Vishvamitra — the king asks the sage not about business or family but 'how is your endeavor to conquer the repetition of birth and death?'
+
+## Memorable Quotes
+
+> “You remember it like a bad dream.”
+> “God is always God, he doesn't become God.”
+> “Don't be God but be godly.”
+> “Just simple living with high thinking.”
 
 ## Scriptural References
 
@@ -51,6 +72,18 @@ Speaking in Detroit, the city where he joined ISKCON 36 years earlier, Indradyum
 - Mahabharata — Duryodhana bewildered in the Maya-sabha (the palace built by Mayadanava), mistaking the floor for water and a crystal door for an opening, an illustration of illusion.
 - Ramayana — Vishvamitra Muni received by King Dasharatha, who greeted him by asking how his 'endeavor to conquer the repetition of birth and death' was progressing.
 - Govinda-lilamrita — referenced via a child's dream of being sent by a sakhi into the kunja to wake Radha and Krishna.
+
+## Glossary
+
+- **Paramahamsa** — 'Supreme swan'; a topmost self-realized soul who takes only the spiritual essence and leaves the rest.
+- **Anartha** — An unwanted material desire or impediment lodged in the heart.
+- **Maya** — The Lord's illusory material energy that bewilders the conditioned soul.
+- **Mayavadi** — An impersonalist who, though detached from the body, wrongly thinks he is God.
+- **Sadhu** — A saint; described as 'one who cuts,' severing our attachments to this world.
+- **Vaishnava-sanga** — The association of devotees, essential for advancement in Krishna consciousness.
+- **Brahmaloka** — The highest planet within the material universe, still subject to rebirth.
+- **Sannyasa** — The renounced order of life; the Vedic ideal is to take it by age fifty.
+- **Duhkhalayam ashashvatam** — A description of the material world as a temporary place full of suffering.
 
 📄 **Full transcript:** [week-37-the-miracle-of-krishna-consiousness.md](../../transcripts/module-3/week-37-the-miracle-of-krishna-consiousness.md)
 

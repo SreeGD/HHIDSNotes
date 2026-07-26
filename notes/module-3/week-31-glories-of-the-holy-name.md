@@ -12,11 +12,14 @@ duration: "1:20:07"
 language: "en"
 words: 12030
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["holy name", "yuga-dharma", "chanting offenses", "harinam initiation", "faith and taste", "universal religion"]
 ---
 
 # Glories of the Holy Name
 
 **His Holiness Indradyumna Swami** · Week 31 · Foundations in Bhakti · 1:20:07
+
+**Themes:** holy name · yuga-dharma · chanting offenses · harinam initiation · faith and taste · universal religion
 
 ## Summary
 
@@ -31,6 +34,24 @@ Delivered at ISKCON Atlanta (New Panihati Dham) during a Harinam-diksha (initiat
 - Offending God can be absolved by chanting His name, illustrated by Bhrigu Muni kicking Vishnu's chest to test tolerance, upon which the Lord solicitously asks if Bhrigu has hurt his foot; but offending the holy name itself is unforgivable, as it is the only and most sublime means of deliverance, making the name even 'more merciful than the Lord' since it is His mercy incarnation.
 - Our sole real problem is a lack of taste and faith, illustrated by the jaundice/hepatitis patient to whom sweet jaggery (gur) tastes bitter (Swami's own story of getting hepatitis in India), and by the analogy that conception needs both a potent male and a fertile female, the process is potent but we must supply faith. The spiritual master accepts the disciple's karmic reactions (the 'burden of love,' drinking poison like Shiva becoming Nilakantha), which is why gurus may fall sick; Prabhupada on his deathbed said it was from accepting too many unqualified disciples.
 - The aim of pure chanting is ecstatic love of God, tears, choked voice, and hair standing on end; the guru's only wish is that a disciple shed one sincere tear of love before death. The initiation concludes with the four regulative principles (no meat-eating, no intoxication, no illicit sex, no gambling), the vow of 16 rounds, the proper order of obeisances (Prabhupada/param-guru, Deities, siksa-gurus, godbrothers), and 'spiritual mathematics': sharing Krishna consciousness and distributing Prabhupada's books multiplies one's fortune (1 minus 1 equals a million), like a spark landing on dry versus wet grass.
+
+## Notable Stories & Analogies
+
+- Burning bush — the Lord spoke to Moses through a material burning bush, showing He can appear in matter as He does in the Deity.
+- Manipal IT student — a bright engineering student asks what value a 5,000-year-old book can have; Swami answers it depends on what you consider the goal of life.
+- Bhrigu Muni kicks Vishnu — sent to test who is most tolerant, Bhrigu kicks the Lord's chest and Vishnu solicitously asks whether Bhrigu has hurt his foot.
+- Jaundice and the jaggery — to a hepatitis patient sweet gur tastes bitter; Swami himself got hepatitis in India and spat out the jaggery his friend found sweet.
+- Father's 'last chance' — like Swami's dad forever warning 'this is your last chance,' offending the holy name leaves no further chance of deliverance.
+- The dentist and the sweets — a dentist makes a mother wait a week before telling her son to stop eating sweets, because he first had to give up his own addiction to them.
+- Bhaktisiddhanta guards the guru's body — challenging pretender renunciates to touch Gaura Kishora Dasa Babaji's divine form only if they are truly pure, none could.
+- Potent male and fertile female — conception needs both partners capable; the chanting process is potent, but we must supply the faith.
+
+## Memorable Quotes
+
+> “We're the burnt remnants of the past ages.”
+> “God is present in the sound of his name”
+> “We call this the burden of love.”
+> “If you want to give your guru day something, give him one tear of love of God.”
 
 ## Scriptural References
 
@@ -51,6 +72,19 @@ Delivered at ISKCON Atlanta (New Panihati Dham) during a Harinam-diksha (initiat
 - Buddhist teaching (attributed to Buddha's 'Lotus Sutra') — 'anyone who calls upon my name shall be delivered'; and Islamic remembrance — the kalima ('there is no God but God, and Muhammad is His prophet') and 'Allahu Akbar' ('God is great'); cited as cross-traditional parallels showing the holy name is central wherever the tradition comes from God.
 - Chaitanya Mahaprabhu — 'along with the order comes the ability to carry it out'; paired with the account of Bhaktisiddhanta Saraswati Thakura protecting the divine body of Gaura Kishora Dasa Babaji by challenging pretender 'renunciates,' told to illustrate the first offense (blaspheming/dishonoring devotees) and the divine nature of the pure devotee's body.
 - Srila Prabhupada — 'if you want to please me, distribute my books'; and his teaching on three classes of students (the third disobeys, the second obeys, the first anticipates and carries out the instruction unasked), cited during the initiation to encourage book distribution and attentive service.
+
+## Glossary
+
+- **Harinam** — The holy name of Hari (God); the chanting of God's names, whether privately or in the streets.
+- **Diksha** — Spiritual initiation; here, formal initiation into chanting the holy names.
+- **Yuga-dharma** — The recommended spiritual process for a given cosmic age; in Kali-yuga it is chanting the holy name.
+- **Kali-yuga** — The present degraded Age of Quarrel and hypocrisy, last of the four ages.
+- **Nama-aparadha** — Offense against the holy name that blocks one from its full mercy.
+- **Maha-mantra** — The 'great chant': Hare Krishna Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama Hare Rama, Rama Rama, Hare Hare.
+- **Archa-vigraha** — The worshipable Deity form in which the Lord mercifully appears within matter.
+- **Hati-mata** — The 'mad elephant' offense of blaspheming devotees, which tramples the garden of one's devotion.
+- **Prasada** — Sanctified food, or the remnants, of the Lord or the spiritual master.
+- **Vaishnava** — A devotee of Vishnu / Krishna.
 
 📄 **Full transcript:** [week-31-glories-of-the-holy-name.md](../../transcripts/module-3/week-31-glories-of-the-holy-name.md)
 

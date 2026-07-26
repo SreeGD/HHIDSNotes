@@ -12,11 +12,14 @@ duration: "1:11:02"
 language: "en"
 words: 7303
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["sankirtan", "book distribution", "holy name", "japa rounds", "gopi-bhava", "preaching adventure"]
 ---
 
 # Glories of Snakirtan
 
 **His Holiness Indradyumna Swami** · Week 38 · Festivals and Kirtans · 1:11:02
+
+**Themes:** sankirtan · book distribution · holy name · japa rounds · gopi-bhava · preaching adventure
 
 ## Summary
 
@@ -32,6 +35,24 @@ Speaking on the glories of Sankirtan, Indradyumna Swami builds his talk on Jiva 
 - Illustrative stories: Prabhupada's "now I can do any damn thing" after finishing his rounds; the Latin American devotee who won French marathons saying only "Hare Bol" while shining like the sun; the godbrother whose qualification was that he "came running" to the maha-mantra.
 - The central Paris story: infiltrating locked Champs-Elysees fashion houses by lock-picking and riding delivery trucks, color-coding prospects with incense ("in like a needle, out like a plow"), being beaten and subjected to a mock arrest/execution, only to discover the repentant police chief was a householder he had earlier converted with the Bhagavad-gita, the whole ordeal understood as Krishna's arrangement; the street corner is your temple where you meet God, and this chance lasts 10,000 years.
 
+## Notable Stories & Analogies
+
+- 9-karat vs 24-karat gold — grading love for Krishna like grades of gold; ask your wife if she wants 9- or 24-karat earrings; the gopis hold the 24-karat bhava.
+- Krishna's headache and the gopis' dust — only the dust of devotees' feet can cure it; Narada searches the universe, but only Vrindavan's gopis dare give it.
+- Prabhupada's beads in Los Angeles — finishing his rounds he set the beads down and said 'now I can do any damn thing I want,' showing preaching flows from sadhana.
+- The 'Hare Bol' marathon winner — a shy Latin American devotee won the French book marathons every year saying only 'Hare Bol,' because he shone like the sun.
+- The godbrother who came running — confessing his sinful past, he is told his one qualification is that he 'came running' when he heard the maha-mantra.
+- Dust from Mahaprabhu's kirtan — dust kicked up by the dancing devotees settled on distant farmers, who at once felt the eight ecstatic symptoms of love of God.
+- The twins in Georgia — two disciples who fearlessly distribute books in the hardest, most dangerous places, finding only nectar in it.
+- Paris fashion houses and the police chief — infiltrating locked Champs-Elysees buildings via delivery trucks, tracking prospects with colored incense, then beaten, arrested, and driven to a forest, only to be freed by a police chief he had earlier converted with the Gita.
+
+## Memorable Quotes
+
+> “People don't buy the book, they buy the book distributor.”
+> “Now I can do any damn thing I want to do.”
+> “Your temple is the street corner.”
+> “Because the holy name is a person.”
+
 ## Scriptural References
 
 - Bhakti-sandarbha (Jiva Goswami) — the gradation of devotional rasa across Dwaraka, Mathura, and Vrindavan that frames the entire talk.
@@ -44,6 +65,19 @@ Speaking on the glories of Sankirtan, Indradyumna Swami builds his talk on Jiva 
 - Chaitanya Bhagavata — the prediction that Krishna's name will be preached in every town and village ("prithivite ache yata nagaradi grama"), and the account of dust from Mahaprabhu's kirtan party (with Nityananda, Gadadhara, Advaita, Srivasa) awakening the eight ecstatic symptoms of love of God in distant farmers.
 - Bhagavad-gita — Krishna's statement that he is "adventure," realized by taking the chanting of Hare Krishna to the people in Kali-yuga (exact verse uncertain); the Ninth Chapter (Raja-vidya Raja-guhya) named as the converted police chief's favorite.
 - Nrsimha prayer — "namas te narasimhaya prahladahlada-dayine hiranyakasipor vaksah-sila-tanka-nakhalaye": sung by the swami while being beaten and arrested.
+
+## Glossary
+
+- **Sankirtan** — Congregational glorification of the Lord's names; also embraces book distribution.
+- **Japa** — Soft, individual chanting of the holy names on beads.
+- **Brihat Mridanga** — The 'great drum' of book distribution, heard around the world.
+- **Bhakti-sandarbha** — Jiva Goswami's treatise, which grades Krishna's moods across Dwaraka, Mathura, and Vrindavan.
+- **Gopi-bhava** — The pure, selfless, unconditional love the cowherd girls of Vrindavan feel for Krishna.
+- **Madhurya** — The sweet conjugal mood of devotion, most fully expressed by the gopis.
+- **Aishvarya** — The mood of awe and reverence toward the Lord in His opulence, as in Dwaraka.
+- **Tejas** — Spiritual potency or radiance gained from good sadhana that empowers one to preach.
+- **Sadhana** — Regulated daily spiritual practice, foundationally chanting sixteen quality rounds.
+- **Chintamani** — Spiritual touchstone; Vrindavan is said to be made of it.
 
 📄 **Full transcript:** [week-38-glories-of-snakirtan.md](../../transcripts/module-3/week-38-glories-of-snakirtan.md)
 

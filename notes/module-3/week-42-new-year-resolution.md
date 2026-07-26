@@ -12,11 +12,14 @@ duration: "1:50:17"
 language: "en"
 words: 8957
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["New Year resolutions", "keeping vows", "not watering down tradition", "reciprocal love", "higher taste", "avoiding procrastination"]
 ---
 
 # New Year Resolution
 
 **His Holiness Indradyumna Swami** · Week 42 ·  · 1:50:17
+
+**Themes:** New Year resolutions · keeping vows · not watering down tradition · reciprocal love · higher taste · avoiding procrastination
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking in Calcutta on the eve of 2025, Indradyumna Swami addresses the theme o
 - The four regulative vows (no meat-eating, intoxication, illicit sex, gambling) are 'terrible vows' like Bhishma's celibacy, sustainable only through the 'higher taste' of chanting the holy name, per Chanakya Pandit: one can give up something only by getting something better; material desires are like bubbles that fade when one chants.
 - Progressive accessibility of the process: Lord Chaitanya was extremely strict, Bhaktisiddhanta Saraswati eased it (dressing as an English gentleman, riding motorcars), and Prabhupada made it easier still for Western hippies (the 3.5-hour Tompkins Square Park kirtan with a bongo, where 200 people did not move); prasadam is Chaitanya's 'secret weapon' (Notre Dame priest and the gulab-jamun), and transcendental sound purifies even when not understood (Prabhupada chastising the sleeping young disciple in Hyderabad).
 - Keep the ultimate goal (prema) constantly in view, like a boy fixing on Disneyland through a long drive; don't procrastinate (Prahlada telling his five-year-old friends that 'old' can mean any age since even infants die); reaffirm and raise the quality of existing vows, chanting more than 16 rounds and studying Prabhupada's books, rather than making trivial new resolutions.
+
+## Notable Stories & Analogies
+
+- The cat in the basket — a bridesmaid once caged a stray cat at a wedding, and descendants copied it for generations until they defended it as ancient 'Vedic tradition.'
+- The man on the plane — kept all his New Year's resolutions 'tucked away in a newspaper on my bookshelf,' having made them and forgotten them.
+- Bhishma's terrible vow — the demigods showered flowers and trembled when the prince vowed lifelong celibacy, as the four regulative vows seem 'horrible' to materialists.
+- Bubbles in the pond — passing material desires rise like bubbles from the mud and fade away as one keeps chanting.
+- Tompkins Square Park kirtan — Prabhupada chanted three and a half hours with a bongo and 200 people did not move an inch.
+- The gulab-jamun and the priest — Prabhupada put a dripping sweet in the Notre Dame priest's hand so that prasadam, Chaitanya's secret weapon, would act.
+- The Disneyland drive — as a boy the speaker endured a long hot drive by fixing his mind on Mickey Mouse, as we tolerate austerities by fixing on the goal of prema.
+- Prahlada and his playmates — he rebuked his five-year-old friends' New Year revelry, teaching that 'old' can mean any age since even infants die.
+
+## Memorable Quotes
+
+> “East is best, west is less.”
+> “Krishna wants to kill you, no one can save you. And Krishna wants to save you, no one can kill you.”
+> “Why a minimum of 16? Why not more?”
+> “Work now, samadhi later.”
+> “Life is short and then you die.”
 
 ## Scriptural References
 
@@ -49,6 +71,19 @@ Speaking in Calcutta on the eve of 2025, Indradyumna Swami addresses the theme o
 - Bhaktivinoda Thakura, 'Saragrahi Vaishnava' (English poem) — 'Push thy onward march, O soul... A hero be indeed... O stand, heroic man... Lead, lead me on to Vrindavan and spirit's power declare.'
 - An ashtakam lamenting the neglected holy name (title uncertain in the transcript) — 'Aho, what sorrow, more painful than any other misery in this world: mistaking it as a mere piece of glass, people have forgotten the real jewel, the holy names of Sri Hari.'
 - Chaitanya-charitamrita — 'prema pum-artho mahan'; Sri Chaitanya Mahaprabhu's concise statement that pure love of God (prema) is the supreme goal of human life.
+
+## Glossary
+
+- **Gaura Purnima** — Lord Chaitanya's appearance day; the Gaudiya new year
+- **Chaitra** — the lunar month (April/May) whose first day is the Vedic new year
+- **shabda-brahma** — transcendental sound that purifies even when not understood
+- **prema** — pure love of God, the goal of life
+- **Bhishma** — 'one who has taken a terrible vow'; here, of celibacy
+- **Gayatri mantra** — the sacred mantra chanted by initiated brahmanas
+- **Mahamantra** — the Hare Krishna mantra
+- **sankirtana** — congregational chanting and preaching of the holy name
+- **parikrama** — circumambulating pilgrimage of a holy place
+- **prasadam** — sanctified food, Chaitanya's 'secret weapon'
 
 📄 **Full transcript:** [week-42-new-year-resolution.md](../../transcripts/module-3/week-42-new-year-resolution.md)
 

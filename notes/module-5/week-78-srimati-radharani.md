@@ -12,11 +12,14 @@ duration: "1:25:47"
 language: "en"
 words: 6452
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["radha-tattva", "hladini shakti", "selfless love", "mahabhava", "compassion", "sankirtan"]
 ---
 
 # Srimati Radharani
 
 **His Holiness Indradyumna Swami** · Week 78 · Festivals and Kirtans · 1:25:47
+
+**Themes:** radha-tattva · hladini shakti · selfless love · mahabhava · compassion · sankirtan
 
 ## Summary
 
@@ -31,6 +34,24 @@ On the appearance day of Srimati Radharani (Radhastami), Indradyumna Swami glori
 - Radha's love is Mahabhava, so great that it controls the Supreme Controller, illustrated by the gopis' foot-dust curing Krishna's headache and the Yavat 'name game' wordplay; her love is wholly spiritual and free of material lust.
 - Radha's defining trait is compassion: she takes more joy in engaging other gopis and devotees in Krishna's service than in her own union with him, and therefore appears as the compassionate Lord Chaitanya to spread Sankirtan.
 - Serving Chaitanya's Sankirtan and preaching mission is the fastest way to obtain Radharani's mercy (Goshthy-anandi over Bhajananandi); on Radhastami her normally covered lotus feet are turned up for special darshan once a year.
+
+## Notable Stories & Analogies
+
+- Radha born from Krishna's reflection — under a kadamba tree Krishna becomes enchanted by his own reflection in a jeweled platform, desires to relish himself as a woman, and Radha manifests from his left side.
+- The couple married 75 years — Indradyumna Swami meets a 90-year-old pair on a plane whose secret to marriage is 'you have to give more.'
+- A mother's selfless love — she gives everything to her baby and receives only dirty nappies and sleepless nights, yet her love never diminishes, coming close to pure love.
+- Krishna's headache and the gopis' foot-dust — no devotee will risk the offense of giving foot-dust for the Lord's head, until the gopis instantly offer theirs, willing even to go to hell if it makes Krishna happy.
+- Russian devotees in Paraguay — Maharaja is astonished to find twenty Russian devotees serving on a farm in landlocked Paraguay, showing devotees are everywhere.
+- The Yavat name-game — climbing to Radha's window, Krishna announces each of his names (Hari, Sri Hari, Shyamasundara, Chakri, Madhusudana, Krishna), and Radha rebuffs each using its Sanskrit double meaning (lion, monkey, rain cloud, potter, bee, black snake).
+- The playful wedding at Uchagaon — Radha delightedly marries Lalita to Krishna in child's play, and in her bliss her veil falls on a rock that melts, leaving an imprint still visible today.
+- Krishna wrestling his cowherd friends — in Goloka's intimate mood Krishna loses the match and must carry his friends around on his back.
+
+## Memorable Quotes
+
+> “For no one really enjoys alone.”
+> “The secret to marriage is you have to give more.”
+> “The more you give, the happier you are.”
+> “She's controlling the Supreme Controller.”
 
 ## Scriptural References
 
@@ -47,6 +68,20 @@ On the appearance day of Srimati Radharani (Radhastami), Indradyumna Swami glori
 - Bible (attributed to Jesus) - 'it is better to give than to receive' (Acts 20:35) and 'my cup runneth over' (Psalm 23), cited to support the principle of selfless giving.
 - Bhaktivinoda Thakura - holy days such as Ekadasi and Janmastami are 'the mothers of devotion' for those who properly respect them; and the song line 'When will my compassion for all fallen souls manifest, and with a lowly heart I go out to preach the divine command.'
 - Bhaktisiddhanta Saraswati Thakura - his booklet 'What kind of Vaishnava are you?' distinguishing beginner, intermediate, and advanced Vaishnavas, the advanced being marked by compassion.
+
+## Glossary
+
+- **Hladini Shakti** — the Lord's pleasure or bliss potency, personified as Srimati Radharani
+- **Bhakti-devi** — Radha as the personification and controller of devotional service
+- **Aradhana** — the perfect worship that gives Krishna most pleasure; root of the name Radha
+- **Mahabhava** — the highest, deepest ecstasy of love for Krishna, held by Radha
+- **Anapayini** — 'never separated'; Radha, who is eternally inseparable from Krishna
+- **Madana-mohana** — Krishna who bewilders even Cupid; Radha is Madana-mohana-mohini, who bewilders him
+- **Sakhi** — one of the eight principal gopi confidantes assisting Radha-Krishna
+- **Manjari** — young maidservant-gopis who witness the most intimate pastimes
+- **Aishwarya-bhava** — the mood of awe and reverence toward God, absent in Goloka Vrindavan
+- **Braja-bhakti** — the intimate love of God cultivated by the residents of Vrindavan
+- **Goshthy-anandi** — a preaching devotee who spreads Krishna consciousness, contrasted with the solitary bhajananandi
 
 📄 **Full transcript:** [week-78-srimati-radharani.md](../../transcripts/module-5/week-78-srimati-radharani.md)
 

@@ -12,11 +12,14 @@ duration: "1:02:49"
 language: "en"
 words: 8389
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["humility", "surrender to guru", "the four miseries", "bhakta-vatsala", "pure devotion", "preaching"]
 ---
 
 # Intelligent enough to know I am a fool
 
 **His Holiness Indradyumna Swami** · Week 16 ·  · 1:02:49
+
+**Themes:** humility · surrender to guru · the four miseries · bhakta-vatsala · pure devotion · preaching
 
 ## Summary
 
@@ -31,6 +34,26 @@ Taking Bhagavad-gita 2.11 as his text, Indradyumna Swami reflects on Krishna's o
 - Bhaktisiddhanta Saraswati's story of the man in the well: white and black rats (day and night) gnaw the vine of life while snakes (death) wait below, yet the man ignores the rope of the guru's mercy to catch more drops of honey (sense gratification).
 - The guru must teach both matter and spirit; ultimately his real business is to train us to love Krishna, who is bhakta-vatsala (affectionate to devotees), not jnani-, yogi-, or bhukti-vatsala; constant association with Krishna (Vrindavan residents, Pandavas) requires pure devotion, whereas demigods and yogis see Him only briefly.
 - In the Q&A: only a submissive hearer can be convinced (a man convinced against his will is of the same opinion still, and the drowning man still signaling 'scissors'); the higher taste of chanting and prasadam is Lord Chaitanya's purifying 'secret weapon'; and one can trust a representative who follows the guru's instructions exactly, as one plus one equals two for both teacher and student.
+
+## Notable Stories & Analogies
+
+- 500 Deutschmarks for one — no one trades a 500-mark note for a single mark; yet we exchanged eternal life with Krishna for temporary material life.
+- Electricity through a wire — it does not matter where you plug in along the line, the same current flows, as taking shelter of the parampara gives the same benefit in any age.
+- Sanatana Goswami's blade of grass — he put grass between his lips before Chaitanya Mahaprabhu and admitted that despite all his learning he did not know who he is.
+- The businessman's check and the sweeper woman's rose — Prabhupada was unmoved by a thousand-dollar check but delighted by a poor woman's rose given with love.
+- The Berlin violin teacher — he charged the self-taught player far more than the beginner, because ingrained bad habits are harder to undo, like material qualifications obstructing devotion.
+- The man hanging in the well — white and black rats (day and night) gnaw the vine of life while snakes (death) wait below, yet he ignores the rescuer's rope to catch more drops of honey (sense gratification).
+- Narada Muni's brief vision of Narayana — the Lord appears only a moment, saying 'I can hardly remain before those who are incomplete in devotion.'
+- The drowning man still signaling 'scissors' — thrown into the lake for arguing scissors versus knife, he keeps making the scissors sign as he sinks, showing a man convinced against his will is unconvinced still.
+- Prabhupada on the park bench — a Village Voice reporter thought the lone man from India was just another lonely soul, until conversation revealed he carried a great mission.
+
+## Memorable Quotes
+
+> “A man convinced against his will is of the same opinion still.”
+> “The longest journey begins with the first step.”
+> “I can hardly remain before those who are incomplete in devotion.”
+> “I'm so intelligent, I know I know nothing.”
+> “What really attracts Krishna is your love for Krishna.”
 
 ## Scriptural References
 
@@ -52,6 +75,19 @@ Taking Bhagavad-gita 2.11 as his text, Indradyumna Swami reflects on Krishna's o
 - Chaitanya-charitamrita — the life of Sanatana Goswami, who put grass between his lips and told Chaitanya Mahaprabhu that despite his learning he did not know who he is.
 - Guru-pranama and mangalacarana verses — 'om ajnana-timirandhasya jnananjana-salakaya...' and 'sri-caitanya-mano-'bhistam sthapitam yena bhu-tale...' recited as invocation.
 - Nrsimha prayers — 'namas te narasimhaya...' and 'ugram viram maha-visnum...' recited as invocation.
+
+## Glossary
+
+- **pandita** — a learned or wise man; one who knows the difference between body and soul does not lament
+- **sakshad-hari** — the bona fide spiritual master as the direct representative of Krishna, giving the same benefit as the Lord Himself
+- **bhakta-vatsala** — affectionate toward His devotees; Krishna is partial to devotees, not to jnanis, yogis, or sense-enjoyers
+- **jnani** — a speculative philosopher who seeks to merge into the impersonal Absolute
+- **yogi** — a mystic who cultivates powers; Krishna gives such 'toys' but rarely His personal association
+- **pariprasna** — submissive inquiry; the humble questioning by which a disciple receives knowledge
+- **sadhana-bhakti** — regulated devotional practice (chanting, following principles) in the beginning stages of bhakti
+- **sankirtana** — the congregational chanting and preaching movement of Lord Chaitanya
+- **akincana** — one who possesses nothing materially; the Lord is 'akincana-gocara,' approached by the materially exhausted
+- **yoga-nidra** — the mystic 'sleep' of Maha-Vishnu, whose dreaming manifests the whole material creation as reality
 
 📄 **Full transcript:** [week-16-intelligent-enough-to-know-i-am-a-fool.md](../../transcripts/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md)
 

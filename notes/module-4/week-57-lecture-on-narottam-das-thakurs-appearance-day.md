@@ -12,11 +12,14 @@ duration: "1:12:26"
 language: "en"
 words: 7664
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["narottama dasa thakura", "guru-disciple relationship", "humility", "menial service", "surrender", "unity in diversity"]
 ---
 
 # Lecture on Narottam Das Thakur’s Appearance Day
 
 **His Holiness Indradyumna Swami** · Week 57 · Festivals and Kirtans · 1:12:26
+
+**Themes:** narottama dasa thakura · guru-disciple relationship · humility · menial service · surrender · unity in diversity
 
 ## Summary
 
@@ -32,6 +35,25 @@ Delivered on the appearance day of Narottama Dasa Thakura, this lecture presents
 - The path of surrender follows the Bhagavad-gita (pranipata, pariprasna, seva) and Rupa Goswami's stages (shraddha, sadhu-sanga, bhajana-kriya, anartha-nivritti), and demands sacrifice suited to one's ashrama: preaching and travel for the renounced, giving hard-earned money for grihasthas.
 - The gopis exemplify total surrender, giving up reputation (harder to renounce than sex or wealth), family, and safety at the sound of Krishna's flute, proving that devotional service must be one's life and soul, not token service.
 
+## Notable Stories & Analogies
+
+- Narottama's midnight dream — Lord Nityananda appears in a dream and sends the boy to bathe in the river where Mahaprabhu had deposited His prema.
+- Renouncing the bride — surrounded by his father's soldiers, Narottama says a chaste girl who has given her heart cannot take it back; he has given his heart only to Radha and Krishna.
+- Cleaning the guru's latrine — Narottama secretly cleaned Lokanatha Goswami's latrine and laid fresh sand until the guru hid in the bushes and caught him.
+- Prabhupada mopping the floor — the paramahamsa got on his hands and knees with the rag to show a girl how to wash the floor.
+- Brahmananda's letter from Africa — Prabhupada wept reading of the hardships his disciples bore to establish the movement there.
+- The nine-year-old's letters to God — in Mauritius a little girl's 'Dear God' notes moved the Swami, who begged to keep them.
+- Cut your darlings — a film editor's advice to cut what you cherish most, applied to the householder's sacrifice.
+- The gopis at the flute's sound — married gopis leaving boiling milk, husbands and crying babies to run to Krishna.
+
+## Memorable Quotes
+
+> “elegance is truth spoken concisely.”
+> “Once a girl has given her heart to a boy, then being a chaste girl, she cannot give her heart to another.”
+> “Your mercy is all that I am made of.”
+> “Someone's better, envy. Someone's equal, competition. Someone's less, let me exploit them.”
+> “The quality of the Seva is more important than the quantity.”
+
 ## Scriptural References
 
 - Bhagavad-gita 4.34 ('tad viddhi pranipatena pariprasnena sevaya... upadekshyanti te jnanam jnaninas tattva-darshinah') - the method of approaching a guru through submission, inquiry, and service, and 'tattva-darshinah' as those who have seen the truth; the lecture's recurring theme of 'pariprasna'.
@@ -42,6 +64,19 @@ Delivered on the appearance day of Narottama Dasa Thakura, this lecture presents
 - Brahma-samhita 5.1 ('ishvarah paramah krishnah sac-cid-ananda-vigrahah, anadir adir govindah') - definition of Krishna as the Supreme; quoted when describing the guru-disciple inquiry into who is the Supreme Soul.
 - Brahma-samhita 5.38 ('premanjana-cchurita-bhakti-vilochanena') - the devotee sees Krishna through eyes anointed with the salve of love (transcribed as 'eyes covered by the sun').
 - Chaitanya-charitamrita (Krishnadasa Kaviraja Goswami) - the maxim paraphrased as 'elegance is truth spoken concisely' (exact verse not identified), cited to explain Narottama's brief yet profound writings, likened to the coded brevity of Vedanta-sutra.
+
+## Glossary
+
+- **Acharya** — one who teaches by personal example, setting the standard for his followers
+- **Nitya-siddha** — an eternally liberated soul who never fell into material bondage
+- **Sadhaka** — a practitioner earnestly performing spiritual discipline
+- **Diksha guru** — the formally initiating spiritual master
+- **Shiksha guru** — an instructing spiritual master who guides one's practice
+- **Prema** — pure, selfless love of God
+- **Pariprasna** — submissive inquiry put to the spiritual master (Bhagavad-gita 4.34)
+- **Anartha-nivritti** — the clearing of unwanted material things from the heart
+- **Goswami** — master of the senses, who engages them in the Lord's service (opposite of godasa, servant of the senses)
+- **Atmanivedana** — full surrender of the self, giving everything to Krishna
 
 📄 **Full transcript:** [week-57-lecture-on-narottam-das-thakurs-appearance-day.md](../../transcripts/module-4/week-57-lecture-on-narottam-das-thakurs-appearance-day.md)
 

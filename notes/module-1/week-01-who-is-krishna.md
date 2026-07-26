@@ -12,11 +12,14 @@ duration: "1:06:30"
 language: "en"
 words: 9011
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["material world", "three miseries", "krishna as source", "faith vs science", "creation", "the supersoul"]
 ---
 
 # Who is Krishna?
 
 **His Holiness Indradyumna Swami** · Week 1 · Foundations in Bhakti · 1:06:30
+
+**Themes:** material world · three miseries · krishna as source · faith vs science · creation · the supersoul
 
 ## Summary
 
@@ -31,6 +34,24 @@ In this Srimad Bhagavatam class (Canto 2), Indradyumna Swami takes up the questi
 - Order cannot come from an explosion — the Bhagavatam's creation (Maha-Vishnu, Brahma on the lotus) versus the materialists' Big Bang / evolution (the exploding-khichari story).
 - Place faith in scripture and Srila Prabhupada, not imperfect scientists (Prabhupada discarding the moon-rocks newspaper); having traversed half the path with no disappointment, trust the rest through nistha, ruci, bhava, and prema.
 
+## Notable Stories & Analogies
+
+- Ducked prisoner — a prisoner repeatedly plunged under water and pulled up gasping mistakes each breath of relief for happiness.
+- Dry cheese sandwich — a nearly empty sandwich of thick bread and a sliver of cheese, like the tiny happiness squeezed between thick layers of hankering and lamenting.
+- Child's mud-pies — a little girl is taken outside to imitate her mother's cooking with mud, as the soul is allowed only to imitate the Lord.
+- Apple reflected in water — apples mirrored in a still lake look real but cannot be bitten; the material world is a perverted reflection of the spiritual world.
+- Lightning and thunder — up close they strike simultaneously, as the envious soul is struck down by maya the instant he turns from Krishna.
+- Exploding khichari — the speaker sealed the pressure-cooker valve and the pot blew khichari across the whole Sankirtan van, proving explosions make chaos, not order.
+- Prabhupada and the moon-rocks newspaper — told the moon is only rocks, Prabhupada threw the newspaper over his shoulder rather than doubt the Chaitanya-caritamrita.
+- Amoeba evolution parody — a mocking retelling of the materialist origin of life as a lonely amoeba splitting itself into male and female to begin evolving.
+
+## Memorable Quotes
+
+> “He creates this material world as a sort of prison for those souls who are unfortunate enough to want to leave the spiritual world.”
+> “from an explosion there's only chaos. There's not order.”
+> “Wherever you go, your mind goes with you.”
+> “Krishna is the best friend of every living entity.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam 2.5.31 — the verse under discussion: all material manifestations are situated in the Lord's material energies.
@@ -41,6 +62,18 @@ In this Srimad Bhagavatam class (Canto 2), Indradyumna Swami takes up the questi
 - Prema-vivarta (Jagadananda Pandita) — 'krsna-bahirmukha hana bhoga-vancha kare...'; turning from Krishna, the soul is captured by maya and sent to the material world.
 - Bhakti-rasamrta-sindhu 1.4.15–16 — the progressive stages 'adau sraddha tatah sadhu-sanga... anartha-nivrttih syat', then nistha, ruci, bhava, prema.
 - Brahma-samhita — the range of embodied beings 'from Brahma down to the indragopa', cited to show the Supersoul accompanies even the lowest soul.
+
+## Glossary
+
+- **adhyatmika** — miseries caused by one's own body and mind
+- **adhibhautika** — miseries caused by other living entities
+- **adhidaivika** — miseries caused by nature and forces controlled by the demigods
+- **maha-tattva** — the total material energy or substance from which the cosmos is manifested
+- **Maha-Vishnu** — the expansion of Krishna who lies on the causal ocean and from whose pores the universes emanate
+- **indragopa** — a tiny germ-like insect, cited as the lowest form of embodied life
+- **Supersoul (Paramatma)** — the Lord seated in every heart, accompanying each living entity
+- **anartha-nivritti** — the stage of devotion where the heart becomes free of material attachments
+- **sadhu-sanga** — association with saintly devotees
 
 📄 **Full transcript:** [week-01-who-is-krishna.md](../../transcripts/module-1/week-01-who-is-krishna.md)
 

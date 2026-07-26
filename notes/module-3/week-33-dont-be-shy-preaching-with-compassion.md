@@ -12,11 +12,14 @@ duration: "1:26:28"
 language: "en"
 words: 6850
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["preaching", "compassion", "prahlada maharaja", "book distribution", "sadhana bhakti", "sharing good fortune"]
 ---
 
 # Don't Be Shy (Preaching with Compassion)
 
 **His Holiness Indradyumna Swami** · Week 33 · Foundations in Bhakti · 1:26:28
+
+**Themes:** preaching · compassion · prahlada maharaja · book distribution · sadhana bhakti · sharing good fortune
 
 ## Summary
 
@@ -32,6 +35,24 @@ Speaking on Srimad Bhagavatam 7.9.44, Indradyumna Swami expounds Prahlada Mahara
 - Don't be shy about preaching — qualification comes by preaching, not before it (temple president's reply: 'that's how you become advanced, by preaching'); as with taking prasadam or doing business, one should not hold back. 'Look in the mirror — you're the result of someone's attempt to share their good fortune.'
 - Everyone can preach: a grandmother baking offered cookies for neighborhood children, or simply going out so others perform a small service and gain unknowing spiritual credit (sukriti). Analogies: material life as ice cream eaten under a razor-sharp axe on a thin string; water dripping wears a hole through rock. Illustrated by the Paris Champs-Elysees book-distribution story ending with the police chief who had bought and was reading a Bhagavad-gita.
 
+## Notable Stories & Analogies
+
+- Swimming-race lap-card — like a swimmer checking the card mid-race, a devotee should gauge 'how far am I?' and not be dismayed to find only two laps done after huge effort.
+- Turn up the fire — as a cook raises the flame to rush a slow preparation, one should chant and serve more, not less, as one grows older in Krishna consciousness.
+- Prahlada hearing in the womb — his devotional service before birth was sravanam, hearing, showing transcendental sound works even on an embryo.
+- Medicine taken on faith — you take medicine trusting the doctor without knowing how it works; likewise chanting purifies even before taste (ruchi) arises.
+- The poor man made wealthy — remembering his own past poverty, he freely gives to the destitute; since every soul was destitute in matter, every Vaishnava should feel that compassion.
+- Ice cream under the axe — enjoying ice cream while a razor-sharp axe hangs overhead by a thin string is a picture of material life, where death may fall at any moment.
+- Water wears a hole in rock — a single drip repeated over ages bores through stone, as small persistent preaching efforts transform society.
+- Champs-Elysees and the police chief — chased and arrested for distributing books in Paris, Swami is quietly freed by a police chief who had earlier bought a Bhagavad-gita from him door to door.
+
+## Memorable Quotes
+
+> “Look in the mirror. You're the result of someone's attempt to share their good fortune with others.”
+> “This is a missionary movement.”
+> “No, don't come back. It's a very terrible place, this material world.”
+> “That is the highest pleasure in Krishna consciousness.”
+
 ## Scriptural References
 
 - Srimad Bhagavatam 7.9.44 — the verse under discussion; Prahlada Maharaja's prayer that he will not accept liberation alone but wishes to deliver the 'poor fools and rascals' back to the Lord's lotus feet.
@@ -43,6 +64,18 @@ Speaking on Srimad Bhagavatam 7.9.44, Indradyumna Swami expounds Prahlada Mahara
 - Bhaktisiddhanta Saraswati Thakura's essay 'Vaishnava Ke? (What Kind of Vaishnava Are You?)' — distinguishing beginner, intermediate, and advanced Vaishnavas; and his statement that Krishna consciousness will be successful when the judges in the high courts wear Vaishnava tilaka.
 - Narottama Dasa Thakura — quoted phrase, 'here I am in the middle of a holocaust trying to enjoy myself,' on the folly of seeking material happiness.
 - Ecclesiastes (Bible) — 'a time to be born, a time to die, a time to laugh, a time to cry' (spoken as 'a time and a place for everything'), on age-appropriate activity.
+
+## Glossary
+
+- **Sadhana-bhakti** — Devotional service in regulated practice: following the rules, chanting, hearing, and serving.
+- **Anartha-nivritti** — The stage of clearing the heart of unwanted things like lust, anger, and greed.
+- **Raganuga-bhakti** — Spontaneous devotional service, an advanced stage beyond regulated practice.
+- **Bhava** — The stage of awakened spiritual emotion that precedes pure love of God.
+- **Prema** — Pure, perfected love of God.
+- **Sravanam** — Hearing about the Lord; the first and one of the most potent of the nine processes of devotion.
+- **Shabda-brahma** — Transcendental spiritual sound that purifies the heart like medicine.
+- **Ajnata-sukriti** — Unknowing spiritual credit gained without realizing one is serving the Lord or His devotee (spoken as 'aghat-sukriti').
+- **Acharya** — One who teaches by personal example; Prahlada is cited as such.
 
 📄 **Full transcript:** [week-33-dont-be-shy-preaching-with-compassion.md](../../transcripts/module-3/week-33-dont-be-shy-preaching-with-compassion.md)
 

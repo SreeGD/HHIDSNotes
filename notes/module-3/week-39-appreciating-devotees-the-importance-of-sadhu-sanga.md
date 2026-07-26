@@ -12,11 +12,14 @@ duration: "1:21:17"
 language: "en"
 words: 11421
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["sadhu-sanga", "appreciating devotees", "asat-sanga", "qualities of a devotee", "transcendental hearing", "five limbs of bhakti"]
 ---
 
 # Appreciating Devotees (The Importance of Sadhu Sanga)
 
 **His Holiness Indradyumna Swami** · Week 39 · Festivals and Kirtans · 1:21:17
+
+**Themes:** sadhu-sanga · appreciating devotees · asat-sanga · qualities of a devotee · transcendental hearing · five limbs of bhakti
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking at a temple 'Festival of Appreciation' meant to honor every devotee pre
 - The same principle works in reverse for good association: even a moment's sadhu-sanga exceeds heaven and liberation, one catches bhakti like catching a cold from a devotee speaking Bhagavatam, and transcendental hearing acts even without understanding (the Swami's story of dozing during Prabhupada's Hindi lecture and being told the sound would still act).
 - The five most essential 'express' limbs of bhakti are sadhu-sanga, nama-kirtana, bhagavata-sravana, mathura-vasa and worship of the deity with faith; sadhu-sanga is the 'salt' that draws out the flavor and result of the other four, since chanting must be received in parampara and done humbly, the Bhagavatam must be heard from a living person-bhagavata (not as a paid seven-day business), holy places benefit chiefly through the sadhus living there, and deity worship is really assisting one's guru.
 - Take shelter of Srila Prabhupada, who brought the deities and wrote his purports through the night so his books would 'become gospel,' and of senior Vaishnavas while they are still present; honor every devotee's service, big or small (the small screw is as vital to the harmonium as the keys), keep turning your back on maya ('just say no') to face Krishna, and if you fall down nine times get up ten.
+
+## Notable Stories & Analogies
+
+- Chameleon lizard — the tiny soul takes on the color of whatever it sits on, so it absorbs the qualities of its association.
+- World War II medals — decorated veterans wore their medals and children opened doors for them; Krishna similarly decorates His devotees so people know whom to follow.
+- Ajamila — a pure brahmana boy who fell from his standard after one glance at an embracing couple in the forest.
+- Swine flu (H1N1) — a tiny, hard-to-detect virus fells even the strongest athlete, as a little maya can bring down a transcendentalist.
+- The tortoise and the hare — the overconfident hare naps and loses; do not think yourself too advanced to fear maya.
+- Catching a cold — you catch bhakti from a devotee speaking Bhagavatam the way you catch a cold from a sneeze.
+- Dozing in Prabhupada's Hindi lecture — told in Hyderabad that transcendental sound acts even when you cannot understand a word.
+- Salt in the feast — sadhu-sanga is the salt that draws out the flavor and result of every other devotional activity (the ladu and sandesh with no sugar).
+
+## Memorable Quotes
+
+> “In Krishna consciousness we have to have a good eye and a bad eye.”
+> “The duty of a first class man is not to subjugate others. The duty of a first class man is to make a fifth class man also a first class man.”
+> “It does not matter that you don't speak Hindi. It is transcendental subject matter. It will act.”
+> “Spiritual mathematics means one minus one is a million.”
+> “There's always room for jello.”
 
 ## Scriptural References
 
@@ -61,6 +83,19 @@ Speaking at a temple 'Festival of Appreciation' meant to honor every devotee pre
 - Sarvabhauma Bhattacharya's prophetic prayer ('tilaka vimala...') - foretelling that once the holy names of Hari appeared, Vaishnavas adorned with tilak, neckbeads and the mahamantra would purify the world; the Swami reads it as a prophecy of ISKCON.
 - Bible, Gospel of Luke 23:34 - Jesus on the cross, 'Father, forgive them, for they know not what they do,' cited as an example of a devotee's friendliness even to the inimical.
 - Bhaktivinoda Thakura - 'A Vaishnava dies to live, and while living tries to spread the holy name around' (cited on Prabhupada's continued presence through his books).
+
+## Glossary
+
+- **sadhu-sanga** — association with saintly devotees
+- **tatastha-sakti** — the marginal energy of the Lord; the tiny soul that can be swayed by matter or spirit
+- **asat-sanga** — association with non-devotees and materialists
+- **bhukti** — material sense enjoyment
+- **mukti** — liberation, merging into the Supreme
+- **siddhi** — mystic perfection or yogic powers
+- **uttama-adhikari** — a topmost, fully realized devotee
+- **kanistha-adhikari** — a neophyte devotee on the lowest platform
+- **maha-prasad** — sanctified food remnants of the Deity
+- **yuga-dharma** — the recommended practice for the age: chanting the holy name
 
 📄 **Full transcript:** [week-39-appreciating-devotees-the-importance-of-sadhu-sanga.md](../../transcripts/module-3/week-39-appreciating-devotees-the-importance-of-sadhu-sanga.md)
 

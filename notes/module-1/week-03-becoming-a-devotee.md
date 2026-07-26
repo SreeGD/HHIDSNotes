@@ -12,11 +12,14 @@ duration: "50:48"
 language: "en"
 words: 4081
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["kali-yuga", "surrender", "divine protection", "sadhu-sanga", "smarana", "preaching mission"]
 ---
 
 # Becoming a Devotee
 
 **His Holiness Indradyumna Swami** · Week 3 · Foundations in Bhakti · 50:48
+
+**Themes:** kali-yuga · surrender · divine protection · sadhu-sanga · smarana · preaching mission
 
 ## Summary
 
@@ -31,6 +34,24 @@ This morning lecture is based on Srimad Bhagavatam, Canto 1, Chapter 15 ('The Pa
 - Real protection is not preserving the body but being shielded from maya so one never forgets Krishna's lotus feet; this is the devotee's true prayer, illustrated by Prahlada Maharaj, who feared not Nrisimhadeva's ferocious form but only falling under the material energy that even Brahma, Shiva, and Indra can succumb to, our whole aim being smaranam (shravanam kirtanam vishnu smaranam), remembering the Lord in love.
 - Lord Shiva at the battle of Lanka declared 'Rakhe Krishna mare ke, mare Krishna rakhe ke' (if Krishna wants to protect, none can kill; if He wants to kill, none can protect), establishing Krishna's supremacy over even Shiva, echoed by the Gita's promise 'kaunteya pratijanihi na me bhaktah pranasyati' ('My devotee never perishes'), with examples of Pariksit protected in the womb, Kunti, the Pandavas, Ambarisha, and Prahlada.
 - Protection comes in proportion to surrender: Draupadi was saved only when she released her sari and raised both hands calling 'He Govinda!'; like a government equipping its soldiers with the best supplies, devotees engaged in the Lord's important mission of sharing their good fortune receive special protection, mercy, and love, so a sincere devotee, whose heart is being purified, need not fear the anomalies of Kali.
+
+## Notable Stories & Analogies
+
+- Prabhupada's 'Don't come back' — a disciple wished to keep taking birth to distribute books, but Prabhupada frowned and said Kali-yuga will only get worse; better to finish in one lifetime.
+- Buddha and the grieving mother — told to beg rice only from a house where no one had died, she returns empty-handed and learns death is universal.
+- Jean-Paul Sartre — the philosopher who dissected material suffering like a summary of the Gita but, offering no solution, committed suicide.
+- Tornado cellars and bomb shelters — a whole town survives a tornado because they knew where to take shelter, like 1950s Americans building bomb shelters.
+- Crabs into the ocean — tiny crabs sensing danger take shelter in the vast ocean, as small souls take shelter in the all-great Krishna.
+- Shiva and Parvati at Lanka — as Rama aims his final arrow at Ravana, Shiva declares that if Krishna wants to protect none can kill, and if He wants to kill none can protect.
+- Prahlada before Nrisimhadeva — unafraid of the Lord's ferocious form, he fears only falling under the influence of the material energy.
+- Draupadi's raised hands — she is rescued only when she lets go of her sari and cries out with both arms raised, 'He Govinda!'
+
+## Memorable Quotes
+
+> “We have to make the best use of a bad bargain.”
+> “Sense gratification and devotional service go ill together.”
+> “If the Supreme Lord wants to protect someone, who can kill him? If He wants to kill him, who can protect him?”
+> “Only when you let go and raise both of your hands and you called out, 'Hey Govinda, Hey Krishna,' did I come.”
 
 ## Scriptural References
 
@@ -47,6 +68,18 @@ This morning lecture is based on Srimad Bhagavatam, Canto 1, Chapter 15 ('The Pa
 - Brahma-samhita — a verse cited (verse number not specified by the speaker) that the devotee advances in remembrance of the Lord in small increments, little step by little step.
 - Teachings of Queen Kunti (Srila Prabhupada) — cited as the source of the story of Lord Shiva and Parvati watching the Rama-Ravana battle at Lanka, where Shiva quotes the Bengali saying 'Rakhe Krishna mare ke, mare Krishna rakhe ke' (if Krishna wants to protect, none can kill; if He wants to kill, none can protect), establishing Krishna's supremacy over Shiva.
 - Bible — teaching of Jesus (cf. Matthew 6:24) that one cannot worship mammon (matter) and God simultaneously, cited alongside Prabhupada's statement that sense gratification and devotional service go ill together.
+
+## Glossary
+
+- **Kali-yuga** — the present age of quarrel, hypocrisy, and decline
+- **shastra** — revealed scripture
+- **apaurusheya** — not composed by any mundane being; of divine origin and therefore infallible
+- **smaranam** — remembering the Lord, one of the nine processes of devotional service
+- **Nrisimhadeva** — the half-man, half-lion incarnation who protected the devotee Prahlada
+- **Kalki** — the future incarnation who ends Kali-yuga with his sword
+- **ahaituki apratihata** — unmotivated and uninterrupted, the standard of pure devotional service
+- **Gajendra-moksha** — the deliverance of the elephant Gajendra, who prayed for protection to continue his service
+- **mahajana** — a great self-realized authority on devotion, such as Prahlada Maharaja
 
 📄 **Full transcript:** [week-03-becoming-a-devotee.md](../../transcripts/module-1/week-03-becoming-a-devotee.md)
 

@@ -12,11 +12,14 @@ duration: "38:16"
 language: "en"
 words: 5017
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["yukta-vairagya", "karma", "regulative principles", "book distribution", "liberation", "chaitanya's mercy"]
 ---
 
 # The Regulative Principles of Freedom
 
 **His Holiness Indradyumna Swami** · Week 5 ·  · 38:16
+
+**Themes:** yukta-vairagya · karma · regulative principles · book distribution · liberation · chaitanya's mercy
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking on Bhagavad-gita 9.27-28, Indradyumna Swami explains Krishna consciousn
 - A devotee following his guru's instructions is considered liberated even at present (Prabhupada on Kapila's teachings to Devahuti, Srimad Bhagavatam Third Canto); like the lotus flower that grows in water yet never touches it, he lives in the world but is untouched by the modes of nature.
 - Preaching and book distribution (sankirtan) are the highest taste, following Chaitanya Mahaprabhu and Srila Prabhupada ('preaching in the snows of Russia is sweeter than the sweetest mango'; 'work now, samadhi later'); one should stay engaged in Krishna conscious activity 24 hours a day and liberation follows automatically (Bilvamangala Thakura: liberation stands with folded hands at the devotee's door).
 - The delivering power of Lord Chaitanya's mercy is unlimited, shown by the story of Surya Narayan, a drunken Spanish banker who threw down and blasphemed the Krishna books and had the distributing devotee arrested in Paris, yet later read the books, surrendered, and became a first-class devotee and temple treasurer in Barcelona.
+
+## Notable Stories & Analogies
+
+- The student's notebook — a university boy tallied his bad deeds to cancel them with good ones, not seeing that 'good' material karma also binds.
+- Counterfeit coin — both heads and tails are worthless, as material enjoyment and its attendant suffering are both bad.
+- The fearful bird — pecking seeds off the ground yet constantly glancing about for danger, showing that fear pervades material life.
+- Cars versus Model T Fords — modern cars are built to break down while old Fords still run, illustrating that the world is arranged to cause anxiety.
+- Comfortable prisons — inmates re-offend to return to prisons nicer than life outside, a kind of insanity showing that facility without real freedom is still bondage.
+- Lotus flower in Durban — the speaker drove to a botanical garden to verify that the lotus grows in the water yet never touches it, like the liberated devotee in the world.
+- Surya Narayan the banker — a drunken Spanish banker who blasphemed the Krishna books and had the distributor arrested in Paris later read them, surrendered, and became a first-class devotee and temple treasurer in Barcelona.
+- Nityananda in the liquor shop — a Bengali warning not to imitate: if you see Nityananda enter a tavern or brothel He has gone only to deliver the fallen.
+
+## Memorable Quotes
+
+> “He calls it the regulative principles of freedom.”
+> “There's actually nothing good in this world. Even the good, that is bad.”
+> “Work now, samadhi later.”
+> “preaching in the snows of Russia is sweeter than the sweetest mango.”
+> “You have to follow your mind and your senses, which are merciless masters.”
 
 ## Scriptural References
 
@@ -50,6 +72,18 @@ Speaking on Bhagavad-gita 9.27-28, Indradyumna Swami explains Krishna consciousn
 - Bilvamangala Thakura (Krishna-karnamrita, quoted in the Gaudiya tradition) — cited as 'liberation stands with folded hands at the doorstep of the devotee engaged in devotion,' so a devotee is not even concerned with liberation.
 - Opening invocation prayers quoted — the guru-pranama 'om ajnana-timirandhasya jnananjana-salakaya...', the Srila Rupa Goswami pranama 'sri-caitanya-mano-'bhistam sthapitam yena bhu-tale...', the Panca-tattva maha-mantra 'jaya sri-krishna-caitanya prabhu-nityananda...', and the Hare Krishna maha-mantra.
 - Words of Jesus (paraphrased) — 'one can be in this world but not of this world,' illustrating the devotee's detachment (paired with the analogy of the lotus flower untouched by water).
+
+## Glossary
+
+- **yukta-vairagya** — true renunciation achieved by engaging everything in Krishna's service
+- **karma** — material action and its binding reactions
+- **sadhana-bhakti** — the regulated daily practice of devotional service
+- **Bhakti-rasamrita-sindhu** — Rupa Goswami's treatise on devotion, presented by Prabhupada as the Nectar of Devotion
+- **brahma-bhuta** — the liberated, joyful state of self-realization free from hankering and lamenting
+- **Rudrani** — a name of Durga, material nature; glossed as 'she who makes you cry forever'
+- **carvita-carvananam** — chewing the already chewed; the repeated, fruitless pursuit of material pleasure
+- **jivera svarupa** — the soul's constitutional identity as the eternal servant (nitya-dasa) of Krishna
+- **modes of nature (guna)** — the three qualities of material nature: goodness, passion, and ignorance
 
 📄 **Full transcript:** [week-05-the-regulative-principles-of-freedom.md](../../transcripts/module-1/week-05-the-regulative-principles-of-freedom.md)
 

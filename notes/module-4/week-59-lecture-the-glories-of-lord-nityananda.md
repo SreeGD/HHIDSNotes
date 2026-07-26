@@ -12,11 +12,14 @@ duration: "1:18:26"
 language: "en"
 words: 9684
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["lord nityananda", "balarama", "sankirtana", "compassion", "kali-yuga", "vaishnava aparadha"]
 ---
 
 # Lecture: The Glories of Lord Nityananda
 
 **His Holiness Indradyumna Swami** · Week 59 · Festivals and Kirtans · 1:18:26
+
+**Themes:** lord nityananda · balarama · sankirtana · compassion · kali-yuga · vaishnava aparadha
 
 ## Summary
 
@@ -32,6 +35,25 @@ Delivered on the appearance day of Lord Nityananda, this lecture first establish
 - Practical exhortations: chant sixteen rounds daily (the example of a fifteen-year-old girl), never criticize a Vaishnava (Mahaprabhu's warning tied to Jagai-Madhai's sins), trust the holy name to destroy all sinful reactions, and go out fearlessly to distribute the holy name and prasadam.
 - Ashrama teaching: Mahaprabhu had Nityananda marry to prove householders can also attain perfection; per Narottama dasa Thakura, whether renunciate or householder, anyone who sincerely serves the sankirtana movement is worthy of association.
 
+## Notable Stories & Analogies
+
+- Nityananda's roar — sensing Mahaprabhu's birth by mystic power, he roared so loud the entire universe fell unconscious.
+- The childhood Ramayana play — as a boy Nitai played Lakshmana, 'struck' by a flower and revived with a sweet from his mother's cabinet.
+- The sannyasi asks for the boy — a wandering sannyasi begs milk, then asks for twelve-year-old Nitai; his mother sees Nitai's face in the Murlidhara deity and consents.
+- First reunion at Navadvipa — Gaura and Nitai run together, embrace in a flood of tears and fall unconscious, revived by Bhagavatam verses and kirtan.
+- The thief who stole my heart — Mahaprabhu tells Nityananda he searched the whole world and at last found the thief who stole his heart.
+- Nitai the wild preacher — threatening to break people's furniture until they chant, and swimming among crocodiles, making him Haridasa's most troublesome sankirtana partner.
+- Jagai and Madhai delivered — after the brothers show remorse, Mahaprabhu embraces them, absorbs their sins and turns black, warning never to criticize a Vaishnava.
+- Breaking the sannyasa-danda — Nitai snaps Mahaprabhu's staff into pieces and throws it in the river, which the acharyas explain released the flood of Krishna-prema.
+
+## Memorable Quotes
+
+> “I searched the whole world over but could not find you, now I have found the thief who has stolen my heart, now I will never let you go.”
+> “He alone can see him who Lord Chaitanya shows.”
+> “Don't be wall flowers, be lotus flowers.”
+> “chant Hare Krishna and your life will be sublime.”
+> “material life is characterized by the fact that it is complicated.”
+
 ## Scriptural References
 
 - Chaitanya-charitamrita, Adi-lila 1.2 - 'I offer my respectful obeisances unto Lord Chaitanya and Lord Nityananda, who are like the sun and the moon, arisen simultaneously on the horizon of Gauda to dissipate the darkness of ignorance and thus wonderfully bestow benediction upon all.' Quoted from Krishnadasa Kaviraja Goswami to state the mission of the two brothers.
@@ -45,6 +67,19 @@ Delivered on the appearance day of Lord Nityananda, this lecture first establish
 - Srimad-Bhagavatam 6.3.19 - 'dharmam tu sakshad bhagavat-pranitam'; real religious principles are enacted directly by the Lord, paraphrased at the opening to explain why only Krishna can teach genuine dharma.
 - Adi Purana (quoted in Chaitanya-charitamrita, Madhya-lila) - Krishna states that one who claims to be His devotee is not truly His devotee, but one who is the devotee of His devotee is very dear to Him (cited when Padmavati serves the sadhu by giving her son).
 - Srila Prabhupada, letter dated January 27, 1970 - 'Nityananda Prabhu approached Jagai and Madhai at the risk of being personally injured and still he definitely delivered them. The world is full of Jagais and Madhais...'; read aloud to conclude, on fearlessly approaching the fallen and accepting hardship as the greatest penance in spiritual advancement.
+
+## Glossary
+
+- **Yuga-dharma** — the process of self-realization prescribed for a particular age; in Kali-yuga, the chanting of the holy name
+- **Panca-tattva** — the Lord's five features in Kali-yuga: Chaitanya, Nityananda, Advaita, Gadadhara and Srivasa
+- **Avadhuta** — a liberated soul who transcends ordinary social and religious conventions
+- **Maha-mantra** — the great chant, Hare Krishna Hare Krishna Krishna Krishna Hare Hare...
+- **Sankirtana** — congregational chanting of the holy names of God
+- **Prema** — pure love of God
+- **Tattva-sima** — the very limit or summit of the Absolute Truth; a title of Nityananda
+- **Seva-vigraha** — the personified embodiment of service; a title of Nityananda
+- **Vaishnava-aparadha** — an offense committed against a devotee of the Lord
+- **Siddhi** — mystic perfection or yogic power
 
 📄 **Full transcript:** [week-59-lecture-the-glories-of-lord-nityananda.md](../../transcripts/module-4/week-59-lecture-the-glories-of-lord-nityananda.md)
 

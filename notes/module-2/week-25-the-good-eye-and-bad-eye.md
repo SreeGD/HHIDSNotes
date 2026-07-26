@@ -12,11 +12,14 @@ duration: "1:14:27"
 language: "en"
 words: 9945
 transcribed_with: whisper.cpp large-v3-turbo
+tags: ["rasa-lila", "sahajiyaism", "good eye and bad eye", "hankering", "regulative principles", "lord chaitanya's mercy"]
 ---
 
 # The Good eye and bad Eye
 
 **His Holiness Indradyumna Swami** · Week 25 ·  · 1:14:27
+
+**Themes:** rasa-lila · sahajiyaism · good eye and bad eye · hankering · regulative principles · lord chaitanya's mercy
 
 ## Summary
 
@@ -31,6 +34,25 @@ Speaking on the Caitanya-caritamrta chapter 'The Lord Tastes Nectar' — which r
 - The four regulative principles (no meat-eating, intoxication, illicit sex, gambling) are not austerity but simply 'giving up suffering' — like refusing a pharmacy sale on cancer and disease; the process is simple (just chant) but not cheap (one must follow the rules of sadhana bhakti), and one must throw off the 'sandbags' of attachment, as a hot-air balloon must jettison ballast to rise. Bicycle training wheels stand for Guru and Gauranga keeping the beginner's balance.
 - Devotional service is rarer and more powerful than God Himself — Srimati Radharani controls Krishna, who therefore does not give bhakti easily but hands wealth, sex, and fame to demons instead; yet Lord Caitanya, the most magnanimous incarnation (Rupa Goswami's 'namo maha-vadanyaya'), freely bestows it on anyone. The Narada–Shiva–Parvati prasada pastime (told by Tamal Krishna Maharaj) shows the Vaishnava's defining compassion — Parvati's wish that ALL living beings receive the mercy — as a reason Lord Caitanya appeared.
 - To reciprocate with Krishna as Draupadi (protected by the unlimited sari), the Pandavas (Kunti seeing Krishna in every danger), and Hanuman (embraced by Rama, his heart holding only Sitaram — no dhanam, janam, or sundarim) did, one must have their bhakti and be willing to sacrifice everything; the Sanatana Goswami touchstone story shows the holy name is the most valuable gift. In the Q&A, the pyrite/gold scale is compared to guru-shastra-sadhu and knowing Prabhupada's books as the devotee's balance for testing genuine Krishna consciousness.
+
+## Notable Stories & Analogies
+
+- Prabhupada declines rasa-lila — he told a life member, 'You may be fit to hear rasa-lila, but I do not feel qualified to speak on it.'
+- Jumping horse eating grass — the Bengali proverb of a horse that tries to eat grass while jumping and falls on its head.
+- A kick in the ribs — Prabhupada's test for a New York man feigning ecstatic symptoms: a real one feels nothing, a pretender jumps up.
+- Radha-kunda rascals — Prabhupada called disciples rascals for going to Radha-kunda while unable to follow even the first verse of the Upadeshamrta.
+- Fool's gold in the Sierra Nevadas — boyhood pyrite that glittered like gold but was worthless, needing a trained, weighing eye to detect.
+- Bicycle training wheels — Guru and Gauranga are the two little wheels keeping the beginner's balance on the path.
+- Hot-air balloon sandbags — you must throw off the sandbags of attachment for the balloon to rise, however much air you pump in.
+- Narada, Shiva, and Parvati's prasada — a fragment of Krishna's prasada throws them into ecstasy, and Parvati wishes the mercy for all living beings.
+
+## Memorable Quotes
+
+> “You have to see things with a good eye and a bad eye.”
+> “Our austerity in Krishna consciousness is to give up suffering.”
+> “It's simple, but it's not a cheap process.”
+> “Krishna consciousness is therefore nectar from the word go.”
+> “If you lose your wealth, you've lost nothing. If you lose your health, you've lost something. But if you lose your Krishna consciousness, you've lost everything.”
 
 ## Scriptural References
 
@@ -55,6 +77,18 @@ Speaking on the Caitanya-caritamrta chapter 'The Lord Tastes Nectar' — which r
 - Vaishnava pranama mantra — 'vancha-kalpa-tarubhyas ca krpa-sindhubhya eva ca, patitanam pavanebhyo vaisnavebhyo namo namah' — obeisances to the Vaishnavas who are desire-trees and oceans of mercy, purifiers of the fallen; cited on Vaishnava compassion (Parvati wishing mercy for all).
 - Prabhupada's Krishna book — cited for the teaching that Krishna's pastimes benefit everyone (even the low-born and the sex-agitated) and are absolute in every feature.
 - Srila Prabhupada-lilamrta (Satsvarupa dasa Goswami) — named as a book to read to know Prabhupada's life and philosophy and avoid being cheated (Q&A on guru-shastra-sadhu).
+
+## Glossary
+
+- **rasa-lila** — Krishna's confidential dance pastime with the gopis of Vrindavan
+- **Antya-lila** — the final portion of Lord Chaitanya's pastimes at Jagannatha Puri
+- **sahajiya** — one who takes devotion cheaply, imitating advanced stages while still sense-enjoying
+- **sadhana-bhakti** — regulated devotional practice following the rules and regulations
+- **anartha-nivritti** — the stage of clearing away unwanted things and bad habits
+- **Upadeshamrta** — Rupa Goswami's Nectar of Instruction; verse one urges controlling the senses
+- **Radha-kunda** — the topmost holy pond in Vrindavan, most dear to Radha and Krishna
+- **shastra-chakshush** — seeing things through the eyes of scripture
+- **guru-shastra-sadhu** — the threefold authority of guru, scripture, and saints, one's balance in devotional life
 
 📄 **Full transcript:** [week-25-the-good-eye-and-bad-eye.md](../../transcripts/module-2/week-25-the-good-eye-and-bad-eye.md)
 
