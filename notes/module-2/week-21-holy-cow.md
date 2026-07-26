@@ -1,0 +1,346 @@
+---
+title: "Holy Cow"
+speaker: Indradyumna Swami
+week: 21
+module: "Module 2"
+category: "Festivals and Kirtans"
+source: "ISKCON Desire Tree"
+source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-04/IDS_BG_04-11_-_Holy_cow_-_2008-04-25_Gita_Nagari.mp3"
+audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Bhagavad_Gita/Chapter-04/IDS_BG_04-11_-_Holy_cow_-_2008-04-25_Gita_Nagari.mp3"
+duration: "57:12"
+language: "en"
+words: 7849
+transcribed_with: whisper.cpp large-v3-turbo
+---
+
+# Holy Cow
+
+**His Holiness Indradyumna Swami** · Week 21 · Festivals and Kirtans · 57:12
+
+## Summary
+
+Given at the Gita Nagari farm community, this lecture is based on Bhagavad-gita 4.11, where Krishna declares that he reciprocates with each living entity exactly in proportion to their surrender (a devotee 25% surrendered receives 25% of his love), even though, as Prabhupada said, the Lord is more eager for us to return than we are for ourselves. Indradyumna Swami traces the graded path of devotional service, from faith and the association of devotees through bhajana-kriya and the cleansing of the heart (ceto-darpana-marjanam), which allows the eternal seed of devotion (bhakti-lata-bija) to blossom into prema, comparing the pure heart to the rich Pennsylvania farm soil ready for planting. He illustrates the Lord's intimate reciprocation with a string of memorable pastimes: Hanuman asking Rama only for an embrace (worth more than all the opulence of the three worlds), the Vrindavan fruit-vendor whose fruits Krishna turned into jewels, the cowherd boys rescued from the belly of Aghasura, and Mother Yashoda, whose motherly love surpasses what even Brahma, Shiva, and Lakshmi could obtain. He explains the five rasas and how their distinct moods must be kept in their proper places, citing Prabhupada's insistence in Paris on separating the Balarama and Radharani deities, and Mahaprabhu's caution to Jagadananda Pandit (Satyabhama in Krishna-lila) not to mix Dvaraka and Vrindavan moods, while Govardhan-lila uniquely gathered all the rasas under one hill for seven days. A large portion celebrates the cows of Vrindavan as beloved nitya-siddha and sadhana-siddha associates: Krishna knows the names of Nanda's 900,000 cows and calls them on his flute, and they are dearer to him than his own life, so serving Gita Nagari's cows is direct service to Krishna. Contrasting the ever-increasing, eternal bliss of love for Krishna (anandambudhi-vardhanam) with the short-lived, superficial 'skin love' of this world (three of four marriages end in divorce; the monkey who tried to nurse a puppy), he urges the devotees to make Radha-Damodara the very life and soul of their lives and to practice sadhana-bhakti on this pastoral farm to return to Godhead in this lifetime.
+
+## Key Points
+
+- Bhagavad-gita 4.11 is the theme: Krishna reciprocates in exact proportion to one's surrender (25% surrender yields 25% of his love), and 100% love requires giving 100% of ourselves; Prabhupada said the Lord is more eager for our return than we are.
+- The gradual path of bhakti: association of devotees and faith (sraddha), then bhajana-kriya, cleansing the heart of anarthas like lust, anger and greed (ceto-darpana-marjanam), so the eternal seed of devotion (bhakti-lata-bija) can grow into prema, likened to the rich, dark Pennsylvania soil ready for planting.
+- Concrete stories of the Lord's intimate reciprocation: Hanuman asking Rama only for a hug (dasya-rasa, an embrace outweighing all opulence of Bhur, Bhuvah, Svah); the Vrindavan fruit-seller whose fruits Krishna turned to jewels; the cowherd boys saved when Krishna expanded inside Aghasura's foul-smelling belly until the demon burst; summed up by 'rakhe krsna mare ke, mare krsna rakhe ke.'
+- The five rasas (santa/neutrality, dasya/servitude, sakhya/friendship, vatsalya/parental, madhurya/conjugal) each please Krishna and none is inferior; anyone who thinks Mother Yashoda's love is inferior to Radharani's is an offender.
+- Moods must not be mixed: separate meeting places (Terakadamba, Radha-kunda at noon, Vrinda-kunda in the evening); Prabhupada in Paris angrily demanded a barrier between the Balarama and Radharani deities; Mahaprabhu warned Jagadananda Pandit (Satyabhama in Krishna-lila) to associate only with Sanatana Goswami in Vrindavan and not mix Dvaraka's mood with Vraja's.
+- Govardhan-lila uniquely united all the rasas under one hill for seven days; Vishvanatha Chakravarti Thakura explains the gopis' prior purva-raga mood and that Govardhan expanded from ecstasy to hold everyone; Prabhupada teaches that hearing such confidential pastimes under guidance decreases, not increases, material lust.
+- Krishna's love for cows: Nanda Maharaja's 900,000 cows in 108 groups and four colors, whose names Krishna knows and plays on his flute at Terakadamba; described by Vishvanatha Chakravarti as chintamani-like nitya-siddha and sadhana-siddha associates dearer to Krishna than his life, so caring for Gita Nagari's cows pleases Krishna ('love me, love my dog').
+- Material 'skin love' is temporary (three of four marriages end in divorce; the monkey that tried to nurse a stolen puppy; the Pierre Cardin imitation), whereas love for Krishna in Vrindavan is deathless and ever-increasing (anandambudhi-vardhanam, like a beam of light); make Radha-Damodara the life and soul (prananatha) of your life.
+
+## Scriptural References
+
+- Bhagavad-gita 4.11 — 'ye yatha mam prapadyante tams tathaiva bhajamy aham...' the central verse: Krishna rewards/reciprocates with each devotee according to their surrender.
+- Siksastakam verse 1 — 'ceto-darpana-marjanam' (cleansing the mirror of the heart) and 'anandambudhi-vardhanam' (the ever-increasing ocean of transcendental bliss of devotional service).
+- Brahma-samhita 5.38 — 'premanjana-cchurita-bhakti-vilocanena...' the pure devotee whose eyes are anointed with love sees Krishna's tribhanga (threefold-bending) form.
+- Brahma-samhita 5.56 — cited for 'in Vrindavan every step is a dance, every word is a song, and there is a festival every day.'
+- Brahma-samhita — cited for the teaching that advancement in Krishna consciousness is made in small increments (little steps).
+- Srimad-Bhagavatam 1.2.6 — 'sa vai pumsam paro dharmo yato bhaktir adhoksaje / ahaituky apratihata yayatma suprasidati' unmotivated, uninterrupted devotional service fully satisfies the self (santushti).
+- Srimad-Bhagavatam 10.9.20 — 'nemam virinco na bhavo na srir apy anga-samsraya...' neither Brahma, Shiva, nor Lakshmi received such mercy as Mother Yashoda; cited on the greatness of vatsalya love.
+- Srimad-Bhagavatam 10.14.58 — 'padam padam yad vipadam na tesam' quoted regarding the dangers at every step of material life / short life expectancy.
+- Vishnu Purana — 'namo brahmanya-devaya go-brahmana-hitaya ca / jagad-dhitaya krsnaya govindaya namo namah' Krishna as the well-wisher of cows and brahmanas.
+- Brihad-bhagavatamrta (Sanatana Goswami) — Sanatana's favorite book (which Prabhupada recommends in a Bhagavatam purport); cited for the verse that Mathura gives dharma-artha-kama to the materialistic, liberation to those wanting it, and pure devotion (Krishna's very self) to rare souls; also for the dham being an expansion of Balarama that reciprocates with one's desires.
+- Nectar of Devotion (Bhakti-rasamrta-sindhu) — where the Goswamis' and Prabhupada's teachings on rasa are given; cited for the loving propensity expanding endlessly like a beam of light and the infinite happiness of bhakti.
+- Krsna, the Supreme Personality of Godhead (Krishna book, summary of the Tenth Canto) — source of the Govardhan pastime details (Krishna glancing at the gopis, Balarama laughing, Krishna blushing); Prabhupada wrote it to give solace to devotees feeling vipralambha-bhava (separation).
+- Chaitanya-caritamrta — the pastimes of Jagadananda Pandit and Lord Chaitanya (their loving quarrels and his desire to go to Vrindavan).
+- 'rakhe krsna mare ke, mare krsna rakhe ke' — Bengali proverb: if Krishna protects you no one can kill you, if Krishna wants to kill you no one can save you.
+- Bhaktisiddhanta Sarasvati Thakura — quoted: 'the whole show is only temporary.'
+
+## Transcript
+
+I'm happy to be back at Gita Nagari, your very beautiful community here in the woods, out in the country, in the outback. I think the last time I was here was in the early 80s, or maybe even earlier than that, I don't remember. Some time after taking sannyasa, I came here. I took sannyasa in 79, so a couple of years later I came here.
+
+And of course, this beautiful temple room was not here. When did you build this beautiful building? 2000. Was it built by our own devotees?
+
+Yeah, very gorgeous. Lots of wood. I like the wooden floors, and there's lots of light here as well. And the altar is very simple but elegant.
+
+And you have lots of peacocks, and you've got very historic deities, of course. Whenever I see these deities, I always remember Vishnu John Maharaj. On my way to Europe, to London, and then on to France, Prabhupada was... We were fortunate to fly with Sri Prabhupada from New York to London, and then on to Paris.
+
+We stopped at the Henry Street Temple in New York, and Prabhupada was visiting there. And Vishnu John Maharaj was there, and he took these deities out on Harinam Sankitan in the streets of New York. I mean, we had big pelican, and there were four big muscular boys. We carried them right downtown, these deities, in their full glory, and beautiful outfits, and incense billowing nearby, and Chamara fans, and peacock fans.
+
+And Maharaj was leading this amazing kirtan, and people were just stunned, and they'd stop and look. And some people were throwing money, and, you know, like bowing their heads. Radha and Krishna were just penetrating into the darkness of ignorance of Kali Yuga. And I remember we stopped, and we had Arctic for Radha Damodar, right in the middle of downtown New York.
+
+And now they're very beautifully, very regally residing here. This evening we're reading from Bhagavad Gita, as it is, translation and commentary, by His Divine Grace, Shalaisi Bhaktivedanta Swami, Prabhupada. Chapter 4, Transcendental Knowledge. It looks like text 11.
+
+Ye yata mam prapadyante, tamstataiva vajamyam, mama vartmanu vartante, manusia partha sarva shaha. Translation, all of them, or as all surrender unto me, I reward them accordingly. Everyone follows my path, in all respects, O son of Pritha. Purport, everyone is searching for Krishna in the different aspects of his manifestations.
+
+Krishna, the Supreme Personality of Godhead, is partially realized in his impersonal brahmajyoti effulgence, and as the all-pervading super-soul dwelling within everything, including the particles of atoms. For Krishna is fully realized only by his pure devotees. Consequently, Krishna is the object of everyone's realization, and thus anyone and everyone is satisfied according to one's desire to have him. In the transcendental world, also Krishna reciprocates with his pure devotees in that transcendental attitude, just as a devotee wants him.
+
+One devotee may want Krishna as Supreme Master, another as his personal friend, another as his son, and still another as his lover. Krishna rewards all the devotees equally according to their different intensities of love for him. In the material world, the same reciprocations of feelings are there, and they are equally exchanged by the Lord with different types of worshippers. The purity devotees, both here and in the transcendental abode, associate with him in person, and are able to render personal service to the Lord, and thus derive transcendental bliss in his loving service.
+
+So, of course, this is a very well-known, famous, and often quoted verse from Bhagavad Gita, where Krishna states essentially that all of them, as they surrender to me, he rewards them accordingly. And in Prabhupada's purport, we hear how the Lord reciprocates with his devotees. Actually, one time Sr. Prabhupada said that the Lord is more eager that we come back to the spiritual world than we are to return to the spiritual world.
+
+And he's always ready, of course, to give himself fully to his devotees. Nevertheless, he states in this verse that his loving reciprocation is in proportion to our surrender. If a devotee is only 25% surrendered to Krishna, the Lord gives 25% of his love to the devotee. There's different stages of Krishna consciousness in which the Lord reciprocates proportionately.
+
+The path of devotional service is very nicely outlined in our Shastras. This is the first stage where we come into the association of the devotees by chance or good fortune, and we develop some faith in their association, meaning that we would also like to give up material life and embrace Krishna consciousness. So we begin to practice Bhajana Kriya. It means the rules and regulations.
+
+And by practicing Krishna consciousness strictly under the guidance of the spiritual master, Chaito Dharpanam Marjanam. The heart becomes clean. And in that clean heart, which is freed from all nasty desires like lust and anger and greed, the pure seed of devotion, the Bhaktilata Beej, it can grow very nicely. Just like here in Pennsylvania, as we're driving through the countryside and the way to your beautiful farm community, I notice the soil here is very rich.
+
+It's very dark and rich. And, of course, Pennsylvania is famous for its farms, for your growing. Now you're coming into the growing season. Spring has sprung.
+
+And you'll plant. And in the summer, in the autumn, you'll harvest the crops and the vegetables and the fruits like that. So it's very good soil for planting the seed and reaping the results. So when the heart is clean of all the anarthas, the unwanted things, like lust, anger and greed, then the pure seed of bhakti a seed of devotion which is eternally there in the heart of every living entity, it can begin to grow very nicely.
+
+And as we advance from śraddha to prema, from the initial stage of a little faith, some curiosity, to the stage of, O Govinda, feeling your separation, I'm considering a moment to be like 12 years or more and tears are flowing from my eyes like torrents of rain. I'm feeling all vacant in the world of your absence. Krishna reciprocates accordingly at each stage of devotion. We can't see him in the beginning.
+
+Of course, we can see him by his mercy in his archa-vigraha form. He's so kind that he appears in so-called matter. He's still Krishna. But when the senses are purified and we awaken the senses of our spiritual body, our siddha-deha, we have our original form.
+
+Then, premañjani-chirati-bhakti-valo-chanena. Then, we see Krishna, just like you see me sitting here. You can see Krishna standing before you in his tri-banga-sundhara, his three-fold bending form with his long black flowing hair, his lotus eyes, his lips red like the bimba fruit, his teeth set like rows of pearls, three lines in his neck, a little roll and his tummy, you know, a little, his deep navel, his vajayanti garland, five kinds of flowers extended down to his knees. This you see, premañjani-chirati-bhakti-valo-chanena.
+
+When the heart is completely pure and so then if you're 100% surrendered, then you can, Krishna will give himself 100% to you. If we really want 100% of Krishna's love, we have to work on giving 100% of our love to the Lord. We often hear about devotees in Bhagavatam and Chaitanya Chajamita whom the Lord reciprocates in such an intimate loving way and we think, oh, I'd also like to be like that. After the battle of Furlanca between Ravana and Ram, of course, Ram won.
+
+He killed the great Asura with an arrow through his chest He fell down dead, sent to the abode of Yamaraj. Then the Lord assembled His monkey warriors, His berry warriors, His servants, His devotees and He was so happy with Hanumanji. You know how Hanuman is such a surrendered servant of the Lord. He practically single-handedly almost rescued Sita.
+
+At least He burned down the capital city of Lanka and fought the soldiers and chastised Ravana. Ram's going to come, he said, and rescue his beloved consort. So he sacrificed so much that at the end of the battle Ram called him forward and said, Hanuman, what can I give you in reciprocation for all the service you've done? And Hanuman has that Dhasya relationship because Ayodja is in Vaikuntha so the Muddha Vaikuntha is a little different than Guloka, the topmost planet, Rindavan.
+
+It's Aishvarya Bhav, a Muddavan reverence. So Hanuman has that type of relationship. So he said, Lord, could you give me a hug? This is all he wanted, a hug.
+
+And that hug, Vaishnava would consider that hug of the Lord more valuable than all the opulence of the three worlds put together. You put all the opulence, Bhur, Bhuvah, Shvah, of this material creation on one side of the scale and you put a hug of the Lord, an embrace of the Lord on the other side and it will far outweigh all the value of that opulence. And it's a famous picture. God, in the West they think, God is all great, he's all powerful, he's there for judgment day.
+
+But in our Gaudiya Vaishnava understanding, he reciprocates in an intimate, loving way. So that dasya, sometimes the master puts his hand on the head of the servant or maybe he'll reward him, he'll even embrace him. Hanuman, oh I'd like to be like Hanuman. Then you have to be surrendered as Hanuman.
+
+It's nothing sentimental. This is real devotion and you have to work on it. The Brahma Samhita says we make advancement in small increments. That means like little steps, little steps forward.
+
+It's a long process. what about when Krishna came and he wanted some fruits from the lady who her fruit basket was in Vrindavan. So he came and she said you're so cute. You're such a darling.
+
+You're so enchanting. You take whatever you want. So to reciprocate with her offering, Krishna turned all the fruits into jewels. How much money do you make by selling fruits on the street corner in any village in India?
+
+You few pais. But when she looked down after making that offering to Krishna her whole fruit basket was full of jewels. Oh, I'd like to be that type of devotee Krishna would receive. Or the coward boys, they were rescued from the belly of Agasura.
+
+His belly was very smelly. When he would breathe Agasura his breath smelled like fish. Old fish. He didn't chew any gum to make his breath fresh.
+
+He breathed Agasura. He'd knock you over. You'd go unconscious. And the cowherd boys, they went into the belly of Agasura and they were playing in his tummy.
+
+And he was about to like just gobble them up. Finished. But Krishna, what did he do? He jumped into the belly of Agasura and he expanded himself like a balloon.
+
+And Agasura got so big he popped. No more Agasura. Oh, I'd like Krishna to rescue me. Rake Krishna Madhike Madhikrishna Rakike.
+
+If you're fully surrendered atma di vedanam the culmination of the nine processes of devotional service. Krishna wants to save you, no one can kill you. And if Krishna wants to kill you, no one can save you. This is a level of very full surrender.
+
+So if we want that type of attention, we have to have the same love as Hanuman, the same love as the lady with the fruits, the same love as the cowherd boy, the same love as the gopis. And when we're fully surrendered, then we can have that relationship with Krishna. Not once, but every day. For what?
+
+For eternity. And actually that's the case in Vrindavan. Every devotee has an eternal, intimate, loving relationship with Krishna, day in and day out, for now through eternity. That's rasa.
+
+Rasa means loving exchanges. And there's different places where Krishna reciprocates with his devotees in different moods. He doesn't mix it all up. In the village of Vrindavan, that's where he associates with his parents, Nanda and Yashoda.
+
+And elderly gopis, because that Vatsalya Ras, it means that you want Krishna as your child, but of course, we can't become Mother Yashoda, Nanda Baba. But the elderly gopis, they have that same mood of Krishna. They want to nurse Krishna or babysit, take care of Krishna. Like that's an affection worth for children like that, Krishna as the child.
+
+So that all takes place in the village of Vrindavan. And then the cowherd boys, they have a relationship, a friendship with Krishna. So that takes place not in Vrindavan, but you know, boys will be boys, frogs and snails and puppy dog tails, right? Girls are sugar and spice and everything nice, but frogs and snails and puppy dog tails.
+
+That's out in the country like your little boys when they want to play. They go in the forest. They don't stay home. Now they do.
+
+They play video games, but that's all artificial. The kids, boys, you let them go in the forest and play by them. So that's where Krishna associates with the cowherd boys. And the cowherd girls, well, they have some special meeting places with Krishna.
+
+It's all kind of arranged by the elderly cowherd boys. They're like clued into these things. So, you know, Krishna, he'll meet with Radharani at Tirkodamba. That's with the Ghoshal of Nanda Maharaja.
+
+That's their first meeting place. After she comes back cooking for Krishna at Nandagram, she's going back to Yavat. So she meets Krishna there. It's kind of on the side of the forest.
+
+And then at noontime, Krishna sneaks away from the forest with the cowherd boys and he goes to meet Radharani at Radhakund. And then in the evening they meet at Vrindhakund. So it's not all mixed up. There's different, because the mood is different and the places are not mixed like that.
+
+And when Krishna goes to the forest with the cowherd boys, all the residents of the village, elderly cowherd men, women, they're feeling so much separation. It's like one moment away from Krishna is like 12 years. That's how intense the love is. Because the love is so intense, the separation is equal.
+
+If you're very attached to something and you lose it, then your feeling of separation is equal to your attachment of that object. So you just imagine the residents of Vrindavan, they love Krishna more than anyone's ever been loved before. And if they lose his association even for a moment, he's just going out to herd the cows, they all fall apart. They cry all day.
+
+And when Krishna comes home from the forest in the evening, that's the festival of Vrhaj. It says in Brahma Samhita that in Vrindavan, every step is a dance, every word is a song, and there's a festival every day. What is the festival? The festival is when Krishna comes back from herding the cows.
+
+All the residents of Vrindavan, they go to the edge of the village to receive him. The whole town, whatever they're doing, they stop and they go to the edge just like you greeted me when I came. We all came in the temple room. Every day they greet Krishna.
+
+So nice Vrindavan. the mood of Sambhog, which means union, and Vipalamba, bhav, separation. Just Sambhog, Vipalamba. This is like it's just diving and surfing in the nectar of the ocean of devotion.
+
+Like that. So, and because, again, because the moods are different, the places are different. You can't mix the moods so much. Like when Prabhupada came to Paris one time, we had our altar set up and we had, what do we have?
+
+We had Jagannath and Subhadra and Balaram, then we had Radha and Krishna. So Balaram was near Radha. Like that. Prabhupada came in, he saw the arrangement, he became very angry.
+
+He said, why is there no separation between Radha Rani and Balaram? Radha Rani would become very embarrassed because she's associating with the younger brother and the older brother is there, so she's feeling very uncomfortable. And we were like, you know, all new devotees is completely bewildering, like what's Prabhupada talking about? But he was talking about the deeper humor, the deeper rasa of Krishna consciousness.
+
+These are the intricacies of these are the things that we want to come to study one day. The Goswamis have given these teachings, and Prabhupada has given it there also, nectar of devotion. He said, you can't have Balaram and Radharani so close together. It's not proper.
+
+He's the elder brother and she's very close to the younger brother, so there has to be some separation. So the next morning we put up this like sliding bamboo, like a division. And Prabhupada said, that's very good. And to this day there's still a barrier between Balaram and Radharani.
+
+So you can't mix the moods. In Chaitanya leaders, there's another instructive pastime in that way that you know Jagadhananda Pandit, there's some very nice pastimes between Jagadhananda Pandit and Lord Chaitanya and Chaitanya Tarajamita. And Jagadhananda Pandit, he kind of argues with Lord Chaitanya, they have kind of like a little spat and then he pouts and he goes away and Lord Chaitanya says, I'm sorry and then he asks Jagadhananda Pandit to cook again. So Jagadhananda Pandit in Chaitanya Leela, in Krishna Leela, he's a Satya Bama, one of the chief queens in Dwarca.
+
+So that mood is very, you know, the husband and wife, you know, henpecked husband and little spats and things like that. So that mood is carried over in Gura Leela. As Jagadhananda Pandit, he has the same mood with Krishna but with Lord Chaitanya. And they argue and he pouts and Mahaprabhu comes and I'm sorry, you know, cook and like that.
+
+So one time, Jagadhananda Pandit, he was just so frustrated, he just wanted to get away from Puri. So he said, I want to go to Vrindavan. And Mahaprabhu refused. You cannot, you'll not understand the mood of the Vrajabhasis because the mood of Dwaraka, where Satyabham is, and the mood of Vrindavan, where the gopis are, it's very much different.
+
+There's the queens, and it's kind of a formal relationship with the husband, and in Vrindavan you have the gopis, and it's very intimate and loving, paramour, it's a whole different thing. Lord Chaitanya said, no, I don't think you should go to Vrindavan, you won't fit in there. No, I want to go, I want to go. So finally after he insisted a long time, then Lord Chaitanya said, oh, you can go, he said, but don't associate too intimately with the Vrajabhasis because you'll misunderstand them and you may make offenses.
+
+You just associate with Sanatanga Swami, he'll take care of you. So Jagadana the pundit went to Vrindavan because it's cooler and he spent the whole time there with Sanatanga Swami and Sanatanga Swami didn't let him associate with all the devotees. A place for everything, everything in its place. So there's these different moods in different places.
+
+But there are some times when everyone gets together under one roof. There are some special moments like that. For example, like during Govardhan Leela, when Krishna lifted the Govardhan Hill, he did that to protect the inhabitants of Vrindavan and he wanted to diminish the pride of Indra. By doing one thing, the Lord does many things.
+
+But perhaps for the Brajabhasis or the followers of the residents of Vrindavan, which we're actually meant to be because we're followers of Lord Chaitanya, that's his mood. This past time of Govardhan Hill, it gave the opportunity for everyone, irregardless of their mood or their place of associating with Krishna, the village, the pasture, the kunda. It gave them an opportunity to all come together under one roof for seven days. They were all packed up tight.
+
+Like sometimes in our temples, the Brahmacharya ashram, all the Brahmacharya or one, two, three, one, packed up tight, Prabhupada would say. So in Vrindavan, this is why this Govardhan Lila, another very special quality of Govardhan Lila, is that everybody is like all together and all the moods are there. It's like just a pot of just boiling the nectar in all these various moods for seven days. Vishenov Chagavati Thakur, he comments that the gopis, they were especially pleased because it was the first time these young girls were able to be so close to Krishna.
+
+Previous to the lifting of Govardhan Hill, their mood was what Goswami described as purvarag. Purvarag means the pastimes building up to the meeting. You know, Krishna's a boy and there are girls and neither of them are married yet. And in Vedic culture, boys and girls just didn't associate.
+
+Even today, at least in South India, you see on the way to school, there's all the girls on one side and all the boys. Now in Bombay, it's different because of Bollywood. It's very unfortunate. There was no mixing.
+
+So it was in Vrindavan, it was like that. So the little girls, you know, they're all like 12, 13, like that 14 maximum. So, but, you know, there's this deep, loving sentiments between Krishna and the gopis. So the pastimes, there would be like side-long glances.
+
+Krishna would come back from the forest on the way to Nanda, just out of his house and then he'd see the gopis and the gopis would look at him like that. And there would be smiles and sometimes there would be letters passed between the two by either the gopis or even some of the elderly cowherd boys like that. So that's Purvarag. But when the Govardhan hill was there, they were all very close, packed up tight.
+
+And Krishna was like looking at his beloved gopis. and it mentions in Krishna book that he was looking at the breasts of the gopis and Balaram saw Krishna glancing like that. Actually, Balaram was laughing, actually, that the cowherd boys were holding up, the elderly men were holding up the hill with their sticks like that. And he was laughing.
+
+He was thinking, these cowherd men think they're holding up the hill? Krishna's the supreme personality of God. And he was laughing. But Krishna thought, oh, he's laughing at me because I'm staring at the gopis.
+
+And he blushed. This is right out of Krishna book. These are a little confidential, but Prabhupada did write that in the Krishna book. And if you get these things in small doses, it's okay, because we're not so pure yet that we can go very deep into the subject matter.
+
+But we should know the siddhanta and we should know some of the past times. And Prabhupada actually says that hearing these things in a regulated way under the guidance of the spiritual master, he said even hearing these loving pastimes, this decreases material lust in the heart. It doesn't have the opposite effect. By hearing the rasa dance, for example, as explained by Prabhupada and the effect is that the lust in your heart decreases.
+
+So someone asked the question one time, how did everyone fit under the hill? Because Vrindavan, there's so many devotees, how did they all fit? Well, Vishenav Thakavati said that the answer is that Govardhan Hill felt so much ecstasy being held up by Krishna, as well as serving the Lord's devotees, that he expanded in size. Anyway, so Krishna will reciprocate with us however we want within those five rasas of devotional service.
+
+And, you know, there's neutrality, there's servitorship, there's friendship, there's parentalhood, and there's the Madhurya ras. There's different rasas, and of course we know that the gopis, that's the highest, but we should never think that any devotee's love for Krishna is anything inferior. All the rasas, the relationship with Krishna make him very happy, just like you may have a very lovable wife, but what would life be without your loving parents being part of your life, your loving children, your friends? It's a complete picture.
+
+So it's true that the gopis love is, but it's not that the cowherd boys and the elderly gopis, and the cows, trees are any less dear to Krishna. And certainly the devotees, they wouldn't change their relationship with Krishna for anything. Those cowherd boys would never become girls. Oh, those girls.
+
+The cowherd boys would never become girls. That's how they're thinking. So it's all perfect and complete. It's the spice.
+
+Variety is the spice of life. And anyone, Prabhupada said one time, anyone who thinks the love of Mother Yashoda is inferior to the love of Radharani, he's an apparati. And in the Brihat Bhagavatam Rita, which is a very important book, all devotees should study this book very carefully. Prabhupada mentions that in Bhagavatam.
+
+And the BBT, a couple of years ago, they came out with Brihat Bhagavatam Rita, which is an in-depth study of the science of Krishna consciousness, the loving mellows of Krishna consciousness. It was the first book written by the Goswamis. Shranatham Goswami, that was his favorite book. And he wrote Tikha, he wrote a commentary on the verses that he wrote.
+
+He wrote the book, then he wrote a purport. And he was very attached to the Bhagavatam. When he was a boy, I think seven years old, he had a dream that someone came to the door, a brahmana, and gave him a Bhagavatam. Shrima Bhagavatam.
+
+And he woke up from his dream in the morning and he heard a knock on the door and he went to the door and there was a brahmana with a Bhagavatam. His dream came true. When you wish upon a star, it makes no difference who you are. This is the real star of good fortune, Krishna consciousness.
+
+He got the Bhagavatam. So attached to that book. And even when he was the prime minister in the government of Hussein Shah, then he quit and he went to stay at his house. What did he do?
+
+He studied Bhagavatam with a council of brahmanas. We should also study the Bhagavatam. this is the nectar. And the essence of that nectar is given in Brihat Bhagavatam Rita.
+
+It's three volumes. We should know it backwards and forwards. And there it's described the nature of Mother Yashoda's love. It says Nemam Virincho Dhabhavo Nashir Apyanga Samshraya Pasharam Lebire Gopi Yatat Prapya Vimuktitat Neither Lord Brahma nor Lord Shiva nor even the goddess of fortune who is always the better half of the Supreme Lord can obtain from the Supreme Personality of Godhead the Deliverer from this material world such mercy as received by Mother Yashoda.
+
+Just an exalted devotee. So anyway in conclusion however we surrender to Krishna he will reciprocate accordingly. Of course it's not like you just decide well I think I'd like to be a cow. No I'd like to be a cow hard boy.
+
+It's not like that. The loving mellow that we have is eternally there within our hearts. It's not something new that you get from outside or you obtain your loving sentiments for Krishna which will be naturally aroused at some later stage in Krishna it's already decided. It's already decided.
+
+And at a very advanced stage you'll be attracted to a particular resident Vrindavan and want to follow in their footsteps under the guidance of your spiritual master. And the Lord will naturally reciprocate. that's true even with his abodes. As you surrender to his abode like Vrindavan or Mayapur or Puri how you surrender to that abode that abode which is not different than him it will reciprocate accordingly with you.
+
+Actually the abode of the Lord is an expansion of Balaram Balaram serves the Lord in many ways. He expands as his bed as his shoes as his slippers as his sitting place as the dom the dom is actually an expansion of Balaram to facilitate his little brother's pastimes. So it's non-different than God it's quite esoteric but there it is. And the dom reciprocates with your desires as well.
+
+That's also in the Brihad Bhagavatam Rita. Very beautiful verse. To those who have material desires Mithura gives the three aims of human work. Religiosity economic development and sense gratification.
+
+To those who want liberation Mithura grants liberation. And to those rare souls who want pure devotion Mithura gives pure devotion. What intelligent person therefore would not take shelter of Mithura? Whatever you want Mithura will give you.
+
+Even if you're so foolish as to want material sense gratification Mithura will deliver it. And you get tired of it and you'll ask for something better like Dhruva. If you want liberation and to those rare souls who know the priceless jewel of Bhakti of giving everything to Krishna Krishna gives his very self. Like Prabhupada said one time in class.
+
+This movement is so nice. We're giving Krishna. He said, here's Krishna. Take him.
+
+He who cannot be achieved for lifetimes of penance and austerities by mystic powers, by knowledge. By Bhakti he's given by his devotee. Here he is taken. Bhakti is so wonderful.
+
+And Krishna is able to reciprocate with everyone's love. This is God. In the material world a man can reciprocate with the love of his immediate family or maybe the people of his village or maybe he's a humanitarian and he can help people all over the world. But he can't help people all over the universe, all over the cosmos in both the material and spiritual world.
+
+But Krishna can reciprocate with the loving sentiments of every single living entity to their full satisfaction. Santushti. Santushti means when you're fully satisfied. Or like savai pumsam padad dharmo yata bhaktur dhogsaji haitakriya pratiyata yayatmashu prasiddhiti.
+
+Yayatmashu prasiddhiti means that through bhakti unmotivated uninterrupted service. Ah. You have no associatina conscience. No hankering lamenting.
+
+Sir, I am satisfied. I have nothing more to desire. So when death comes, all right, let's go. No problem.
+
+Let's go. I have no desires left in this world. I'm ready to go. Let's get out of here.
+
+Let's get out. Let's leave this place. So nice. Krishna consciousness.
+
+Oh, in due course of time, all your desires, you don't even know what you want, actually. We're so fallen, we don't even know what we want. We have to ask the spiritual master, like, what do I really want? You want Krishna?
+
+I do? Yes. In the material world, one's desires may or may not be fulfilled. It's risky business.
+
+We have so many desires, certainly not all your desires are going to be fulfilled. Some, yes, and most not. But if you cultivate Krishna consciousness, every desire you have in relation to Krishna, and there's desire trees all over the place. Desire tree means a tree, you can ask anything from that tree to serve Krishna.
+
+If it gives fruits, it'll also give vegetables, it'll also give wood for the sacrifice, it'll also give a turban. It's a desire tree. Whatever you need, don't have to waste time working to get it and then give it. You go, tree, I want a golden spoon.
+
+I want some cure. I want a nice turban. Now go and serve Krishna. It doesn't matter if you're a gopi, you're a cowherd boy, a tree, a cow, you are happy.
+
+Just consider how happy are the cows. Here you have cows. We saw your cows. They look like really old cows.
+
+They look like our generation. The Prabhupada disciples, we're like old cows and bulls now. They're going to put us out to pasture pretty soon. Just consider there are cows in the spiritual world.
+
+How much Krishna loves those cows? Namo Brahman Devaya Go Brahman Hittaya Chah Jagad Hittaya Krishnaya Go Vindaya Namo Namaha He loves cows and Brahmanas because Brahmanas are preaching the absolute truth and cows are giving milk and for milk you get yogurt, ghee, butter and ice cream. And when it comes time to go to the forest, Krishna doesn't go with the Brahmins, he goes with the cows. So he spends most of the day with the cows.
+
+And here you have some of those cows. These cows that you have here, Prabhupada said, they're cousins. Cousins are quite close, kissing cousins. These cows that you have here are more dear to Krishna than his very life.
+
+So if you take care of these cows, you're pleasing Krishna. Love me, love my dog. If all you do is just make sure these cows are getting enough to eat and they're well brushed and they're happy and they're warm and they're cool in the summer, that's all you have to do because he loves them so much. Oh, they're old cows.
+
+family. These cows are very important. We shouldn't think of them in a mundane way. Vishenav Thakravati Thakari says that these cows in Krishna's galoka pastimes they come from two categories.
+
+They're nitya siddha associates. They never left the spiritual world. Or they're sadhan siddha. They're those who achieve final perfection by sadhan bhakti like we're doing every day following rules regulations standing high so same with devotees.
+
+Then when you're perfected moo. Yeah. And about these cows whether they're nitya siddhas or sadhan siddhas Vishenav Thakravati Thakuri speaks so nicely about them in his books. He said they are like chintamini jewels that fulfill any desire.
+
+Their mooing is the most beautiful poetry. Their happy calves are like pleasant summers. They always lift their ears to hear Krishna's flute. As they wander the earth they resemble the bubbles of the milk ocean, the chuckles of Lord Shiva, and the infant children of moonlight.
+
+Nanda Maharaj, Nanda Bhavaji, he has 900,000 cows, and they are divided into 108 groups. And there are four main colors, white, red, black, and yellow. And you mix the colors, oh, you get some very interesting cows. And Krishna knows the name of each and every one of those 900,000 cows at Terakadamba.
+
+That's the Gosha of Nanda Bala. And he can produce the names of those cows from his flute. When he plays his flute, the name of the cow. He climbs the Kadamba tree at the end of the day, and he sits there and he plays the flute, and he has a string of pearls, and as each cow comes in, he pulls down a pearl like that.
+
+So 900,000, he finishes rounds. And he just says their horns are decorated with gold, their hooves are decorated with sapphires, their tails are decorated with peacock feathers, or it says sometimes bunches of pearls, and they wear necklaces of Navaratna, the nine stones like we use for astrology, or crowned jewels between their horns. And the cows that accompany Krishna to the forest, they're personally picked by him. You, you, and you, and you.
+
+So aware of their good fortune, when they go to the forest with Krishna every morning, they walk with their heads up. And their tails are erect, and they're smiling in all directions, and they cast happy glances at everyone they see. They're fully enlightened saints. As demonstrated by the fact that when Krishna takes a nap in the afternoon with his friends, everything becomes very quiet as the cows guard their beloved Krishna until he awakes.
+
+They form a circle around him and they're very quiet. No munching grass, no mooing, just Krishna is sleeping. And Krishna wakes up, moo! There's a symphony of moos, which is as beautiful as any orchestra you've ever heard.
+
+So Krishna loves these cows. They're a very intricate part of his pastimes. His love for them is always increasing. And their love for him is always increasing.
+
+This we cannot understand. It's called ananda bhudi bharavanam, the ever increasing bliss of devotional service to the Lord. And in Nektar Voshen Prabhupada says, that is spiritual life, Krishna consciousness. He said, loving propensity expands like a beam of light.
+
+My father taught me that when I was a boy. He took me out one day and he said, son, you shine this light into the sky, the dark sky with the stars. Now that light's going to go on forever. What will stop it?
+
+It may hit an object and bounce off and it goes in a different direction. It doesn't fade away. That's a material analogy. So love of the Lord is that in a true principle.
+
+It's always going and it's always expanding. Kind of difficult for us to understand. Prabhupada said, it is impossible for us to understand the infinite happiness relished in bhakti because it is beyond the realm of anything we can experience in our finite existence. In the material world, love, if you want to call it that, it has a very short life expectancy.
+
+You look sometimes at the hand. So this is the heart and this is the head line. I'm looking at right hand for boys, left hand for girls. And this is life line.
+
+See my life line? It's getting shorter. My life line's about 71 or 72, maybe. Padam Padam Yat Vipadam Natesham.
+
+Like that. So, but if you see someone, sometimes you see the lines broken off here, then you don't say anything to that person. I saw some children the other day, and I look at their hands, and one line's broken at about 15 years, I didn't say anything. I said, oh no, very nice, hard, very smart.
+
+What about that line? I said, oh, your hand's dirty, I can't see it. Astrology doesn't tell like that. So, sometimes there's very short life expectancy.
+
+So, love in this world, as dear as it is to the heart, has a very short life expectancy, as evidenced by the fact that three out of four marriages end in divorce in this country. Because the love is very superficial, it's just, you know, based on the skin love, the body love, they don't know the soul. Different in Krishna consciousness, you can really love your partner, you can have a deep friendship, let us say, with your partner. But, in the end, love is finished by death here.
+
+But there's no such thing as perfect love in this world. But in the love of the residents for Vrindavan, because there's no birth, there's no disease, there's no old age, there's no death, they're conspicuous by their absence in the spiritual world, the loving relationship goes on and on and on ad infinitum. So that's the love we're looking for. Love is the essence of everything.
+
+If you have everything but you don't have love, you're sad. If you have love, you have someone to love and you're poor, you can still be relatively happy. What to speak if you have Krishna's love and he can fully satisfy your desire to love him. Just like he can fully satisfy everyone else.
+
+And if we don't have Krishna, what do we do? We try to replace that love in the material world with something else, a person or an object. But really, it never really satisfies you because once having experienced the real thing, you can never be happy with the imitation. Like if you know this Pierre Cardin, it's French, it's the French clothing line, Pierre Cardin, then you have this Pierre Cardin and you go to some other place and they have some cheap imitation.
+
+You buy it because you're on vacation. This is compared to my Pierre Cardin. So once you've had that love with Krishna, which we once had, and you come to this material world, I don't care how beautiful she is or how handsome he is, it's all temporary. As Bhaktis Adana Sarasvati said, the whole show is only temporary.
+
+The beauty fades, the beauty of the flower wilts by the evening time, and the beauty of our youth goes away and you're looking in the mirror at this sad, old face, what have. If you're on the body, if you're Krishna conscious, hey, good, now I don't have to worry about this body anymore, no one's going to look at me, I don't have to look at anybody else, just Krishna, Krishna, Krishna. Old age is such a nice thing in Krishna consciousness. So we need love, so if we don't have Krishna, then we replace it with something, you know, we adopt something in this world.
+
+I saw, I often mention, and I used to say that in Vrindava one time I saw a monkey, and obviously she didn't have any baby monkeys, maybe she couldn't conceive or whatever. So there were some baby puppies, just little baby puppies, just born. And steal a puppy from the mother, there were six or seven puppies, and she took that puppy back in the tree, and I was living nearby. For three days she tried to nurse the puppy, and I guess it worked a little bit, but she was kind of ostracized by the other monkeys, because it was too weird.
+
+So eventually she tried her best to love that she became a surgot mother, but it was artificial. And eventually she dropped the puppy back on the ground. The puppy scampered back to its mother, but I think the mother rejected it. So like that, we try to have a surgot lover in this world, and we think it's all perfect, it's going to work out, but what we're really looking for is Krishna.
+
+Krishna's the supreme lover, and he's waiting for us to love him in any of those ways that we want, even as the cows. So that will come one day, following in Prabhupada's footsteps. You'll never be disappointed. And I've said this a few times the last few days, one of my god sisters said, is it really true, Prabhupada, that Krishna, his past times, Vindavan, sounds so extraordinary, that God's a cowherd boy, and he dances with the coward girls, and he kills big snake demons, and his brother throws asses into the trees, and frolics all day, and is it really true?
+
+And Prabhupada became very moved, and he quiet, and he said, do you think that I would shoot you? So all this nectar is waiting for us. All this nectar is being revealed. That's why Prabhupada took the time to translate the Krishna book, the summary of the tenth canto.
+
+Everything's there. He said, one day, this Krishna book will give solace to my devotees who are feeling vipralamba bhava. Right there, he says in the Krishna book, my devotees who are feeling separation, this Krishna book will give them some solace in their separation. So this is all waiting for the sincere followers of Sri Prabhupada and Lord Chaitanya.
+
+And I hope here that in this beautiful pastoral ground, like Vrindavan and your peacocks are making so much noise I can't concentrate on my talk. But in this beautiful country setting with Radha Dhamadhar, Radha Dhamadhar, those are the deities of Jeev Goswami. And the original Dhamadhar is only this big. He was hand-carved by Rupa Goswami as a gift to his nephew Jeeva.
+
+He's a little, like this, little Dhamadhar. He's a little deity. And now he's residing in Jaipur. And you go to Radha Dhamadhar temple in Jaipur and you can see this hand-carved deity Rupa Goswami.
+
+That was the deity to whom Jeeva Goswami prandanahe dayaradha damodhararadha damodhararadhe Jeeva Goswami prandanahe prandanahe means that that deity is the life and soul of that Jeeva Goswami, that devotee. So you also make Radha Dhamadhar prandanahe, lord of your life, the substance of your life, his service with his beloved consort Srimati Radharani and easily you can go back to Godhead. You don't need to live in these Kali Yuga cities. You take care of Krishna's cows, you take care of Krishna, you bathe, just like Mother Yashoda, you wake him up in the morning, you bathe him, you dress him, you feed him, little boy, you go out and you herd his cows, you grow the fruits and grains for him, and you do all these things just like they do in the spiritual world.
+
+This is a good place to practice Saddam Bhakti. Saddam Bhakti means devotional service and preparation. You're preparing yourself to go back home, back to Godhead, and you have everything necessary for doing it. I can see there's not a lot of devotees living here, and I've heard there's been some rough times, but, you know, it's a rough deal in this world, but, you know, those problems are small compared to the great opportunities you have here, living in the personal association of God and His eternal consort, deities whom His Divine Grace Shiddhartha Prabhupada saw and loved and worshipped and were so much part of the history of this movement.
+
+Now you have a beautiful temple room. This is one of the most beautiful temple rooms I've seen in Iskhan, actually. It's simple, but very elegant at the same time, and perfectly appropriate for a country ashram, lots of wood, and so forth. And, you know, it's not one of those big silver thrones, Shrinkasans like we see, but it's like Vrindavan.
+
+In Vrindavan, everything is very simple, but the most important element is bhakti. So learn to love these devotees, these deities and these devotees, these brajbhasis who live here with your heart and soul, and you have every chance to go back home, back to Godhead in this lifetime. I thank all of you very much. I can't stay long.
+
+I've got a very early flight tomorrow morning at 6 o'clock, and they have a room for me in Harrisburg. I had to be at the airport at 4. We had to get up at 2. So you know this is the life of a traveling preacher.
+
+I can't stay very long, but I have enjoyed this brief association, momentary association of all of you, and I consider this a high point on my trip in America to see Shishirada Damodar. They're beautifully golden-like forms. They're brass didis, but they look like gold. So this is a high point, and they say that this is actually my last stop in America.
+
+This is my last talk. I'm moving on now to going to Europe, a tour of England, and there's a saying that you should always finish everything on a high note. So this is definitely taking darshan of your deities and seeing your beautiful community and all these wonderful devotees. This is definitely a high note and something that I will remember for a long time after leaving this country of America and traveling to different parts of the world.
+
+So with that we will conclude and move on to another destination. Thank you so much. All glories to Srila Prabhupada, Shishirada and Dhamadaraki. Hare Krishna.
+
+Thank you.
+

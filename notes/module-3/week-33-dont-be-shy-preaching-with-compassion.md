@@ -1,0 +1,289 @@
+---
+title: "Don't Be Shy (Preaching with Compassion)"
+speaker: Indradyumna Swami
+week: 33
+module: "Module 3"
+category: "Foundations in Bhakti"
+source: "ISKCON Desire Tree"
+source_url: "https://narottam.com/2007/10/don-t-be-shy/"
+audio_url: "https://narottam.com/podpress_trac/web/155/0/Indradyumna-Swami-MOS_2007.Sep.23-SB.7.9.44-Go-out-and-preach.mp3"
+duration: "1:26:28"
+language: "en"
+words: 6850
+transcribed_with: whisper.cpp large-v3-turbo
+---
+
+# Don't Be Shy (Preaching with Compassion)
+
+**His Holiness Indradyumna Swami** · Week 33 · Foundations in Bhakti · 1:26:28
+
+## Summary
+
+Speaking on Srimad Bhagavatam 7.9.44, Indradyumna Swami expounds Prahlada Maharaja's prayer that he does not wish to be liberated alone, leaving aside the 'poor fools and rascals,' but wants to bring everyone back to the shelter of the Lord's lotus feet. He praises Prahlada as everyone's hero because he perfected Krishna consciousness as a small boy, and warns that success in bhakti is difficult and time is short: using the image of a swimmer checking a lap-card mid-race, he asks how far along the path of sadhana-bhakti each of us really is after 20, 30, or 50 years. Rather than becoming less active with age, devotees should 'turn up the fire' like a cook rushing a slow preparation, chanting and studying more, not less. Maharaja teaches that natural compassion for the suffering, ignorant living entities is a key symptom of advancement, illustrating it with Prabhupada's analogy of a once-poor man who, on becoming wealthy, freely helps others in poverty because he remembers his own destitution. Because every soul was destitute in material existence, every Vaishnava should feel that same bleeding-hearted compassion and share the wealth of the holy name. He insists no one should be shy about preaching, since qualification comes through the act of preaching itself, and that even hearing this class, cooking cookies for the deity, or simply going out so that others can render one small service (aghatana-ghatana / sukriti) is itself preaching. He cites the movement's growing acceptance by world leaders and closes with a long story from his youth of book distribution on the Champs-Elysees in Paris, where he was chased, arrested, and then quietly freed by a police chief who turned out to have earlier bought a Bhagavad-gita from him door to door and was reading it with appreciation.
+
+## Key Points
+
+- Prahlada Maharaja's prayer (SB 7.9.44): unlike saints who seek only their own liberation in the Himalayas or forest, he refuses to be delivered alone and wants to bring all 'fools and rascals' back to Krishna's lotus feet — the model of compassionate preaching.
+- Success in Krishna consciousness is rare and hard; a Gaudiya saying frames the path as one lifetime in sadhana, then raganuga, then prema — so devotees must honestly gauge their progress. Swimming-race analogy: like checking a lap-card mid-race, ask 'How far am I?' after 20–50 years of practice.
+- At initiation there is a 'transcendental contract' — the disciple vows to follow the four regulative principles, chant 16 rounds, study, and serve; the guru's 'burden of love' is to deliver the disciple back to Godhead. Prabhupada told a disciple not to wish to return birth after birth: Kali-yuga's material world is 'a very nasty place.'
+- Hearing (sravanam) is itself potent devotional service, not mere preparation — Prahlada performed it in the womb; Bhaktisiddhanta accepted Prabhupada because 'he hears nicely.' Transcendental sound (shabda-brahma) works like medicine, purifying even without present taste (ruchi).
+- Compassion is a symptom of advancement (alongside freedom from anarthas and awakening love of God). Prabhupada's analogy: a formerly poor man who becomes wealthy naturally gives to the destitute — and since every soul was destitute in matter, every Vaishnava should have a 'bleeding heart.'
+- Don't be shy about preaching — qualification comes by preaching, not before it (temple president's reply: 'that's how you become advanced, by preaching'); as with taking prasadam or doing business, one should not hold back. 'Look in the mirror — you're the result of someone's attempt to share their good fortune.'
+- Everyone can preach: a grandmother baking offered cookies for neighborhood children, or simply going out so others perform a small service and gain unknowing spiritual credit (sukriti). Analogies: material life as ice cream eaten under a razor-sharp axe on a thin string; water dripping wears a hole through rock. Illustrated by the Paris Champs-Elysees book-distribution story ending with the police chief who had bought and was reading a Bhagavad-gita.
+
+## Scriptural References
+
+- Srimad Bhagavatam 7.9.44 — the verse under discussion; Prahlada Maharaja's prayer that he will not accept liberation alone but wishes to deliver the 'poor fools and rascals' back to the Lord's lotus feet.
+- Bhagavad-gita 7.14 — 'daivi hy esa gunamayi mama maya duratyaya'; the divine energy of the three modes is very difficult to overcome (paraphrased as Krishna analyzing 'our opposition,' maya).
+- Bhagavad-gita 7.19 — 'bahunam janmanam ante'; after many births one in full knowledge surrenders fully to Krishna.
+- Bhagavad-gita 9.22 — 'yoga-kshemam vahamy aham'; for His devotee the Lord carries what he lacks and preserves what he has.
+- Bhagavad-gita — 'tac chrinu / tat srinu' (rendered 'listen, I am speaking to you'), cited as Krishna urging Arjuna to hear; likely BG 7.1 ('...tac chrinu').
+- Srimad Bhagavatam 7.5.23–24 — the nine processes of devotional service (navadha-bhakti): 'sravanam kirtanam vishnoh smaranam pada-sevanam / archanam vandanam dasyam sakhyam atma-nivedanam'; noted that Prahlada performed sravanam in the womb.
+- Bhaktisiddhanta Saraswati Thakura's essay 'Vaishnava Ke? (What Kind of Vaishnava Are You?)' — distinguishing beginner, intermediate, and advanced Vaishnavas; and his statement that Krishna consciousness will be successful when the judges in the high courts wear Vaishnava tilaka.
+- Narottama Dasa Thakura — quoted phrase, 'here I am in the middle of a holocaust trying to enjoy myself,' on the folly of seeking material happiness.
+- Ecclesiastes (Bible) — 'a time to be born, a time to die, a time to laugh, a time to cry' (spoken as 'a time and a place for everything'), on age-appropriate activity.
+
+## Transcript
+
+My dear Lord Nishvigadeva, I see that there are many saintly persons indeed, but they are interested only in their own deliverance. Not caring for big cities and towns, they go to the Himalayas or the forest to meditate with vows of silence. They are not interested in delivering others. As for me, however, I do not wish to be liberated alone, leaving aside all these poor fools and rascals.
+
+I know that without Krishna consciousness, without taking shelter if you load his feet, one cannot be happy. Therefore, I wish to bring them back to the shelter of your lotus feet. Vrlada Maharaj is one of our, or everyone's hero in Krishna consciousness, because he was successful in Krishna consciousness. Not only successful, but he was glorious in his devotional service to his spiritual master and Krishna.
+
+A devotee doesn't just want to be successful in Krishna consciousness and graduate from this mature world and go back home, back to Godhead. The real essence of a devotee's heart is to always be glorifying Guru and Ghoranga, to praise the glories of his spiritual master and the predecessor Acharyas and to always be glorifying and advertising widely, publicly, on a worldwide scale, the glories of Sisi Radha and Krishna. So Paldama is our hero in that sense, that he was successful himself in Krishna consciousness. We shouldn't take that lightly.
+
+Frankly, it's not easy to be successful in Krishna consciousness. Krishna states, he analyzes our, quote, unquote, our opposition, the Maya. He says, that this divine energy of mind consisting of the three modes of material nature is very difficult to overcome. And elsewhere he says, He says, After many, many births, one who is in full knowledge surrenders, full surrender to me.
+
+Traditional Gaudiya wisdom, they say it in India. I haven't seen it in Shastra, but amongst the Gaudiya circles, it is said, one lifetime in sadhana, Next lifetime, in spontaneous devotional service. Third lifetime, pure devotional service. Then fourth lifetime, you go to that planet where the Lord is performing his pastimes in the universe that you're living.
+
+Then when you're trained up in a specific service, then back home, back to Godhead. But that, of course, is only applicable if you're successful in sadhana bhakti, or the practice, the basic practice of the rules and regulations of Krishna consciousness, which bring us to the stage of bhava, or spontaneous devotional service, in one lifetime. That in itself is a great challenge. Sadhana bhakti actually brings us to the stage of anarthanivritti, which means purifying the heart of all unwanted things, like lust and anger and greed, etc.
+
+So some of you are one quarter of the way through your life. Some of you are halfway through your life. Some of you are at the fag end of life. Have you come to the stage of anartha nirviti?
+
+Have you perfected sadhana bhakti so that the next lifetime you can take birth as Raghunuga? Practice Raghunuga bhakti? Or will it be 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 births as a sadhaka, and then the next stage, bhava, and then prema? We wouldn't like to think of it like that.
+
+Prabhupada once referred to this material world as a very nasty place. One time, a very enthusiastic disciple, he said to Śrīla Prabhupāda, Śrīla Prabhupāda, I love this service I'm doing so much, this book distribution, that I'd like to come back birth after birth and serve you by distributing your books. And Prabhupāda's eyes got very big. He looked at him very surprised.
+
+He said, no, don't come back. It's a very terrible place, this material world. It's Kali Yuga, he said. So, of course, the sentiment is very nice that I want to surrender and serve my spiritual masters, you know, life after life.
+
+That's a very nice sentiment. But the spiritual masters express desires that he wants his disciple to go back to the spiritual world and engage in Nityaseva, eternal service to the lotus feet of Radha and Krishna. Actually, at the moment of initiation, there's a sort of transcendental contract between the spiritual master and the disciple. From their part, the disciple promises, my dear Guru Maharaj, I will follow the four legative principles, I'll chant my 16 rounds, I'll study Prabhupada's books, I'll render some service.
+
+And the spiritual master, his part, you could say, of the transcendental contract is that he has to deliver his disciple all the way back home, back to Godhead. That's a veritable burden of love. So although it's nice, we have the sentiment we want to serve our spiritual master, haitikya pateyata, even I'll take birth again. Prabhupada said, no, this Kali Yuga is so bad, you should go back in this lifetime.
+
+So to do that, in order to do that, you have to become free from all unwanted qualities in the heart and you have to awaken your love for God in your heart as well. But time is short. Again, how far are we on the path? We're 25 years old or 50 years old or 75.
+
+We're one quarter, one half, three quarters of the way finished with life. How far are we on the path of sadhana bhakti? I know when I was in high school, I was engaged in competitive swimming. And my particular race, which I was doing, was the 200-meter freestyle.
+
+It was a long time ago, but I think it meant 16 laps. 16. I think, yeah, the race was 1, 2, 3, 4, 5, 16 laps. Any of you swimmers?
+
+200-meter freestyle. Anyway, I think it was 16. 8 or 16. 16.
+
+So we would be swimming. The gun would go off, and we'd jump in the water. And you're concentrating on the swimming. You're pacing yourself, but you're going as strong as possible.
+
+And as you're going, then you come back to the... You do one lap, and you come back. And then they would put a little card in the water so you could see lap two, and you come back, lap four, and you'd be at lap six and eight. and you would gauge yourself like that.
+
+You're putting a lot of effort into it, but sometimes with so much effort you'd forget where you were, which lap you'd be counting in your mind, but in the intensity of the heat and the race, you might forget. So it's very good to have that card there. Oh, 6, 8, 10, 12, 14, only two more. So just imagine if you're putting in so much effort and you're three-quarters of the way through the race and you come back and it says you've only done two laps.
+
+What? Or you've only done four laps. What? You've actually done like 12 or 14 but the little card says only two.
+
+After all that effort, I'm only getting the credit for two laps? That would be very discouraging. You might even be depressing. You might even get out of the water and quit.
+
+So in the same way, imagine you've been practicing Krishna consciousness for 20 years, 30 years, 40 years, 50 years, and you look at the gauge, How far am I? Baba, I'm still trying to chant 16 rounds a day. I'm still struggling with following the regular principles. I hardly ever read.
+
+I'm only going to get credit for two laps after 50 years. I try to study four-year-old principles. And I have no chance to go into books. I have almost forgotten all this time.
+
+it's almost too late. Just like sometimes you hear how old men, they get married. Kali Yuga is so topsy-turvy. You hear sometimes a person marrying, you know, he's 70 or he's 75 and he's marrying his third or fourth wife.
+
+Wait a minute. Marriage is around, you know, between 18 years and 30 years. That's when people get married. That's something you do at that age.
+
+You don't do that kind of stuff at 75 or 80. The Deceptive Bible says, a time to be born, a time to die, a time to laugh, a time to cry. There was a song when I was a kid, so there's a time and a place for everything. Valada Maharaj has taught us that Krishna consciousness ideally begins at the tender age of five.
+
+Of course, a lot of us didn't come at five. We're coming at 25 or 35, but that's okay. There's a concession made in Kali Yuga. But if we practice sincerely, if we're rigorous in our performance of chanting Hare Krishna, following the principles, associating with devotees, studying the Shastras, rendering service, we should see ourselves making progressive advancement.
+
+And if you see that the preparation is cooking a little slowly, then turn up the fire. How many of you are cooks? You know, the preparations cooking is a little slow. Your guests are supposed to come in a half an hour.
+
+What's the secret? You turn up the gas a little, turn up the electricity and stir it so it doesn't burn, and you turn up the fire and it cooks quicker. It shouldn't be that as we get older in Krishna consciousness, we become less active. No.
+
+As we become older in Krishna consciousness, we become more active in those particular activities, which help us progress in devotional service. It shouldn't be that we were chanting more when we joined the movement and we're chanting less as the years go on. No. We should be chanting more and more.
+
+I actually have four or five godbrothers who I can name, but they'll be embarrassed if I do, who chant 64 rounds every day despite their great managerial duties and services as sannyasis or gurus. 64 rounds a day. So it's possible, and Pallad Maharaj, again, is our hero because he demonstrated that even as a young boy, he had perfected Krishna consciousness. Just to give us some impetus, he reached a perfected stage at five years old.
+
+That should give us some hope. At five years old, he was already a purity of body. Of course, in some ways, he got a head start over many of us. He was practicing Krishna consciousness in the womb.
+
+Wait a minute, there's no reference to Pallad Maharaj cooking an offering for the deities in the womb. There's no reference to Prahlad Maharaj traveling to holy places in the womb. There's no reference to Prahlad Maharaj taking his japa mala and chanting his rants. How did he...
+
+What was his devotional service in the womb? Shravanam, Kirtanam, Vishnu, Shmarnam, Padasevanam, Archanam, Bhandam, Dasyam, Sakhyam, Atmanivetanam. It was one of those nine. What is the first one?
+
+Shravanam. He was hearing, just like you're doing right now. You may think, oh, I'm hearing now so that I can go perform devotional service. I'm learning about devotional service now so that I can perform devotional service later.
+
+No. This is devotional service. This is one of the nine ungas or limbs of devotional service you're doing right now. In fact, this is one of the more potent ungas of devotional service, to sit and hear Hare Kata.
+
+Krishna stresses the importance of this hearing process with two very important words in Bhagavad Gita. It is said that elegance is truth spoken concisely. Instead of a long-winded discourse, the speaker can summarize it in ten very potent minutes. This is often recommended because attention span is short.
+
+So Krishna says to Arjuna, Tat Srinu! Hey, Arjuna, listen to this message that I am speaking of. Tat Srinu, listen. The mind has a tendency to wander.
+
+So, Tat Srinu, just like my mother used to say, Son, I'm speaking to you, listen. Listen to me, I'm speaking to you. She would chastise me. No, no, no, I'm looking around, I want to go play baseball.
+
+Listen, I'm speaking to you. So, Krishna is like that. Tat Srinu, this message is so important. There's so little time.
+
+Listen, I'm speaking to you. And when Srila Bhaktisarana Saraswati, don't even worry about it, Bhaktisarana Saraswati Thakur was considering our spiritual master, Srila Prabhupada, as a candidate for initiation, he said, yes, I'll accept this young man. He hears nicely. So, Pallad Maharaj got a head start because he was hearing about Krishna consciousness from his spiritual master in the womb of his mother.
+
+Even before he took birth, he was hearing this science. And you can say, yes, but he's just an embryo, and what can he understand, an embryo understand? I'm 25 years old, I can hardly understand the philosophy, what's an embryo going to understand? No, but it's shabda brahma, it's transcendental sound.
+
+It enters into the ear, as Gopiparandana Prabhu said, yes, it enters into the ear and it goes to the heart and it cleanses, sound cleanses. It's like medicine. When you take medicine, do you know how the medicine is working? No, you just have faith in the prescription and faith in the doctor and you take it religiously, quote unquote, and it acts to cure you of your disease.
+
+That means even if we don't have a taste for Harikata, we still come and listen to the lecture. Even if we don't have a taste for the holy name, we still chant the holy name. Understanding it's like medicine and gradually it will purify and the ruchi, the taste will come. Besides, we know from Sriman Bhagavatam that the child in the womb at around seven months old, it becomes conscious and actually prays to the Lord.
+
+My dear Lord, here I am again in the womb of another mother. I promise you this time when I get out, I'll take the devotional service and finish up this material. This is the prayer of the baby at seven months. That was your first prayer.
+
+You've said so many prayers in your lifetime now. That was your first prayer. But do you remember? Because As soon as we took birth, the allurement of the material energy became, we became overwhelmed with the beauty and the hope of the false promise of material happiness.
+
+We just, we lost it. We forgot the prayer. But the point is that there's, you know, it appears to be an advanced level of consciousness there at seven months. enough that you can pray to God.
+
+I don't know what language you're praying in, but in your heart of hearts, you're calling out to the Lord that I won't get myself in this situation again. So if you can compose a prayer like that from your heart to the Lord, it's also conceivable that you can hear the message of Godhead as well from the Lord's representative, isn't it? Anyway, it's beyond logic and reasoning how these things work, but we all have experience of the potency of transcendence in our lives to elevate us beyond the modes of nature. So, Pallad Maharaj is very successful in Krishna consciousness at a very early age.
+
+And it's to be noted that one of his symptoms of advancement, as we discussed this afternoon at the Sankirtan seminar, was that he developed a natural compassion for the ignorant state of all other living entities in this material world. Prabhupada has given a nice analogy to help us understand how it is that when one becomes Krishna conscious, his heart goes out to all other living beings who are not Krishna conscious. It's a nice analogy. We should try to understand because we also want to come to that exalted stage.
+
+Just as becoming freed from unwanted qualities in the heart is one sign that one's making advancement, developing love of God, It's another sign that one's advancing on the path before we die. Here's another symptom, one more symptom, that we've made genuine progress. Our heart bleeds to see the sufferings of others devoid of Christian consciousness in this world. So the analogy that Prabhupada gave, he said, just like a poor man, sometimes someone who's experienced extreme poverty, By destiny, we're not talking here about by devotional service, but by karma, some highest activity in some distant past life, that poor person becomes extremely wealthy.
+
+And because, although he's wealthy, because he himself had experienced the misery of poverty, actually I read some statistics recently that 68% of the world's population goes to bed hungry every night. 68. I don't know if any of us have ever really experienced the pangs of hunger. Although in some parts of your country life is simple.
+
+I don't know if people, you know, the pain in the stomach is that the muscles and the secretions are not getting the nourishment, so there's some pain there. I don't know if we've ever experienced the pangs of hunger. But over half the world goes to bed hungry at night. In our movement, we can consider ourselves fortunate from all points of view, from the physical to the emotional, intellectual and spiritual point of view, Krishna is so kind.
+
+Yogic-shemam-baham-myam. For my devotee, I protect what he has and I provide whatever is necessary so he can go on with his devotional service. So sometimes a poor person like that, he, due to destiny, he becomes extremely wealthy and then Prabhupada said, remembering his destitute condition before, he has a natural sympathy for those in the same condition. So he liberally gives his money to people in those conditions.
+
+It doesn't mention that every person who's wealthy has a compassion. It says generally those who themselves were suffering and are now rich, they have a natural kind of magnanimous nature to uplift other people. but in Krishna consciousness everyone is supposed to have that magnanimous nature because all of us were destitute in this material you may have been rich you may have been poor you may have been famous you may have been infamous you may have been sick health but it's all bad this material world Kaviraj goes slami the concept of good and bad in the material world, it's wrong. It's all bad.
+
+Because even if you think it's good, you're in the material world, which means birth, disease, old age and death. So what can be good about a situation like that? Material life is like, you know, you're enjoying a big dish of ice cream with caramel topping and whipped cream and nuts and a cherry. Whoa!
+
+But there's an axe hanging over your head with a very thin string attaching it to the ceiling. Very thin, heavy axe, very thin string right over your head. And you're enjoying your ice cream. Would you feel comfortable eating your ice cream with this heavy axe, sharp as a razor, and one thin little string holding it to the ceiling?
+
+That's material life. Death could come at any moment. Or in the words of the great Vaishnav poet, Narottam Dastakuri said, Here I am in the middle of a holocaust trying to enjoy myself. So we've come to Krishna consciousness.
+
+We have the greatest wealth. Our wealth can buy, quote-unquote, or with our wealth we can get prema. Our wealth is our eagerness to chant, Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Ram, Ram, Hari, Hari. Yes, our wealth.
+
+We can get that. Hare Krishna. But even Bill Gates, who's number one in the list of wealthy people in Western society, he can't, for all his money, he can't buy love. Even the Beatles who had so much wealth in their youth, they had one song.
+
+Money can't buy you love. Can't buy you love. Can't buy you, money can't buy you love. This is one of the anarthas we have to get out of the heart is the words to all the old Beatles songs.
+
+But with this gift that we've been given, this wealth of Krishna consciousness, we can achieve pure love of God. So because all of us were destitute in material life, whether we were rich or poor, whether we were intelligent, we were all destitute, we all realized our fallen condition. Now in our situation we possess this greatest wealth, the holy name, we should have a sense of compassion for everyone who doesn't have Krishna consciousness. Not just a few of us, like a few wealthy people feel compassion for poor people.
+
+Everyone in Krishna, every Vaishnava should have a bleeding heart. We're all followers of Prahlad Maharaj. He's Acharya. Acharya means one who preaches by example.
+
+Every single detail on his life we're meant to imbibe that in our own lives. That's Acharya. Prabhupada summarized the mood of Prahlad Maharaj by saying that a Vaishnav's despair, if a Vaishnav can feel any despair, because he's transcendental, but nevertheless, if there's any despair in his heart, is to see that other living entities are bereft of Krishna consciousness, and his joy is to see other people taking their first steps on the path of Krishna consciousness. That is the highest pleasure in Krishna consciousness.
+
+It's so nice that even Rasik Shekhar, he also comes and enjoys it. Rasik Shekhar means Krishna. Shekhar, he's the who enjoys the pleasures of raso, the mellows of devotional service. Krishna himself comes as Chaitanya Mahaprabhu to relish the distribution of the holy names in Kali Yuga.
+
+If it's good enough for God, it should be good enough for us. So there's that famous book by Bhaktisvananda Saraswati Thakur. It's actually like an essay. What kind of Vaishnava are you?
+
+What kind of Vaishnava? Am I a beginner? Am I intermediate? Am I advanced?
+
+Well, to be honest, Maharaj, I really don't have any compassion for all those rascals out there. It's okay, you still preach. Because by preaching, the qualifications come. I remember when I first joined the temple in the early 70s in America, then one devotee, he came about the same time, he said to the temple president, he said, I'm not advanced enough to go out and preach Krishna consciousness.
+
+He said that to the temple president. Then I'll always remember the temple president's answer. I will always remember the temple president's answer. So no, that's how you become advanced by preaching.
+
+As we've often stated, along with the instruction of the spiritual master comes the ability to form it. So no one should be shy in this business of preaching Krishna-kashna. Baba said one time, one should never, quoting some traditional wisdom, one should never be shy in taking prasadam or doing business. Now some nice prasad comes, oh, I'm not qualified.
+
+I'm too fallen to eat that prasadam. Krishna's mercy, I'm too... Hello, it's mercy. Or if you're too shy in business, well, this is a really nice product, would you just please buy it?
+
+I mean, please just buy it. It's going to sell your product. So don't be shy in taking bishadim and doing business. Don't be shy in sharing your good fortune with others.
+
+Even if it's a little difficult, awkward, inconvenient, look at the result. Look in the mirror. You're the result of someone's attempt to share their good fortune with others. That day that devotee hadn't gone out or the Sanktan party hadn't gone out or the festival hadn't been canceled, you may not be sitting here today.
+
+So yes, it's hard, it's difficult, we're shy, we don't feel comfortable associating with the non-devotees. But that's okay. Make the effort anyway, and the result is well worth it. We have to keep preaching, otherwise the spirit of the movement dies.
+
+I've said it a million times, I'll say it again. This is a missionary movement. The missionary spirit is with the fire that keeps everything going. And everyone has to accept that responsibility to expand the movement.
+
+That's the spiritual principle that gives life and joy and happiness to us, to our family, to the community, the country, the world. One time a Sankhitan devotee said to Prabhupada, Prabhupada, it's just so hellish out there today. Prabhupada said, if it wasn't for this Krishna conscious movement, you can't imagine how hellish it would be out there. Because directly or indirectly, everyone's getting touched, influenced, affected by the mercy of the Sankatam movement.
+
+Have faith in that. Even our respected president in this country, Mr. Putin, I was told by some senior devotees that when he was offered a glass of wine at a political event, in a humorous way, he said, No, I'm a Krishnite. I don't drink.
+
+I don't take intoxication. Of course, he was just joking, but he knew. He respected, to some degree, you can appreciate. He respected our principles.
+
+He knew about Krishna. I'm a Krishnaite. Yes, we'll make you honorary Krishnaite. That is your most important title.
+
+And when the difficulties in Kazakhstan were brought to the attention of the Prime Minister of England, Mr. Tony Blair, He sent a personal note to the president of Kazakhstan that he felt that the situation should be handled more in a better way as how we were being dealt with. He spoke up. When Nelson Mandela was president of South Africa, he's still one of the five most appreciated and respected leaders in society.
+
+When he came to our festival in Durban, We had a big festival for 60,000 children. He was our special guest. He was supposed to spend 20 minutes. He spent four hours with us.
+
+And when he was leaving, he said to me, Maharaj, this has been the very best day of my life. So I see this to be equivalent or to fulfill the desire of Bhaktisodhana Saraswati, who said, one day we'll see that Krishna consciousness is successful when the judges in the high courts are wearing Vaishnava tilak. That's just his way at that time in history, time, place, and circumstance, to say that when the leaders are appreciating our movement and assisting us and helping us in whatever way, that's a sign of advancement. So it's happening.
+
+His desire, our Parnam Guru's desire is being fulfilled when we see the leaders of society to greater or lesser degrees, even just something small. But still, they're taking note of this movement, and that is something significant. Yes, what should you be interested in? So how does that all happen?
+
+When little, old, you and me, we play our humble part in helping to spread the Sanctum movement. We say in English, many hands make small work. It's difficult to preach. We have good opposition.
+
+But like a hard stone, Sometimes you see in underground caverns and caves, there's a stone, there's a hole right through it. The water, you know, hundreds of thousands, millions of years ago, a little drip of water came and splashed off, and it splashed in the same place. You come back 10,000 years later, and the water wore a hole right through the rock. In the same way, if we keep making our effort in our own little insignificant way, so-called insignificant, then we'll see these changes in society, and we'll be counted as part of this great historical movement.
+
+Who will note that we are part of this historical movement? The people who write, you know, the journalists in the newspapers, or the guys who write the magazine articles? No, we'll be noticed by Guru and Krishna. And we'll be blessed by them, because this type of activity, sharing a good fortune, as Prahlad Maharaj is demonstrating here in this chapter, this is very dear to our Acharyas.
+
+They have their Nitya Lila, their eternal pastimes with the Lord and the spiritual world. They come here, what do they do? The same Lilas? No.
+
+They don't stay in Vandava making sandalwood and stringing garlands for the deity and making, you know, no. They're out like you and me, preaching Krishna Kaan. This is what liberated souls do when they come to this world. You help them in their mission.
+
+Oh, they'll be so pleased with you. They'll shower you with blessings. You look at the scale. One quarter of your way through life, 50%, three quarters.
+
+Hey, I'm only on lap two. I'm supposed to be on lap 16. What am I going to do? Preach.
+
+This morning we noted this. Fulgant, brahmachari, ideal, paka, ishkon, devotee, shaved head, tilak, saffron, sitting straight, books in his hands, you know, yes, he's the preacher, yes, but you also, Babushka, you also, I said, didn't I, Babushka can make lots of cookies, offer them to the deity and go distribute them to the neighborhood children, she's also preaching. Or just get out of the house and walk around and people will do something for you and then they get agatsukriti, they get unknowing benefit by, you know, helping you across the road or, you know, whatever. Filling up your car with petrol.
+
+I have a bad leg. Okay, I'll do it, sir. Aghetsukriti. Just get out.
+
+Don't just walk down the street. Don't be a couch potato at home. Give people an opportunity to do something for you. And then they'll make some spiritual advancement.
+
+Everyone can preach in Krishna-goshness. I'll just finish with a short story to illustrate that. One time I was in Paris, France, and I was doing a saint-caton in the offices. There's a famous street called Champs-Elysees.
+
+It's a very important street, and no devotee had ever broken through how to get in the offices in the Champs-Elysees. Well, I figured it out eventually that you just go to the back of the building, and where the cars go underneath the park in that building, you sneak in behind the car as it goes in. The garage door opens. You go in.
+
+You're running a little behind the car like that. Boom, the door slams. You hide behind something. And then as the person who had the proper key to get in there goes and unlocks the door, then you go by that door and he goes in and then you're in.
+
+You go and you push the elevator, you go to floor 13. And you walk out, there's 20 secretaries and you say, Hi everybody, I'm from America. I've just come back from India and I have all these nice books. How many of you would like to look?
+
+And I also have incense too. It worked every time. and it helped that i didn't speak much french because you know they'd say something i go they have a little sympathy and just so they noticed me had a fresh shaved head every morning big like almost ramanuja style t-lock i take the garland from rada parisishwara and i had you know silk on and you know my pointed shoes and my flashy bag and so i was one day i was on floor 13 and you know the secretaries are coming buying packs and packs of incense and a few blogguitas were going out and suddenly the elevator doors open and there's the chief of security started screaming at me in very bad french french have some very bad words the first words i learned not learn but understood so he said what are you doing get out of here i said um just have to take this lady's money and change the bill and give her the book and then I'll be gone he didn't want to hear that you get out now I said no I have to change the money I started running towards this I picked up my stuff grab everything I saw he was chasing me around the office around the the desks and I jump over one desk and he'd jump over and finally I kind of tricked him he was a big old fat guy I was just a kid like 22 I ran into the elevator he started running towards the open doors I pushed the button that was the slowest elevator ever to doors to close it seemed like it would never boom and it caught his foot i pushed the open button he fell back on the ground and i pushed the close button and i went to floor number 10 why give up when you're ahead So he went... So he went, he thought I was going to go down and run out the building.
+
+So he went all the way down to reception. And then he must have come up, you know, one, two, three. I had about 45 minutes on the next floor. I was selling almost all my books, almost all my incense.
+
+I was in ecstasy. And like the last sale, the elevator doors opened. He came running and I said, excuse me, ma'am, I'm going to pack my stuff. and we're running around the office again.
+
+But because he was kind of big and fat, he couldn't catch up with him. Boom! And then I went down the stairs and I went down, I think 10, I went down to about 7 or something. So he went 9, 8, and when he came into 7, I was literally selling my last Bhagavad Gita on the floor, the 7th floor of the 2nd.
+
+He was like, by this time he was pulling his hair out. I was in ecstasy. All my books and almost all my incense were gone But this time the door opened, and he was quiet. And I was selling something, and all of a sudden, my back, he's a big guy, he just lifted me up like this, carried me and threw me in the elevator.
+
+And they put his foot on me like that, kept me down, and we went down to the reception, the bottom floor. and he started screaming again, again he was here, he began to walk around the stairs. At this time I came to the stairs from the stairs to the 7th floor, and he went to the stairs again to the 7th floor. And while he saw me on the stairs, I had almost all my books on the stairs.
+
+It was almost almost the last book I had written, when he finally found me, but at this time he didn't start screaming, Then he dragged me out of the elevator over to the reception desk and he threw me on the ground and he said something and I looked up at the secretary and I said, what did he say? She said, he said, you're a dead man. For distributing books, I'm a dead man. So he called the police.
+
+And because he'd been embarrassed, he'd been chasing me all over the building. He made a big thing about it. Like he was protecting everybody and saving everybody. And he had people come down from the other floors and bear witness.
+
+Yes, this was the boy. Like this. And he had 20, 30 people there. Calling the police.
+
+I have a criminal. A criminal. broken to the building, stealing money, like, you know, like three cop cars come and pull up at the door. so I felt a little uncomfortable sitting on the ground so I decided to stand up and when I stood up he took a big swing but I ducked he just grazed the top of my head but I lost my balance and fell down then he sat on me that was the hard part because he's a big fat guy So then he picked me up and he put my hands, my arm behind my back.
+
+and then then the police came in to about 15 policemen and they were angry because he'd really got them hyped up on the phone they were really angry so that actually the chief of the local police station was the first one to come in he was he saw the situation he paused for a moment he looked he stared at me and then he got really angry they'd like stop and flip me over and put handcuffs on my handcuffs and they pick me up by my two feet and my hands and carry me out like an animal and the chief of security says yeah you make sure that he gets you know three four six months in jail and never come back here again and the police chief said yeah don't worry i'll make sure that that boy does one year in jail trespassing stealing money scaring the people so then they throw me in the back of this like wagon truck you know the chief police he's he's there on the drive and a few other cops and then they race off and there's four police cars there's sirens like with little old me and my book bag empty book bag and then all of a sudden the convoy pulls over to the side of the road about two kilometers away from the building. And I hear the police chief, he gets out of the car and he tells all the other cars or the three or four cars to go ahead to the police station. He's just going to stay there for a minute. So the cars race off.
+
+They race off. And then, you know, I think, oh my God, what's he going to do to me? So he comes around the back. He opens up the door and he looks at me again.
+
+Looking at me. And I think, oh my God, is he going to kill me or what's he going to do? So he tells the other, the driver to go back in the front and sit there and wait for him. So then he comes and he unlocks the handcuffs and he picks up my things which had been scattered around the back of the van.
+
+He puts them in my bag, including the money. Then he lifts me up and he helps me out of the van and he says, you're free to go. And I'm like, what? He says, you're free to go?
+
+He said, I really appreciate the work you're doing. Wait a minute. Hold on. He said, you don't remember me?
+
+And I looked at him and I said, because in those days a lot of the French wore mustaches. So, you know, they looked the same. So I said, no, sir. He said, no, last week you came to my house.
+
+You were doing the neighborhood. You were going door to door with your Bhagavad Gita. And you came to my house and my wife answered the door and invited you in. And I came downstairs and we had a little talk.
+
+I went, oh, yeah. He said, I give you a nice donation for that Bhagavad Gita and I'm enjoying reading that book. He said, it's a little hard to understand. He said, but I'm trying.
+
+He said, something like I'm getting the point. So he said, you know, again, I appreciate the work you're doing. Just keep it up, you know. I said, but you didn't tell me you were the police chief.
+
+He said, well, you know, tell everybody I'm the police chief. You came to my house. You were my guest in my house, and I bought the book. So now go, quickly go.
+
+He put out his hand. He said, good luck, young man. For me, it was worth the whole ordeal just to see the chief of police from his heart really express some appreciation for the work that we're doing and to say, good luck, young man. It was worth, I'd do it all over again just for that.
+
+So don't deny yourself this golden opportunity of going out and experiencing the mercy of Lord Chaitanya. There's so many stories like that, and there'll be so many stories like that in the future. So my point was, I was just out there, and that man did devotional service. Aghatsukriti.
+
+He also bought a book, but he also did Aghatsukriti. So if you're just out there and people assist you in some way because you're a devotee, and if you're doing devotional service, they get some benefit. And just the conclusion to the story is that I walked back the two kilometers to the Champs-Elysees. I dust myself off, I put my bag on, and I walked.
+
+And then when I got to the Champs-Elysees, I walked past the building where the security guy was standing, you know, inside looking out the window. And when I walked by him, I went, he became so angry. And he came running out to the front of the door. But when he realized he could attack an innocent pedestrian on the street, he just stood there and I started dancing down the street.
+
+Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare. Hari Rama, Hari Rama, Rama Rama, oh, Hade, Hade. Rantarashimad Bhagavatam Ki, Sri Pallad Maharaj Ki, Sira Prabhupada Ki, Sri Krishna Sankirtan Yagya Ki, Gomananda, Sri Babashoi.
+
