@@ -1,0 +1,133 @@
+---
+title: "Dance to the source of the Love"
+kind: transcript
+speaker: Indradyumna Swami
+week: 80
+module: "Module 5"
+category: ""
+source: "IDT"
+source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Dance_to_the_Source_of_Love_-_2011-06-04_Seattle.mp3"
+audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Dance_to_the_Source_of_Love_-_2011-06-04_Seattle.mp3"
+duration: "32:24"
+language: "en"
+words: 4483
+transcribed_with: whisper.cpp large-v3-turbo
+---
+
+# Dance to the source of the Love — Transcript
+
+**His Holiness Indradyumna Swami** · Week 80 · 32:24
+
+> Verbatim machine transcript (whisper.cpp large-v3-turbo), kept as-is and unedited; it may contain errors and is not the speaker's exact words. Enriched note: [week-80-dance-to-the-source-of-the-love.md](../../notes/module-5/week-80-dance-to-the-source-of-the-love.md).
+
+---
+
+Well, I've just arrived in the midst of a very ecstatic kirtan, being led by my very dear God-brother, His Holiness, Radhanath Swami. So I can say with all certainty that I'm very happy to be here in your association again, and very, very happy to have the association of my very dear God-brother, Radhanath Swami Maharaj. Like many of you, I'm simply in awe of the great preaching that He's doing, particularly throughout this country. I've noticed that Maharaj is spending more and more time here in the great country of America with his world-famous book, Journey Home.
+
+And with the help of others, he's meeting the higher echelon of society, which I consider taking preaching to a higher level that's really never been done before. He's pioneering the Krishna-conscious movement to the important people in society, the leaders, the leadership, on the highest level. One time we were in Paris with Sr. Prabhupada.
+
+We were Sankatam devotees, and Prabhupada was visiting our temple. I brought my Sankatam group in one day into Prabhupada's room. And Prabhupada was speaking, and then he said, Why don't you bring some people for me to preach to? And I said, but Sr.
+
+Prabhupada, this is the Sankatam devotees, and every morning you're preaching to the temple devotees in the congregation. Why don't you bring some people for me to preach to? So Yogeshwar was there, and Bhagavanda, some different devotees, and we were kind of at a loss of words, like 300 devotees from all over France and Germany and places like that. So then Prabhupada said again, Why don't you bring some intelligent people for me to preach to?
+
+He didn't mean that we were unintelligent. He just wanted to preach to the higher echelon of society. So we had not thought like that, so we had to scramble. The next day, we got a professor from the University of Stockholm, we got a famous author, we got a poet, we got a politician, we got a rock star, a famous rock star.
+
+And I could see when these people came in to see Sr. Prabhupada, he was just beaming. And after a few days of just, you know, so many people coming in, and then like this prophet said, Thank you very much, he said, this is the best preaching. And he quoted the verse that whatever a great man does, the common man will follow in his footsteps, and whatever exemplary acts he performs, the whole world will pursue.
+
+So I think that His Holiness Radhanas Swami is really setting the best example in this regard by going throughout this country and meeting so many important people, and it will filter down whatever these people do. Unfortunately, their nonsensical ideas sometimes, and their sinful activities filter down, but they're capable of wonderful things as well. But in their hearts, Shivera, Supaya, Kushnera, Nikkadasa, all servants of the Lord, and when they come in contact with the potent devotee, that service attitude comes out. So I think that in the years to come, we're going to see some big things happening here in America with this type of preaching, and we should all follow suit.
+
+His Holiness, Radhanas Swami Maharaj, I think it deserves more applause than that. As many of you know, one time Prabhupada, I was going to France to join Harivalas, in the fledgling temple in Paris. I'd come over with Prabhupada from New York on the plane, and then we were in London for a few days, and then it was time for us to go, so we went into Prabhupada's quarters, and I'd always wanted a personal instruction, you know, if possible. I remember now, Prabhupada received a personal instruction from his Guru Maharaj to, if you ever get money, print books, and preach this Krishna Conscious movement in the English-speaking language, instructions like that.
+
+And so, we were saying goodbye to Sr. Prabhupada, and I was just thinking, I wish Prabhupada would just give me an instruction I could base my life on. And Prabhupada was saying, so you go to France, and you help them, and you get my books translated into French, and you distribute them all over the country, and meet important people like that. Then he stopped, and he leaned over, and he looked at me straight in the eye, and he said, and you preach boldly, and have faith in the holy names.
+
+So it went deep into my heart, like Hanuman opens his heart, and there you see, seats are on, so I like to think that if I could open my heart, those instructions would be etched on my heart to preach boldly, and have faith in the holy names. And then Prabhupada said, to encourage you, I'll give you a gift. So he reached over in his dresser drawer, and he opened it up, and he took out one of his old dotis. He said, I had this for one year, and he gave it to me.
+
+And I was like trembling. And Prabhupada said, always remember that a gift from a Vaishnava is a very special thing. So I've tried to follow that instruction to preach boldly, but I was thinking the other day, it takes a lot of courage to approach these leaders. I don't know if you've ever done any, you know, preaching on the streets, or within society, you know that sometimes the greatest challenge is to approach people who are in prominent positions, they're quite charismatic, they're very intelligent, they may be very much influenced by the material energy at that time, to approach them and present this Vedic culture to them, it's never an easy thing.
+
+you have to have a lot of purity. Purity is the force, you have to be intelligent, you have to be charismatic, you have to have the mercy of your spiritual master. So I think that a lot of those songs are fulfilling that order to preach boldly and have faith in the holy names. So I'm thanking him for that example that he's setting for all of us, including his godbrothers and his god sisters.
+
+This program, I believe, the theme of this program is dance to the source of love, which is Krishna. So chanting, dancing, some harikata and easing will awaken our vema bhakti. Central most, of course, is this chanting, Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare Hare. Again, it was very evident walking into this room seeing the potency of those three names, Hare Krishna and Rama, to elevate all of you to the transcendental platform.
+
+You looked very joyful. Sound, by nature, has great potency. There's a shloka in the Vedic scriptures that says, by sound, one becomes conditioned, and by sound, one becomes liberated. Sound is so potent.
+
+Hare Krishna. Oh, the altar is there. We can understand the potency of sound even in our conditioned state in eternal life. If you turn on a radio and you turn the dial and someone's singing the blues, then you become affected by that sound vibration.
+
+You also become sad. The person's singing how whatever, he lost his girlfriend or she lost her boyfriend. And the sound vibration is such that you remember the same thing happening to you and you become sad. And in a moment, in a moment, your conscience is affected by sound entering into your ear and into your heart.
+
+You turn the dial a little bit further and you come across a happy song. John Lennon said, take a sad song and make it happy. So you hear some happy music and immediately you forget your blues and you're joyful. What happened?
+
+Sound. Sound vibration entering in your ear into your heart affects your consciousness. How you perceive life. So potent.
+
+You turn the dial a little further and you come to some news broadcast where, I don't know, the Democrats are debating with the Republicans and you become angry. What is it? It's sound. By sound we become conditioned and by sound we become liberated.
+
+So that's the potency of mundane sound. What is the potency of transcendental sound? The sounds that we are singing, the sounds that we are accustomed to chanting of Hare Krishna. This is coming straight from Goloka.
+
+And Prabhupada analyzes that sound of Krishna's name, specifically the Maha Mantra, so potent that it can destroy all the karmic reactions that have been infesting in your heart for millions of lives. It can uproot material desires and throw them to a distant place. And according to Haridash Takura, the ultimate benefit, the real benefit of chanting Hare Krishna is that awakens krema within our heart. So who would not chant Hare Krishna knowing the benefits of just letting that sound enter into the ear and enter into the heart?
+
+Who would not invest his time in chanting Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare The very word mantra. Ma means mind and cha means to deliver. So mantra means a sound vibration which delivers us from material consciousness which is basically the I am this body and the purpose of life is material enjoyment there is no soul there is no God in control etc. This mundane kind just by chanting all that illusion is gone.
+
+So mantra of course we should understand that in previous ages only a slight group of people could chant mantra. Mantras were chanted by the priests by the Ramas and to some degree the Katrius the higher orders of life but generally it was the business of the priests because they were qualified. It was stated that if one who was unqualified meaning one who may have been in the mode of ignorance and mode of passion and take it to sinful activity and the materialistic goals and if I chant and mantra it had no effect. It was like giving knowledge to a fool to a fool or as they say pouring ghee on ashes.
+
+After the fire you pour the ghee on ashes nothing happens. Ghee is meant to be poured on the fire yet give I Vishnu. So if someone who was unqualified in Vedic culture who didn't live a pure life simple living with high thinking tried to chant mantra irregardless of what the mantra it wouldn't have any effect. Only the brahmanas and sometimes kathrius they would chant the mantras the rishis the yogis like that.
+
+But when Kali Yuga arrived a special concession was made because everyone was very fallen but nevertheless the goal of life remained the same. Atato Brahma Janasi now that we've come to the human form of life now is the time for self-realization culminating in pure devotion and service to Krishna. So in previous ages although only a small select group could chant mantra and benefit from it the Lord decided that Yuga Dharma would be chanting the Maham mantra Hare Krishna Hare Krishna Krishna Krishna Hare Hare and suddenly anyone by the Lord's grace could chant that's the Lord's discussion means that but for the Lord no one can enunciate Dharma or religion it's up to him to decide and therefore we see in each age there's a different process of Dharma different process of self-realization in Satya Yuga it was meditation in Treti Yuga it was ritualistic sacrifices in Dupura Yuga it was temple worship and the age in which we live just to make it simple it's chanting mantra and specifically Mahamantra or the great chant for deliverance all the benefits that one gets from chanting all the other mantras is there in that one mantra Hare Krishna so it became something public as demonstrated for example in the life of Ramanujacharya some thousand years ago a little over a thousand years ago the great Acharya head of the Sri Sampadaya Ramanujacharya appeared and when he was young he had several gurus he had Dikshu guru he had Shrikshu gurus who were enlightening him in spiritual life and he went to one of his teachers and the teacher said young man I have very special mantra for you this mantra is so powerful so powerful that all the illusion of material life will be dissipated just as the sun is rising in the morning dissipates all the fog the fog is very thick even if you have huge blowers you couldn't get the fog away when the sun comes up or just like darkness is dissipated by the rising of the sun so all illusion is dissipated by this mantra I'm going to give you but it's very special and you have to keep it to yourself you can't tell anyone it's very powerful but you can't tell anyone whisper that mantra in his ear so what did Ramanujacharya do? being a great Vaishnava Sri Vaishnava another Sampadaya they worship Lakshmi Narayan what is the heart of a Vaishnava?
+
+that's demonstrated by Thakrabhakti to know one of our Vedasharas he says when will my compassion for all fallen souls manifest and with a lowly heart I'll go out to preach the divine command like Prahlad Maharaj a Vaishnava is not satisfied with his own liberation right into this activity he's a liberated soul even while living in this world his conscience is always with Krishna through devotional service to the world so he's always thinking what about all the poor fallen souls rotting in the material world I was just telling another devotee we were sitting with Prabhupada one time and one of my god brothers said Shri Prabhupada sometimes I feel so sad for the suffering of the conditioned souls in this world and I thought wow that's a noble sentiment Prabhupada is going to bless him and Prabhupada shot back why sometimes so in the heart of this great Vaishnavacharya Ramanuja he took that mantra in the right ear because mantras always chanted in the right ear and he went straight to the marketplace we hear he climbed a very tall pole when he got to the top of the pole he started screaming the mantra at the top of his lungs Om Namo Bhagavate Vasudevaya Om Namo Bhagavate Vasudevaya Om Namo Bhagavate Vasudevaya come everybody everybody listen Om Namo Bhagavate I went from my obeisances under Vasudevaya the supreme personality and he said chant chant so the people Om Namo Bhagavate so his guru heard that he had done this and he called him back he was very angry I have given you this secret mantra for your liberation it's so powerful that anyone can be delivered with this mantra so everyone can be liberated but let me chant the whole world so everyone can benefit from chanting these names of God so it became available mantra chanting became available because the Lord can make the adjustment it's his prerogative to make an adjustment according to the age how people can make advancement in spiritual life and Shastra says Shukadeva Goswami is speaking to one king a rickshaw who says renounce his kingdom and come to live on the bank of the Ganges because he knows that his time has come he will be leaving his body soon so the sage is instructing us through him he said my dear king this age of Kali which has just begun is an age of inauspiciousness he said ocean of inauspiciousness imagine you have you have you have a beautiful ocean a little cold here but if you're swimming in a you can just like get lost in this huge ocean of salt water imagine if you were swimming in an ocean of inauspiciousness quite poetic but in a alarming way where'd you go today mom I was swimming in an ocean of inauspiciousness Mr. Magic if you've ever been out to sea if you're a sailor you know it's so vast the ocean that we live in such an ocean in Kali Luga iron age of quarrel and hypocrisy a little scary but then the Lord gives positive alternative the Lord in our acharya they they summarize materialized a temporary place for the suffering but they don't leave us hanging there they always give the positive alternative in the last two lines my dear king this is this age Kali which has just begun is an ocean of inauspiciousness but there's one good thing left in this age oh what what is the one good thing by singing these very potent transcendental names of God which are actually none different than God one can achieve perfection and go back home back to God so yes there's a sort of concession here to the point where we hear that the demigods and the higher planets are lining up to take birth in Kali Yuga what some sages don't even want to say the name Kali Yuga because there's a lot in the name if you say the name of some infamous criminal or politician your mind feels polluted so some sages won't even say Kali Yuga but here the demigods are lining up on the heavenly planets praying to take birth and it's gone the longish children why is it so powerful the name fame form pastimes paraphernalia of the Lord they're all absolute and Prabhupada made it very poetic he said when you chant Hare Krishna it's as if Krishna is dancing on the tip of rita Kali Kali Namurupa Krishna avatar therefore because it's so powerful it's considered the sound vibration is considered an incarnation of God this is the beauty of Vedic culture we have insight not only into the Lord himself but his many expansions and incarnations who incarnate in this world in order to defeat the atheists and establish dharma. So here's an incarnation. Hare Krishna, Hare Krishna, Krishna, Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare.
+
+And again, in summary, if we want to chant properly, to get the full benefit of that chanting, we have to understand the glories of the Holy Name. If we chant without understanding the philosophy of the Holy Name, without understanding the science of chanting Hare Krishna, without reading about the lives of great devotees, or fully surrendered to the chanting of the Holy Names, then our appreciation will not be so great, and we will not chant properly, with full attention, in a mood of prayer, begging for service. It's like if a child, the mother, who takes her ring off to, you know, wash the dishes, and it falls onto the ground, and her little child comes and finds the ring. The child has no knowledge of the value of a diamond, so she's looking at it, she plays it, puts it in her mouth, and swallows it.
+
+But the mother comes up, oh, my ring, oh my gosh, my ring, my husband gave me, and she says, oh, I almost lost. Carefully she puts it back on. So one person had no knowledge, understanding of the value of that gem, another person had full knowledge. So we have to have festivals like this, festivals of the Holy Name, where we not only chant and dance in ecstasy, but we hear the philosophy of the Holy Name.
+
+We can study books like, which, a book compiled by the BBT called Naman Rita, with all of Prabhupada's quotes about the Holy Name. And Prabhupada glorified the Holy Name so often, it's a big, fat book. Naman Rita. And for those who are connoisseurs of the Holy Name, which we should all be, that's one of their favorite books, how to chant Hare Krishna.
+
+So, again, we have to hear about it. Actually, it's more than a mantra, a sound vibration which delivers us from material consciousness. That's pretty much just the way Prabhupada presented it in the Western countries when he first came. It's more like a prayer of the heart.
+
+One time Prabhupada was with the devotees in Boston, he was giving Bhagavad Gita class, and one guest raised his hand. Swamiji, you're always stressing the chanting of Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare. Like, what does it mean? And we were over and over and over again, like, what does it really mean?
+
+And Prabhupada could have given his classic translation, which was always my Lord, my dear energy of the Lord, Shimati Radharani, please, please, please, engage me again in your devotional service. That's what we're saying when we're chanting. It's not mantra, it's not technique just to control our mind, and, you know, it's a prayer of the heart. But Prabhupada said something different.
+
+He said to that boy, Michael, what does it mean? Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, Hare Rama, Hare Rama, Rama Rama, Hare Hare, It means, my friend, my friend, my friend. I heard that on a tape the other day. That's Prabhupada's translation, when at that particular time.
+
+What does it mean, this Mahamadja? It means, my friend, my friend, my friend. It's really a prayer from the heart. We're calling out in distress.
+
+Please, lift us up from this material world and place us again if you load us feet with devotional service. In desperation, we call out to the Lord. I had a, I'll conclude about this with a little story when I was recently in South Africa, how one person took shelter of the holy names in distress. We were flying from Durban, no, we were flying from Johannesburg in the north to Durban and the, along the coastal region, central coastal region in South Africa.
+
+And they recently moved the airport from downtown Durban up the coast a little bit to a place called La Mercy. And I was always wondering, that's not a good place for an airport. First of all, it's really far away and I knew that had been up there chanting my job many times, very windy. Why are they building an airport there?
+
+Anyway, I had, since I've been gone from South Africa for a year and a half, they built that airport and sure enough, as we were coming in for a landing, you know, we were coming in down and down and a violent wind came and shook the plane. And, and just, we were just coming in and I yelled out, Hare Krishna! The man behind me went, Allah Akbar! And the lady across said, Jesus Christ!
+
+And the Buddhists went, ah, ah, ah, ah, I didn't know what to do. I'm not exaggerating, it's a multi-racial, multi-ethnic country, they call it the Rainbow Nation. You have people of all different faiths and all denominations, ancestry like that, so, everyone called out the name of God they're used to calling. And then, abort!
+
+Abort! The co-pilot said, don't land, it's too dangerous, we could hear from the cabin. And, vroom, the plane went back up. Do that.
+
+So, the man sitting next to me, he said, do you really think there's a God out there who's like hearing you, like he's way up in the sky, you know, like we're in the sky, but he's like way up there beyond the moon, and he's listening to you guys, and he's going to make sure this little tiny machine doesn't crash. Do you believe that? Are you crazy? I said, yeah, I firmly believe that, sir.
+
+He was like, what? I said, yes. I said, actually, God is present in the sound of his name, and he's, the holy name is feared by fear, personified. He was like against the window.
+
+Did you say, fear by fear, personified. God is present in the sound of his name. He said, that's sentimental rubbish. You guys are just crazy.
+
+I would never do something like that. Foolishness, sentiment. So, and the flame came down again. And the wind, I could see, you could see the trees, the wind was even stronger.
+
+And this time, the guy's holding on to the seat, and he's like white like a ghost. So he went up. And then, abort, abort. Second time.
+
+So I said to the stewardess, I said, this is dangerous. Why don't we just go back to Johannesburg, and I'll fly, and then I'll be able to take a bus down here. So, our pilot is very professional, very experienced. He will make the right decision.
+
+I said, I don't know, right? So we came in, and the pilot came on and said, ladies and gentlemen, we're going to make one more attempt. So we came in, and this time, we were higher, and the wind started getting stronger, and the plane started shaking, even before we took our descent down. And the man said to me, well, if I did have to do it, which of those names of God should I sing?
+
+So, you know, a preacher's always looking for an opening, like a boxer's always looking to a God. So I said, well, sir, you know, all these names are absolute, just like you have your personal name, your middle name, your family name, your girlfriend has a pet name, so God has unlimited names, and He's present in all those. He said, absolute. He said, which one should I sing?
+
+So I said, well, why don't you try the Hare Krishna song? I said, that's my favorite. He said, yeah, I can see. So he said, teach it to me.
+
+I said, okay, look, it's Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare, and he interrupted, he said, I'll be dead by then. The thing will crash. I said, okay, just say, Hare Krishna, can you say it? I said, say it, if you want to save the plane, say it.
+
+Hare Krishna. And then, I said, you know, the wind died down and she, boom, like my finger. Everybody like me. So I looked at him, I said, see, it works.
+
+So I said, as you were taxing to the runway, I said, so now do you believe that there's the Lord beyond the clouds, behind the moon, maybe watching and, you know, protecting us? He said, maybe. Well, I said, you've made a lot of progress there. You've made progress from being an atheist to agnostic.
+
+Congratulations. And I thought, well, we've made some progress because, you know, that's a big step from being no God to being maybe there's a God out there. So I wished him well on his path. I said, if I get in trouble again, what are you going to sing?
+
+He said, Hare Krishna. We'll stand on Honey Nansen Kirtan Yagi-Yaki Kupi Menande Kupi Menande
+
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

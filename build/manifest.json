@@ -17,7 +17,8 @@
     "duration_sec": 3990,
     "words": 9011,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/who-is-krishna.txt",
-    "elapsed_sec": 160
+    "elapsed_sec": 160,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-01-who-is-krishna.md"
   },
   {
     "module": "Module 1",
@@ -43,7 +44,8 @@
     "duration_sec": 5064,
     "words": 10114,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/chanting-is-our-life-and-soul.txt",
-    "elapsed_sec": 146
+    "elapsed_sec": 146,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-02-chanting-is-our-life-and-soul.md"
   },
   {
     "module": "Module 1",
@@ -69,7 +71,8 @@
     "duration_sec": 3048,
     "words": 4081,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/becoming-a-devotee.txt",
-    "elapsed_sec": 93
+    "elapsed_sec": 93,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-03-becoming-a-devotee.md"
   },
   {
     "module": "Module 1",
@@ -95,7 +98,8 @@
     "duration_sec": 3255,
     "words": 7496,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/introduction-to-r-la-prabhup-da.txt",
-    "elapsed_sec": 127
+    "elapsed_sec": 127,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-04-introduction-to-r-la-prabhup-da.md"
   },
   {
     "module": "Module 1",
@@ -115,7 +119,8 @@
     "duration_sec": 2296,
     "words": 5017,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-regulative-principles-of-freedom.txt",
-    "elapsed_sec": 80
+    "elapsed_sec": 80,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-05-the-regulative-principles-of-freedom.md"
   },
   {
     "module": "Module 1",
@@ -135,7 +140,8 @@
     "duration_sec": 1389,
     "words": 2238,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/birth-and-death-cycle.txt",
-    "elapsed_sec": 45
+    "elapsed_sec": 45,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-06-birth-and-death-cycle.md"
   },
   {
     "module": "Module 1",
@@ -155,7 +161,8 @@
     "duration_sec": 2879,
     "words": 6420,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/you-are-not-the-body.txt",
-    "elapsed_sec": 104
+    "elapsed_sec": 104,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-07-you-are-not-the-body.md"
   },
   {
     "module": "Module 1",
@@ -175,7 +182,8 @@
     "duration_sec": 3691,
     "words": 8279,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/goal-fo-human-form-of-life.txt",
-    "elapsed_sec": 144
+    "elapsed_sec": 144,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-08-goal-fo-human-form-of-life.md"
   },
   {
     "module": "Module 1",
@@ -195,7 +203,8 @@
     "duration_sec": 3942,
     "words": 10305,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/silver-spoon.txt",
-    "elapsed_sec": 1491
+    "elapsed_sec": 1491,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-09-silver-spoon.md"
   },
   {
     "module": "Module 1",
@@ -215,7 +224,8 @@
     "duration_sec": 2718,
     "words": 3703,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/first-thing-first.txt",
-    "elapsed_sec": 217
+    "elapsed_sec": 217,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-11-first-thing-first.md"
   },
   {
     "module": "Module 1",
@@ -235,7 +245,8 @@
     "duration_sec": 4554,
     "words": 12391,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/srila-prabhupad-glorification.txt",
-    "elapsed_sec": 196
+    "elapsed_sec": 196,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-12-srila-prabhupad-glorification.md"
   },
   {
     "module": "Module 1",
@@ -255,7 +266,8 @@
     "duration_sec": 3841,
     "words": 8834,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/killer-of-the-soul.txt",
-    "elapsed_sec": 145
+    "elapsed_sec": 145,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-1/week-13-killer-of-the-soul.md"
   },
   {
     "module": "Module 2",
@@ -281,7 +293,8 @@
     "duration_sec": 1938,
     "words": 4174,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/sadhu-sa-ga-the-power-of-association.txt",
-    "elapsed_sec": 82
+    "elapsed_sec": 82,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-14-sadhu-sa-ga-the-power-of-association.md"
   },
   {
     "module": "Module 2",
@@ -301,7 +314,8 @@
     "duration_sec": 3789,
     "words": 7640,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-seed-of-devotional-service.txt",
-    "elapsed_sec": 151
+    "elapsed_sec": 151,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-15-the-seed-of-devotional-service.md"
   },
   {
     "module": "Module 2",
@@ -321,7 +335,8 @@
     "duration_sec": 3769,
     "words": 8389,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/intelligent-enough-to-know-i-am-a-fool.txt",
-    "elapsed_sec": 138
+    "elapsed_sec": 138,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-16-intelligent-enough-to-know-i-am-a-fool.md"
   },
   {
     "module": "Module 2",
@@ -347,7 +362,8 @@
     "duration_sec": 3048,
     "words": 4081,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/just-be-good-devotees.txt",
-    "elapsed_sec": 96
+    "elapsed_sec": 96,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-17-just-be-good-devotees.md"
   },
   {
     "module": "Module 2",
@@ -373,7 +389,8 @@
     "duration_sec": 3462,
     "words": 3930,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/make-a-leap-of-faith.txt",
-    "elapsed_sec": 97
+    "elapsed_sec": 97,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-18-make-a-leap-of-faith.md"
   },
   {
     "module": "Module 2",
@@ -399,7 +416,8 @@
     "duration_sec": 3259,
     "words": 5319,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/remembering-r-la-prabhupadas-sacrifice.txt",
-    "elapsed_sec": 99
+    "elapsed_sec": 99,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-19-remembering-r-la-prabhupadas-sacrifice.md"
   },
   {
     "module": "Module 2",
@@ -425,7 +443,8 @@
     "duration_sec": 4190,
     "words": 4000,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-heart-of-a-vaisnava.txt",
-    "elapsed_sec": 136
+    "elapsed_sec": 136,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-20-the-heart-of-a-vaisnava.md"
   },
   {
     "module": "Module 2",
@@ -445,7 +464,8 @@
     "duration_sec": 3432,
     "words": 7849,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/holy-cow.txt",
-    "elapsed_sec": 2056
+    "elapsed_sec": 2056,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-21-holy-cow.md"
   },
   {
     "module": "Module 2",
@@ -465,7 +485,8 @@
     "duration_sec": 3128,
     "words": 4566,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/overcome-addiction-of-sense-gratification.txt",
-    "elapsed_sec": 159
+    "elapsed_sec": 159,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-22-overcome-addiction-of-sense-gratification.md"
   },
   {
     "module": "Module 2",
@@ -485,7 +506,8 @@
     "duration_sec": 5200,
     "words": 6810,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/first-lord-appear-as-sound.txt",
-    "elapsed_sec": 440
+    "elapsed_sec": 440,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-23-first-lord-appear-as-sound.md"
   },
   {
     "module": "Module 2",
@@ -505,7 +527,8 @@
     "duration_sec": 364,
     "words": 570,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/be-enthusiastic.txt",
-    "elapsed_sec": 14
+    "elapsed_sec": 14,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-24-be-enthusiastic.md"
   },
   {
     "module": "Module 2",
@@ -525,7 +548,8 @@
     "duration_sec": 4467,
     "words": 9945,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-good-eye-and-bad-eye.txt",
-    "elapsed_sec": 303
+    "elapsed_sec": 303,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-25-the-good-eye-and-bad-eye.md"
   },
   {
     "module": "Module 2",
@@ -545,7 +569,8 @@
     "duration_sec": 2354,
     "words": 6158,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/essence-of-gita.txt",
-    "elapsed_sec": 361
+    "elapsed_sec": 361,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-26-essence-of-gita.md"
   },
   {
     "module": "Module 2",
@@ -571,7 +596,8 @@
     "duration_sec": 4877,
     "words": 11421,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/appreciating-devotees.txt",
-    "elapsed_sec": 686
+    "elapsed_sec": 686,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-27-appreciating-devotees.md"
   },
   {
     "module": "Module 2",
@@ -591,7 +617,8 @@
     "duration_sec": 5447,
     "words": 12210,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/i-am-adventure.txt",
-    "elapsed_sec": 658
+    "elapsed_sec": 658,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-28-i-am-adventure.md"
   },
   {
     "module": "Module 2",
@@ -611,7 +638,8 @@
     "duration_sec": 2750,
     "words": 3230,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-greatest-benefit-is-derived-from-association-with-elevat.txt",
-    "elapsed_sec": 74
+    "elapsed_sec": 74,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-29-the-greatest-benefit-is-derived-from-association-with-elevat.md"
   },
   {
     "module": "Module 2",
@@ -631,7 +659,8 @@
     "duration_sec": 5586,
     "words": 10171,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/preaching-in-amazon-jungles.txt",
-    "elapsed_sec": 172
+    "elapsed_sec": 172,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-2/week-30-preaching-in-amazon-jungles.md"
   },
   {
     "module": "Module 3",
@@ -651,7 +680,8 @@
     "duration_sec": 4807,
     "words": 12030,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/glories-of-the-holy-name.txt",
-    "elapsed_sec": 198
+    "elapsed_sec": 198,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-31-glories-of-the-holy-name.md"
   },
   {
     "module": "Module 3",
@@ -677,7 +707,8 @@
     "duration_sec": 7176,
     "words": 7168,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/a-favourite-of-guru-and-gauranga-gauranga-mahaprabhus-missio.txt",
-    "elapsed_sec": 373
+    "elapsed_sec": 373,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-32-a-favourite-of-guru-and-gauranga-gauranga-mahaprabhus-missio.md"
   },
   {
     "module": "Module 3",
@@ -703,7 +734,8 @@
     "duration_sec": 5188,
     "words": 6850,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/dont-be-shy-preaching-with-compassion.txt",
-    "elapsed_sec": 11
+    "elapsed_sec": 11,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-33-dont-be-shy-preaching-with-compassion.md"
   },
   {
     "module": "Module 3",
@@ -755,7 +787,8 @@
     "duration_sec": 3971,
     "words": 5372,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/reviving-harinam-snakirtan.txt",
-    "elapsed_sec": 124
+    "elapsed_sec": 124,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-36-reviving-harinam-snakirtan.md"
   },
   {
     "module": "Module 3",
@@ -775,7 +808,8 @@
     "duration_sec": 2905,
     "words": 6332,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-miracle-of-krishna-consiousness.txt",
-    "elapsed_sec": 112
+    "elapsed_sec": 112,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-37-the-miracle-of-krishna-consiousness.md"
   },
   {
     "module": "Module 3",
@@ -801,7 +835,8 @@
     "duration_sec": 4262,
     "words": 7303,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/glories-of-snakirtan.txt",
-    "elapsed_sec": 177
+    "elapsed_sec": 177,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-38-glories-of-snakirtan.md"
   },
   {
     "module": "Module 3",
@@ -827,7 +862,8 @@
     "duration_sec": 4877,
     "words": 11421,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/appreciating-devotees-the-importance-of-sadhu-sanga.txt",
-    "elapsed_sec": 199
+    "elapsed_sec": 199,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-39-appreciating-devotees-the-importance-of-sadhu-sanga.md"
   },
   {
     "module": "Module 3",
@@ -847,7 +883,8 @@
     "duration_sec": 3655,
     "words": 8256,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/break-the-vow-of-material-enjoyment.txt",
-    "elapsed_sec": 141
+    "elapsed_sec": 141,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-40-break-the-vow-of-material-enjoyment.md"
   },
   {
     "module": "Module 3",
@@ -873,7 +910,8 @@
     "duration_sec": 1522,
     "words": 3443,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/importance-of-festivals.txt",
-    "elapsed_sec": 63
+    "elapsed_sec": 63,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-41-importance-of-festivals.md"
   },
   {
     "module": "Module 3",
@@ -893,7 +931,8 @@
     "duration_sec": 6617,
     "words": 8957,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/new-year-resolution.txt",
-    "elapsed_sec": 160
+    "elapsed_sec": 160,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-42-new-year-resolution.md"
   },
   {
     "module": "Module 3",
@@ -913,7 +952,8 @@
     "duration_sec": 3825,
     "words": 10017,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-best-thing-is-purity.txt",
-    "elapsed_sec": 151
+    "elapsed_sec": 151,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-43-the-best-thing-is-purity.md"
   },
   {
     "module": "Module 3",
@@ -939,7 +979,8 @@
     "duration_sec": 3776,
     "words": 5213,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/disciple-means-discipline.txt",
-    "elapsed_sec": 156
+    "elapsed_sec": 156,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-44-disciple-means-discipline.md"
   },
   {
     "module": "Module 3",
@@ -959,7 +1000,8 @@
     "duration_sec": 755,
     "words": 1367,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/real-happiness.txt",
-    "elapsed_sec": 54
+    "elapsed_sec": 54,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-45-real-happiness.md"
   },
   {
     "module": "Module 3",
@@ -979,7 +1021,8 @@
     "duration_sec": 5823,
     "words": 9032,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/guru-nishta.txt",
-    "elapsed_sec": 162
+    "elapsed_sec": 162,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-46-guru-nishta.md"
   },
   {
     "module": "Module 3",
@@ -999,7 +1042,8 @@
     "duration_sec": 1515,
     "words": 1819,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/service-attitude.txt",
-    "elapsed_sec": 54
+    "elapsed_sec": 54,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-47-service-attitude.md"
   },
   {
     "module": "Module 3",
@@ -1019,7 +1063,8 @@
     "duration_sec": 2027,
     "words": 5029,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.txt",
-    "elapsed_sec": 78
+    "elapsed_sec": 78,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-48-initiation-lecture-becoming-dear-to-hari-guru-and-vaisnavas.md"
   },
   {
     "module": "Module 3",
@@ -1039,7 +1084,8 @@
     "duration_sec": 3652,
     "words": 8538,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/importance-of-initation.txt",
-    "elapsed_sec": 154
+    "elapsed_sec": 154,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-49-importance-of-initation.md"
   },
   {
     "module": "Module 3",
@@ -1059,7 +1105,8 @@
     "duration_sec": 4825,
     "words": 8497,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/do-your-part.txt",
-    "elapsed_sec": 165
+    "elapsed_sec": 165,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-50-do-your-part.md"
   },
   {
     "module": "Module 3",
@@ -1079,7 +1126,8 @@
     "duration_sec": 2897,
     "words": 6630,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-essence-of-ratha-yatra.txt",
-    "elapsed_sec": 86
+    "elapsed_sec": 86,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-3/week-51-the-essence-of-ratha-yatra.md"
   },
   {
     "module": "Module 4",
@@ -1105,7 +1153,8 @@
     "duration_sec": 3208,
     "words": 4429,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-importance-of-building-temples.txt",
-    "elapsed_sec": 109
+    "elapsed_sec": 109,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-52-the-importance-of-building-temples.md"
   },
   {
     "module": "Module 4",
@@ -1131,7 +1180,8 @@
     "duration_sec": 9089,
     "words": 15457,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-sacred-abode-of-jagannath-puri.txt",
-    "elapsed_sec": 371
+    "elapsed_sec": 371,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-51-the-sacred-abode-of-jagannath-puri.md"
   },
   {
     "module": "Module 4",
@@ -1157,7 +1207,8 @@
     "duration_sec": 4180,
     "words": 9352,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/in-search-of-humility-developing-humility.txt",
-    "elapsed_sec": 159
+    "elapsed_sec": 159,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-53-in-search-of-humility-developing-humility.md"
   },
   {
     "module": "Module 4",
@@ -1177,7 +1228,8 @@
     "duration_sec": 5515,
     "words": 6747,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/chaste-to-the-mission-disciplic-succession-and-surrender.txt",
-    "elapsed_sec": 163
+    "elapsed_sec": 163,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-54-chaste-to-the-mission-disciplic-succession-and-surrender.md"
   },
   {
     "module": "Module 4",
@@ -1203,7 +1255,8 @@
     "duration_sec": 1622,
     "words": 1822,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-64-arts-of-devotional-service.txt",
-    "elapsed_sec": 53
+    "elapsed_sec": 53,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-55-the-64-arts-of-devotional-service.md"
   },
   {
     "module": "Module 4",
@@ -1229,7 +1282,8 @@
     "duration_sec": 5369,
     "words": 6099,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/there-is-no-difference-between-vrindavan-and-mayapur.txt",
-    "elapsed_sec": 187
+    "elapsed_sec": 187,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-56-there-is-no-difference-between-vrindavan-and-mayapur.md"
   },
   {
     "module": "Module 4",
@@ -1249,7 +1303,8 @@
     "duration_sec": 4346,
     "words": 7664,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/lecture-on-narottam-das-thakurs-appearance-day.txt",
-    "elapsed_sec": 100
+    "elapsed_sec": 100,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-57-lecture-on-narottam-das-thakurs-appearance-day.md"
   },
   {
     "module": "Module 4",
@@ -1275,7 +1330,8 @@
     "duration_sec": 5399,
     "words": 5821,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/lecture-the-glories-of-kartik-month.txt",
-    "elapsed_sec": 693
+    "elapsed_sec": 693,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-58-lecture-the-glories-of-kartik-month.md"
   },
   {
     "module": "Module 4",
@@ -1295,7 +1351,8 @@
     "duration_sec": 4706,
     "words": 9684,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/lecture-the-glories-of-lord-nityananda.txt",
-    "elapsed_sec": 1894
+    "elapsed_sec": 1894,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-59-lecture-the-glories-of-lord-nityananda.md"
   },
   {
     "module": "Module 4",
@@ -1315,7 +1372,8 @@
     "duration_sec": 1617,
     "words": 3726,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/lecture-lord-chaitanya-the-yoga-avatars.txt",
-    "elapsed_sec": 93
+    "elapsed_sec": 93,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-60-lecture-lord-chaitanya-the-yoga-avatars.md"
   },
   {
     "module": "Module 4",
@@ -1335,7 +1393,8 @@
     "duration_sec": 2810,
     "words": 6287,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/initiation-lecture-the-good-disciple.txt",
-    "elapsed_sec": 201
+    "elapsed_sec": 201,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-61-initiation-lecture-the-good-disciple.md"
   },
   {
     "module": "Module 4",
@@ -1361,7 +1420,8 @@
     "duration_sec": 3045,
     "words": 2751,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/initiation-lecture-the-reward-of-sincere-surrender.txt",
-    "elapsed_sec": 345
+    "elapsed_sec": 345,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-62-initiation-lecture-the-reward-of-sincere-surrender.md"
   },
   {
     "module": "Module 4",
@@ -1381,7 +1441,8 @@
     "duration_sec": 2207,
     "words": 4854,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/services-towards-guru.txt",
-    "elapsed_sec": 93
+    "elapsed_sec": 93,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-63-services-towards-guru.md"
   },
   {
     "module": "Module 4",
@@ -1401,7 +1462,8 @@
     "duration_sec": 1393,
     "words": 3885,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/sense-gratificaton-and-krishna-consciousness-go-ill-together.txt",
-    "elapsed_sec": 177
+    "elapsed_sec": 177,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-64-sense-gratificaton-and-krishna-consciousness-go-ill-together.md"
   },
   {
     "module": "Module 4",
@@ -1421,7 +1483,8 @@
     "duration_sec": 4077,
     "words": 9120,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/srictness-is-our-strength.txt",
-    "elapsed_sec": 122
+    "elapsed_sec": 122,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-65-srictness-is-our-strength.md"
   },
   {
     "module": "Module 4",
@@ -1441,7 +1504,8 @@
     "duration_sec": 8040,
     "words": 19600,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/now-or-never.txt",
-    "elapsed_sec": 2055
+    "elapsed_sec": 2055,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-66-now-or-never.md"
   },
   {
     "module": "Module 4",
@@ -1461,7 +1525,8 @@
     "duration_sec": 4381,
     "words": 9716,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/think-big.txt",
-    "elapsed_sec": 122
+    "elapsed_sec": 122,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-4/week-67-think-big.md"
   },
   {
     "module": "Module 5",
@@ -1487,7 +1552,8 @@
     "duration_sec": 3268,
     "words": 5085,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/how-to-enter-vrindavan.txt",
-    "elapsed_sec": 113
+    "elapsed_sec": 113,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-68-how-to-enter-vrindavan.md"
   },
   {
     "module": "Module 5",
@@ -1513,7 +1579,8 @@
     "duration_sec": 1795,
     "words": 3316,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/krishnas-childhood-pastimes.txt",
-    "elapsed_sec": 223
+    "elapsed_sec": 223,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-69-krishnas-childhood-pastimes.md"
   },
   {
     "module": "Module 5",
@@ -1533,7 +1600,8 @@
     "duration_sec": 5846,
     "words": 12567,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/how-to-enter-vrindavan-power-of-pilgrimage.txt",
-    "elapsed_sec": 684
+    "elapsed_sec": 684,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-70-how-to-enter-vrindavan-power-of-pilgrimage.md"
   },
   {
     "module": "Module 5",
@@ -1559,7 +1627,8 @@
     "duration_sec": 6808,
     "words": 11098,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/this-is-what-we-do-vrindavan-in-kartik.txt",
-    "elapsed_sec": 233
+    "elapsed_sec": 233,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-71-this-is-what-we-do-vrindavan-in-kartik.md"
   },
   {
     "module": "Module 5",
@@ -1585,7 +1654,8 @@
     "duration_sec": 2699,
     "words": 3165,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/fulfilling-the-mission-of-six-goswamis.txt",
-    "elapsed_sec": 89
+    "elapsed_sec": 89,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-72-fulfilling-the-mission-of-six-goswamis.md"
   },
   {
     "module": "Module 5",
@@ -1611,7 +1681,8 @@
     "duration_sec": 4885,
     "words": 10940,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-life-and-time-fo-srila-narottam-das-thakura-part-1.txt",
-    "elapsed_sec": 637
+    "elapsed_sec": 637,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-73-the-life-and-time-fo-srila-narottam-das-thakura-part-1.md"
   },
   {
     "module": "Module 5",
@@ -1637,7 +1708,8 @@
     "duration_sec": 5668,
     "words": 12158,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/the-life-and-time-fo-srila-narottam-das-thakura-part-2.txt",
-    "elapsed_sec": 227
+    "elapsed_sec": 227,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-75-the-life-and-time-fo-srila-narottam-das-thakura-part-2.md"
   },
   {
     "module": "Module 5",
@@ -1657,7 +1729,8 @@
     "duration_sec": 3831,
     "words": 7879,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/in-search-of-krishna-kartik-parikrama-day-1.txt",
-    "elapsed_sec": 169
+    "elapsed_sec": 169,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-76-in-search-of-krishna-kartik-parikrama-day-1.md"
   },
   {
     "module": "Module 5",
@@ -1677,7 +1750,8 @@
     "duration_sec": 4992,
     "words": 9902,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/one-moonlit-night.txt",
-    "elapsed_sec": 211
+    "elapsed_sec": 211,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-77-one-moonlit-night.md"
   },
   {
     "module": "Module 5",
@@ -1697,7 +1771,8 @@
     "duration_sec": 5147,
     "words": 6452,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/srimati-radharani.txt",
-    "elapsed_sec": 101
+    "elapsed_sec": 101,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-78-srimati-radharani.md"
   },
   {
     "module": "Module 5",
@@ -1717,7 +1792,8 @@
     "duration_sec": 4421,
     "words": 4999,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/bringing-the-troops-home.txt",
-    "elapsed_sec": 124
+    "elapsed_sec": 124,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-79-bringing-the-troops-home.md"
   },
   {
     "module": "Module 5",
@@ -1737,6 +1813,7 @@
     "duration_sec": 1944,
     "words": 4483,
     "transcript_path": "/Users/sree/Projects/HHIDSNotes/build/transcripts/dance-to-the-source-of-the-love.txt",
-    "elapsed_sec": 191
+    "elapsed_sec": 191,
+    "transcript_note_path": "/Users/sree/Projects/HHIDSNotes/transcripts/module-5/week-80-dance-to-the-source-of-the-love.md"
   }
 ]

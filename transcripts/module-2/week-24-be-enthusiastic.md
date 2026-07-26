@@ -1,0 +1,51 @@
+---
+title: "Be Enthusiastic"
+kind: transcript
+speaker: Indradyumna Swami
+week: 24
+module: "Module 2"
+category: "Festivals and Kirtans"
+source: "ISKCON Desire tree"
+source_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Be_Enthusiastic_-_2007-07-17_Poland.mp3"
+audio_url: "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_D_to_P/His_Holiness_Indradyumna_Swami/Various/IDS_Various_-_Be_Enthusiastic_-_2007-07-17_Poland.mp3"
+duration: "6:04"
+language: "ru"
+words: 570
+transcribed_with: whisper.cpp large-v3-turbo
+---
+
+# Be Enthusiastic — Transcript
+
+**His Holiness Indradyumna Swami** · Week 24 · 6:04
+
+> Verbatim machine transcript (whisper.cpp large-v3-turbo), kept as-is and unedited; it may contain errors and is not the speaker's exact words. Enriched note: [week-24-be-enthusiastic.md](../../notes/module-2/week-24-be-enthusiastic.md).
+
+---
+
+Нужно бороться с этой жарой, нужно поднимать голову вверх, руки вверх и быть счастливыми, и не выглядеть как на похоронах. Все идут по песку, такие усталые. И я знаю, что это только ваши тела так выглядят, а не ваши сердца, потому что ваши сердца наполнены санкиртаной, но нужно также контролировать свои чувства и свой внешний вид. Когда я впервые встретил Вишнаджану Махараджа, я спросил, вы всегда такой счастливый?
+
+И он сказал, нет, иногда у меня тоже грустно, иногда у меня плохое настроение, но я всегда выгляжу счастливым, потому что я представитель Прокупады. So we're not faking it, we really are blissful in our souls, but we do have these material bodies, and sometimes they're influenced by the modes of nature. На самом деле мы полны блаженства внутри, но также у нас есть наши материальные тела, которые нужно держать под контролем. И у нас редко выдаются такие моменты, когда мы находимся в прямом контакте с обусловленными душами и когда мы можем привести к киртану.
+
+Поэтому нужно вложить в это свое сердце и душу. Мы здесь по приказу Гуру и Гуранги. И мы здесь для того, чтобы освободить этих людей от повторения рождения и смерти. И дать им Кришну.
+
+И это всего лишь несколько месяцев, несколько недель, дней или часов, и поэтому нужно преодолеть эту жару и эту влажность. Я думаю, что даже больше, чем приглашение, приводят людей в сознание Кришны, именно счастливый вид преданных, когда они видят, что они счастливы в сознании Кришны. И на этой харинаме мы выполняем только минимум. Вы просто идете и думаете, как бы скорее это все закончилось, как вы вернетесь в автобус и возьмете там то, что у вас осталось со вчерашнего пира.
+
+У нас еще час и 45 минут, и вы должны быть блаженными, улыбаться и петь, иначе наш фестиваль будет пустой. И мы не должны считать это само собой разумеющимся, что после таких замечательных фестивалей у нас и на этом будет много людей. Не всегда бывает так. И вы должны помнить, что мы еще не делали рекламу для нашего фестиваля, который будет уже через три часа.
+
+У нас не было еще Харинан здесь. Будьте полны энтузиазма. Эти два парня еще с нами. Один парень получил книгу от Прадхладинанды Свами недавно.
+
+И он приехал сюда с семьей на отпуск. Это единственная книга, которую он привез, учение царицы Кунти. И он читал ее дома и услышал, как проходит Харинамана. И у него в уме произошла связь между этой книгой и Харинаманой воспеванием.
+
+Он выбежал и ушел рядом с нами и проповедовал. Он тоже joined Харинам партии. Мы сказали, что бы вы хотите узнать мантре? Он сказал, что я уже знаю мантре.
+
+к нам с длинными волосами. Мы спросили, вам нужна мантра? Он сказал, нет, я знаю мантра. Если вы выглядите усталыми, то они теряют интерес и уходят домой.
+
+Поэтому будьте полны энтузиазма и растопите сердца этих людей и позвольте им прийти на наш фестиваль и увидеть, каково оно сознание Кришны. So our Highlander, our Scotsman, Govinda is going to be leading the kirtan. Наш Шотландец Govinda will be leading the kirtan. And I want to see a show of hands who is going to chant and dance in ecstasy.
+
+Поднимите руки, кто будет в экстазию петь и танцевать. It's only an hour and 45 minutes more, then you can take your rest from the bus. Еще час 45, а потом будем отдыхать на полусе. Шри Харинам Санкт-Критан Ки.
+
+Шри Ра Бабхападе Ки. Смур Пиминанди.
+
+---
+_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. Machine-generated transcript and AI-generated summary — unofficial, unverified, and may contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. See [DISCLAIMER](../../DISCLAIMER.md)._
+

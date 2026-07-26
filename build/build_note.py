@@ -1,37 +1,39 @@
 #!/usr/bin/env python3
-"""Assemble a per-lecture markdown note from manifest row + transcript + an authored summary.
+"""Assemble, per lecture, TWO separate files:
+  1. an ENRICHED note   -> notes/module-N/week-XX-slug.md      (summary + key points + scriptural references, links to transcript)
+  2. a TRANSCRIPT file   -> transcripts/module-N/week-XX-slug.md (full transcript kept as-is; verbatim, no glossary edits)
 
-Summaries are authored by Claude and passed in as a JSON sidecar:
-  build/summaries/<slug>.json  ->  {"summary": "...", "key_points": ["...", ...], "language": "en"}
+Summaries are authored separately as JSON sidecars:
+  build/summaries/<slug>.json -> {"language","summary","key_points","references"[,"note"]}
 Run: build_note.py <manifest.json> <week|all>
-Only builds notes for rows that are transcribed AND have a summary sidecar (English).
-Non-English rows get a stub note (transcript kept, no summary) per the 'English only' rule.
 """
 import json, os, re, sys
-from glossary import apply_glossary
 
 ROOT = "/Users/sree/Projects/HHIDSNotes"
 NOTES = f"{ROOT}/notes"
+TXOUT = f"{ROOT}/transcripts"
 SUMDIR = f"{ROOT}/build/summaries"
 os.makedirs(SUMDIR, exist_ok=True)
 
+DISCLAIMER = (
+    "_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. "
+    "Machine-generated transcript and AI-generated summary — unofficial, unverified, and may "
+    "contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. "
+    "See [DISCLAIMER](../../DISCLAIMER.md)._")
+
 def reflow(raw):
     """whisper emits one short phrase per line; join into readable paragraphs
-    (~4 sentences each) split on sentence-ending punctuation."""
+    (~4 sentences each) WITHOUT altering words (kept as-is)."""
     text = re.sub(r"[ \t]+", " ", raw.replace("\n", " ")).strip()
-    # split into sentences, keeping the terminator
-    sentences = re.findall(r".+?(?:[.!?]+|$)", text)
-    sentences = [s.strip() for s in sentences if s.strip()]
-    # collapse whisper repetition loops: drop a sentence if identical to the
-    # previous one (case-insensitive), which removes runs like "X. X. X. X."
+    sentences = [s.strip() for s in re.findall(r".+?(?:[.!?]+|$)", text) if s.strip()]
+    # collapse pure whisper repetition loops (identical consecutive sentences) only
     deduped = []
     for s in sentences:
         if deduped and s.lower() == deduped[-1].lower():
             continue
         deduped.append(s)
-    sentences = deduped
     paras, cur = [], []
-    for s in sentences:
+    for s in deduped:
         cur.append(s)
         if len(cur) >= 4:
             paras.append(" ".join(cur)); cur = []
@@ -41,31 +43,18 @@ def reflow(raw):
 
 def secs_to_hms(s):
     if not s: return None
-    s = int(s); h, m, sec = s//3600, (s%3600)//60, s%60
+    s = int(s); h, m, sec = s // 3600, (s % 3600) // 60, s % 60
     return f"{h}:{m:02d}:{sec:02d}" if h else f"{m}:{sec:02d}"
 
 def yaml_str(s):
     if s is None: return '""'
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
 
-def build(row):
-    slug = row["slug"]
-    tf = row.get("transcript_path") or f"{ROOT}/build/transcripts/{slug}.txt"
-    raw = open(tf, encoding="utf-8", errors="replace").read().strip() if os.path.exists(tf) else ""
-    transcript = apply_glossary(reflow(raw))
-
-    sidecar = f"{SUMDIR}/{slug}.json"
-    summ = json.load(open(sidecar)) if os.path.exists(sidecar) else None
-    lang = (summ or {}).get("language") or row.get("language")
-
-    mdir = f"{NOTES}/module-{row['module_idx']}"
-    os.makedirs(mdir, exist_ok=True)
-    path = f"{mdir}/week-{int(row['week']):02d}-{slug}.md"
-
-    dur = secs_to_hms(row.get("duration_sec")) or row.get("duration_str")
-    fm = [
+def frontmatter(row, lang, words, dur, kind):
+    return [
         "---",
         f"title: {yaml_str(row['title'])}",
+        f"kind: {kind}",
         "speaker: Indradyumna Swami",
         f"week: {row['week']}",
         f"module: {yaml_str(row['module'])}",
@@ -75,58 +64,78 @@ def build(row):
         f"audio_url: {yaml_str(row.get('download_url'))}",
         f"duration: {yaml_str(dur)}",
         f"language: {yaml_str(lang)}",
-        f"words: {row.get('words', len(transcript.split()))}",
+        f"words: {words}",
         "transcribed_with: whisper.cpp large-v3-turbo",
         "---",
         "",
-        f"# {row['title']}",
-        "",
-        f"**His Holiness Indradyumna Swami** · Week {row['week']} · {row.get('category') or ''} · {dur or ''}",
-        "",
     ]
+
+def build(row):
+    slug = row["slug"]
+    tf = row.get("transcript_path") or f"{ROOT}/build/transcripts/{slug}.txt"
+    raw = open(tf, encoding="utf-8", errors="replace").read().strip() if os.path.exists(tf) else ""
+    transcript = reflow(raw)  # kept as-is: verbatim words, only wrapped into paragraphs
+
+    summ = None
+    sc = f"{SUMDIR}/{slug}.json"
+    if os.path.exists(sc):
+        summ = json.load(open(sc))
+    lang = (summ or {}).get("language") or row.get("language")
+    words = row.get("words", len(transcript.split()))
+    dur = secs_to_hms(row.get("duration_sec")) or row.get("duration_str")
+
+    stem = f"module-{row['module_idx']}/week-{int(row['week']):02d}-{slug}.md"
+    note_path = f"{NOTES}/{stem}"
+    tx_path = f"{TXOUT}/{stem}"
+    os.makedirs(os.path.dirname(note_path), exist_ok=True)
+    os.makedirs(os.path.dirname(tx_path), exist_ok=True)
+    tx_link = f"../../transcripts/{stem}"
+    note_link = f"../../notes/{stem}"
+
+    # ---------- ENRICHED NOTE (no transcript body) ----------
+    out = frontmatter(row, lang, words, dur, "enriched-note")
+    out += [f"# {row['title']}", "",
+            f"**His Holiness Indradyumna Swami** · Week {row['week']} · {row.get('category') or ''} · {dur or ''}", ""]
     if summ and summ.get("note"):
-        fm.append(f"> _Note: {summ['note'].strip()}_")
-        fm.append("")
-    body = []
+        out += [f"> _Note: {summ['note'].strip()}_", ""]
     if summ and lang == "en":
-        body.append("## Summary\n")
-        body.append(summ["summary"].strip() + "\n")
-        kp = summ.get("key_points") or []
-        if kp:
-            body.append("## Key Points\n")
-            body.extend(f"- {k}" for k in kp)
-            body.append("")
+        out += ["## Summary", "", summ["summary"].strip(), ""]
+        if summ.get("key_points"):
+            out += ["## Key Points", ""] + [f"- {k}" for k in summ["key_points"]] + [""]
         refs = summ.get("references") or []
         if refs:
-            body.append("## Scriptural References\n")
+            out += ["## Scriptural References", ""]
             for r in refs:
                 if isinstance(r, dict):
-                    ref = (r.get("reference") or r.get("ref") or r.get("citation")
-                           or r.get("scripture") or "")
+                    ref = (r.get("reference") or r.get("ref") or r.get("citation") or r.get("scripture") or "")
                     note = r.get("note") or r.get("description") or r.get("cited_for") or ""
                     line = f"{ref} — {note}" if (ref and note) else (ref or note)
                 else:
                     line = str(r)
-                body.append(f"- {line}")
-            body.append("")
+                out.append(f"- {line}")
+            out.append("")
     elif lang and lang != "en":
-        body.append(f"> **Not summarized** — detected language `{lang}` (per the English-only rule). Full transcript kept below.\n")
+        out += [f"> **Not summarized** — detected language `{lang}` (per the English-only rule). "
+                "The transcript is kept separately.", ""]
     else:
-        body.append("> _Summary pending._\n")
+        out += ["> _Summary pending._", ""]
+    out += [f"📄 **Full transcript:** [{os.path.basename(tx_path)}]({tx_link})", "",
+            "---", DISCLAIMER, ""]
+    open(note_path, "w", encoding="utf-8").write("\n".join(out) + "\n")
 
-    body.append("## Transcript\n")
-    body.append(transcript if transcript else "_(transcript unavailable)_")
-    body.append("")
-    body.append("---")
-    body.append(
-        "_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. "
-        "Machine-generated transcript and AI-generated summary — unofficial, unverified, and may "
-        "contain errors; not the speaker's verbatim words. Non-commercial devotional study use only. "
-        "See [DISCLAIMER](../../DISCLAIMER.md)._")
-    body.append("")
+    # ---------- TRANSCRIPT (kept as-is) ----------
+    tout = frontmatter(row, lang, words, dur, "transcript")
+    tout += [f"# {row['title']} — Transcript", "",
+             f"**His Holiness Indradyumna Swami** · Week {row['week']} · {dur or ''}", "",
+             f"> Verbatim machine transcript (whisper.cpp large-v3-turbo), kept as-is and unedited; "
+             f"it may contain errors and is not the speaker's exact words. "
+             f"Enriched note: [{os.path.basename(note_path)}]({note_link}).", "",
+             "---", "",
+             transcript if transcript else "_(transcript unavailable)_", "",
+             "---", DISCLAIMER, ""]
+    open(tx_path, "w", encoding="utf-8").write("\n".join(tout) + "\n")
 
-    open(path, "w", encoding="utf-8").write("\n".join(fm) + "\n" + "\n".join(body) + "\n")
-    return path, lang, bool(summ)
+    return note_path, tx_path, lang, bool(summ)
 
 def main():
     man = sys.argv[1]
@@ -137,9 +146,10 @@ def main():
             continue
         if "all" not in sel and str(row["week"]) not in sel:
             continue
-        path, lang, has_sum = build(row)
-        row["note_path"] = path
-        print(f'wk{row["week"]:>3} lang={lang} sum={"Y" if has_sum else "-"} -> {path}')
+        note_path, tx_path, lang, has_sum = build(row)
+        row["note_path"] = note_path
+        row["transcript_note_path"] = tx_path
+        print(f'wk{row["week"]:>3} lang={lang} sum={"Y" if has_sum else "-"} -> note + transcript')
     json.dump(rows, open(man, "w"), indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":

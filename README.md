@@ -12,20 +12,28 @@ Study notes for the **Pre-Initiation IDS course** — 80 lectures by **His Holin
 
 ## What's here
 
+**Enriched notes and transcripts are kept separate:**
+
 ```
-notes/module-1..5/      one markdown note per lecture (79 notes)
-build/                  the pipeline that produced them
-  ├─ manifest.json      per-lecture metadata + processing state
-  ├─ summaries/         authored summary/key-points/references (JSON, per lecture)
-  ├─ transcripts/       raw whisper transcripts (.txt, source of truth)
-  ├─ pipeline.py        download → 16k wav → whisper transcribe → language detect
-  ├─ build_note.py      assemble a note from transcript + summary
-  ├─ update_xlsx.py     write summaries into the course spreadsheet
-  ├─ glossary.py        light auto-correct of common mis-heard Sanskrit terms
+notes/module-1..5/        ENRICHED notes — summary + key points + scriptural
+                          references (+ a link to the transcript). No transcript body.
+transcripts/module-1..5/  TRANSCRIPTS — the full machine transcript for each lecture,
+                          kept as-is (verbatim; only wrapped into paragraphs).
+build/                    the pipeline that produced them
+  ├─ manifest.json        per-lecture metadata + processing state
+  ├─ summaries/           authored summary/key-points/references (JSON, per lecture)
+  ├─ transcripts/         raw whisper .txt output (source of truth for the above)
+  ├─ pipeline.py          download → 16k wav → whisper transcribe → language detect
+  ├─ build_note.py        write the enriched note + the separate transcript
+  ├─ update_xlsx.py       write summaries into the course spreadsheet
+  ├─ glossary.py          Sanskrit-term glossary (reference only; transcripts kept verbatim)
   └─ Pre-Initiation_IDS_course_modules.xlsx   the source spreadsheet with Summary column filled
 ```
 
-Each **English** note contains: YAML front-matter (title, week, module, category, source/audio URLs, duration, detected language) → **Summary** → **Key Points** → **Scriptural References** → the full reflowed **Transcript**.
+Each **English enriched note** contains: YAML front-matter (title, week, module, category,
+source/audio URLs, duration, detected language) → **Summary** → **Key Points** →
+**Scriptural References** → a link to its transcript. Every note and its transcript
+cross-link to each other.
 
 ## How it was made
 
