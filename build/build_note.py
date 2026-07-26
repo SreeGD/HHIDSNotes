@@ -13,7 +13,9 @@ ROOT = "/Users/sree/Projects/HHIDSNotes"
 NOTES = f"{ROOT}/notes"
 TXOUT = f"{ROOT}/transcripts"
 SUMDIR = f"{ROOT}/build/summaries"
+STRUCT = f"{ROOT}/build/structured"
 os.makedirs(SUMDIR, exist_ok=True)
+os.makedirs(STRUCT, exist_ok=True)
 
 DISCLAIMER = (
     "_© H.H. Indradyumna Swami / ISKCON; quoted scripture © BBT. All rights reserved. "
@@ -112,12 +114,22 @@ def build(row):
         if themes:
             out += ["**Themes:** " + " · ".join(themes), ""]
         out += ["## Summary", "", summ["summary"].strip(), ""]
-        if summ.get("key_points"):
-            out += ["## Key Points", ""] + [f"- {k}" for k in summ["key_points"]] + [""]
-        if summ.get("stories"):
-            out += ["## Notable Stories & Analogies", ""] + [f"- {s}" for s in summ["stories"]] + [""]
-        if summ.get("quotes"):
-            out += ["## Memorable Quotes", ""] + [f"> “{q.strip().strip(chr(8220)+chr(8221)+chr(34))}”" for q in summ["quotes"]] + [""]
+        # Structured notes body: full sectioned walkthrough of the lecture
+        # (all content, scriptural references inline). Written per-lecture to
+        # build/structured/<slug>.md by the enrichment agents.
+        sf = f"{STRUCT}/{slug}.md"
+        body_md = open(sf, encoding="utf-8", errors="replace").read().strip() if os.path.exists(sf) else ""
+        if body_md:
+            # full structured walkthrough (references inline)
+            out += [body_md, ""]
+        else:
+            # fallback until the structured notes for this lecture are generated
+            if summ.get("key_points"):
+                out += ["## Key Points", ""] + [f"- {k}" for k in summ["key_points"]] + [""]
+            if summ.get("stories"):
+                out += ["## Notable Stories & Analogies", ""] + [f"- {s}" for s in summ["stories"]] + [""]
+            if summ.get("quotes"):
+                out += ["## Memorable Quotes", ""] + [f"> “{str(q).strip().strip(chr(8220)+chr(8221)+chr(34))}”" for q in summ["quotes"]] + [""]
         refs = summ.get("references") or []
         if refs:
             out += ["## Scriptural References", ""]
