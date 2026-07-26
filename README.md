@@ -39,6 +39,8 @@ its transcript cross-link to each other.
 
 ## Lecture Index
 
+> 🔎 Prefer to browse by topic? See the **[Thematic Index](THEMES.md)** — every theme mapped to its lectures.
+
 All **79 lectures** across 5 modules — **65 English** (fully enriched), **12 non-English** (transcript only, flagged), **2 placeholders** (awaiting audio URL). Each row links to the enriched **Note** and the **Transcript**.
 
 ### Module 1
